@@ -6,6 +6,26 @@ body {
     overflow-x: hidden;
 }
 
+/* TODO: Tirar dúvidas sobre classes simples (globais) */
+h1 {
+    font-size: 2.5em;
+    color: #DB1F48;
+}
+
+p {
+    font-size: 1.9em;
+}
+
+.flex {
+    display: flex;
+}
+
+.color-blue {
+    color: #004369;
+}
+
+/* ------------------------- */
+
 .content-header {
     height: 5em;
     background-color: #004369;
@@ -17,16 +37,7 @@ body {
 
 .box-content {
     width: 60%;
-    margin: 0 auto;
-}
-
-h1 {
-    font-size: 2.5em;
-    color: #DB1F48;
-}
-
-p {
-    font-size: 1.9em;
+    margin: 2em auto;
 }
 
 .box-icon {
@@ -35,10 +46,11 @@ p {
 }
 
 .box-icon p {
-    font-size: 1.5em;
+    font-size: 1.4em;
+    margin: 0.3em 0;
 }
 
-.success-icon {
+.big-icon {
     height: 2em;
     margin: 0 1.8em;
 }
@@ -46,11 +58,8 @@ p {
 .about {
     background-color: #004369;
     color: white;
-}
-
-.content-about {
-    width: 60%;
-    margin: 0 auto;
+    padding: 1.5em;
+    margin: 2em 0;
 }
 
 .box-about {
@@ -59,11 +68,7 @@ p {
     justify-content: center;
 }
 
-.box-image {
-    width: 48%;
-}
-
-/* TODO: Tirar dúvidas sobre imagem */
+/* TODO: Tirar dúvidas sobre tamanhos de imagem */
 .image-about {
     max-width: 360px;
     max-height: 280px;
@@ -78,7 +83,7 @@ p {
     font-size: 1.5em;
 }
 
-.back-white {
+.card-back-white {
     background-color: white;
     color: black;
     border-radius: 1.8em;
@@ -96,7 +101,7 @@ p {
     margin: 1em 3em;
 }
 
-.success-icon-small {
-    height: 1em;
+.icon-small {
+    height: 1.2em;
     margin: 0 1.3em;
 }
