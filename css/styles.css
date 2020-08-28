@@ -3,6 +3,7 @@ body {
     padding: 0;
     margin: 0;
     height: 100%;
+    overflow-x: hidden;
 }
 
 .content-header {
@@ -62,9 +63,12 @@ p {
     width: 48%;
 }
 
+/* TODO: Tirar dúvidas sobre imagem */
 .image-about {
-    max-width: 370px;
-    min-height: 330px;
+    max-width: 360px;
+    max-height: 280px;
+    width: auto;
+    height: auto;
     margin: 1em;
 }
 
@@ -79,4 +83,20 @@ p {
     color: black;
     border-radius: 1.8em;
     padding: 1em;
+    margin: 2em 0;
+}
+
+.box-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 15%;
+    margin: 1em 3em;
+}
+
+.success-icon-small {
+    height: 1em;
+    margin: 0 1.3em;
 }
