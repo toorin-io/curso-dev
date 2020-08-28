@@ -26,3 +26,17 @@ h1 {
 p {
     font-size: 1.9em;
 }
+
+.box-icon {
+    display: flex;
+    align-items: center;
+}
+
+.box-icon p {
+    font-size: 1.5em;
+}
+
+.success-icon {
+    height: 2em;
+    margin: 0 2em;
+}
