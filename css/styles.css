@@ -26,13 +26,21 @@ p {
 
 /* ------------------------- */
 
-.content-header {
+/* .content-header {
     height: 5em;
     background-color: #004369;
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
+} */
+
+.label-header {
+    background-color: #004369;
+    padding: 1.8em;
+    color: white;
+    text-align: center;
+    margin: 0;
 }
 
 .box-content {
@@ -58,7 +66,7 @@ p {
 .about {
     background-color: #004369;
     color: white;
-    padding: 1.5em;
+    padding: 2em 20%;
     margin: 2em 0;
 }
 
@@ -91,14 +99,14 @@ p {
     margin: 2em 0;
 }
 
-.box-logo {
+/* .box-logo {
     display: flex;
     justify-content: center;
-}
+} */
 
 .logo {
-    width: 15%;
-    margin: 1em 3em;
+    width: 20%;
+    margin: 1em 6%;
 }
 
 .icon-small {
