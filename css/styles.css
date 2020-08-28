@@ -13,7 +13,7 @@ body {
     color: white;
 }
 
-.content-main {
+.box-content {
     width: 60%;
     margin: 0 auto;
 }
@@ -39,4 +39,8 @@ p {
 .success-icon {
     height: 2em;
     margin: 0 2em;
+}
+
+.about {
+    background-color: #004369;
 }
