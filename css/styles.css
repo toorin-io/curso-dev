@@ -2,6 +2,7 @@ html,
 body {
     padding: 0;
     margin: 0;
+    height: 100%;
 }
 
 .content-header {
@@ -38,7 +39,7 @@ p {
 
 .success-icon {
     height: 2em;
-    margin: 0 2em;
+    margin: 0 1.8em;
 }
 
 .about {
@@ -46,11 +47,15 @@ p {
     color: white;
 }
 
-.box-about {
+.content-about {
     width: 60%;
     margin: 0 auto;
+}
+
+.box-about {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .box-image {
@@ -58,7 +63,13 @@ p {
 }
 
 .image-about {
-   max-width: 380px;
-   min-height: 350px;
-   margin-left: 2em;
+    max-width: 380px;
+    min-height: 350px;
+    margin: 1em;
+}
+
+.text-image{
+    text-align: center;
+    margin-top: -0.5em;
+    font-size: 1.5em;
 }
