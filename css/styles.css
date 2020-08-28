@@ -63,13 +63,20 @@ p {
 }
 
 .image-about {
-    max-width: 380px;
-    min-height: 350px;
+    max-width: 370px;
+    min-height: 330px;
     margin: 1em;
 }
 
-.text-image{
+.text-image {
     text-align: center;
     margin-top: -0.5em;
     font-size: 1.5em;
+}
+
+.back-white {
+    background-color: white;
+    color: black;
+    border-radius: 1.8em;
+    padding: 1em;
 }
