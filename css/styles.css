@@ -43,4 +43,22 @@ p {
 
 .about {
     background-color: #004369;
+    color: white;
+}
+
+.box-about {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.box-image {
+    width: 48%;
+}
+
+.image-about {
+   max-width: 380px;
+   min-height: 350px;
+   margin-left: 2em;
 }
