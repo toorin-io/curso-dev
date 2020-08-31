@@ -4,6 +4,7 @@ body {
     margin: 0;
     height: 100%;
     overflow-x: hidden;
+    font-family: ABeeZee, sans-serif;
 }
 
 h1 {
@@ -159,9 +160,6 @@ p {
     margin: 0 auto;
 }
 
-
-/* ---------------------- */
-
 .questions-content div {
     margin-bottom: 2em;
 }
@@ -227,6 +225,7 @@ input[type='checkbox'] {
     border-radius: 2em;
     text-align: center;
 }
+
 .sale-card .box-column {
     width: 70%;
     margin: 0 auto;
@@ -269,6 +268,7 @@ input[type='checkbox'] {
 }
 
 .sale-header h1 {
+    font-size: 3em;
     color: white;
     margin: 1em 0 0 0;
 }
@@ -292,6 +292,8 @@ input[type='checkbox'] {
     color: white;
     background: #004369;
     font-size: 2em;
+    border: none;
+    outline: none;
 }
 
 .date {
@@ -299,9 +301,69 @@ input[type='checkbox'] {
 }
 
 .date p {
-    flex-direction: column;
     width: 33%;
-    background: red;
+    background: #F3F3F3;
     border-radius: 3em;
+    color: #004369;
+    padding: 1.2em 0;
+}
 
+.buy-content img {
+    height: 3em;
+}
+
+.buy-content .logo {
+    height: 4em;
+    width: auto;
+}
+
+.buy-info {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
+
+.footer {
+    margin: 4em 0 0;
+    background-color: #004369;
+}
+
+.footer-content {
+    margin: 0 auto;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    padding: 2em 0;
+}
+
+.footer-content div {
+    width: 50%;
+}
+
+.footer-content .big-icon {
+    height: 3em;
+    margin: 0.8em;
+}
+
+.footer-content h2 {
+    color: #DB1F48;
+    font-size: 2.5em;
+}
+
+.footer-content p {
+    color: white;
+    font-size: 1.4em;
+}
+
+.footer-content :nth-child(4) {
+    color: #DB1F48;
+}
+
+.footer-content :nth-child(5) {
+    color: #DB1F48;
+}
+
+.footer-content .image-about {
+    border-radius: 1.5em;
 }
