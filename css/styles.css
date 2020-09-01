@@ -236,7 +236,8 @@ input[type='checkbox'] {
     border-bottom: 4px dotted #004369;
 }
 
-.sale-card .box-column :nth-child(9) {
+
+.sale-card .box-column:last-child{
     border: none;
 }
 
