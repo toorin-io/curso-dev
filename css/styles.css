@@ -1,19 +1,15 @@
 html,
 body {
-    padding: 0;
-    margin: 0;
-    height: 100%;
-    overflow-x: hidden;
     font-family: ABeeZee, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 
 h1 {
     font-size: 2.5em;
     color: #DB1F48;
-}
-
-p {
-    font-size: 1.9em;
 }
 
 .label-header {
@@ -27,6 +23,10 @@ p {
 .box-content {
     width: 60%;
     margin: 2em auto;
+}
+
+.box-content p {
+    font-size: 1.9em;
 }
 
 .box-column {
@@ -65,6 +65,10 @@ p {
 .item-about {
     width: 50%;
     height: auto;
+}
+
+.item-about p {
+    font-size: 1.9em;
 }
 
 .image-about {
@@ -217,7 +221,6 @@ input[type='checkbox'] {
     font-size: 0.8em;
 }
 
-
 .sale-card {
     width: 60%;
     margin: 7em auto;
@@ -233,7 +236,7 @@ input[type='checkbox'] {
     border-bottom: 4px dotted #004369;
 }
 
-.sale-card .box-column:nth-child(9) {
+.sale-card .box-column :nth-child(9) {
     border: none;
 }
 
@@ -308,13 +311,8 @@ input[type='checkbox'] {
     padding: 1.2em 0;
 }
 
-.buy-content img {
-    height: 3em;
-}
-
-.buy-content .logo {
+.cards-logo {
     height: 4em;
-    width: auto;
 }
 
 .buy-info {
@@ -324,8 +322,12 @@ input[type='checkbox'] {
     font-size: 0.8em;
 }
 
+.buy-info-icon {
+    height: 3em;
+}
+
 .footer {
-    margin: 4em 0 0;
+    margin: 4em 0 0 0;
     background-color: #004369;
 }
 
@@ -337,11 +339,7 @@ input[type='checkbox'] {
     padding: 2em 0;
 }
 
-.footer-content div {
-    width: 50%;
-}
-
-.footer-content .big-icon {
+.icon-footer {
     height: 3em;
     margin: 0.8em;
 }
@@ -356,14 +354,13 @@ input[type='checkbox'] {
     font-size: 1.4em;
 }
 
-.footer-content :nth-child(4) {
+.footer-content :nth-child(n+4) {
     color: #DB1F48;
 }
 
-.footer-content :nth-child(5) {
-    color: #DB1F48;
-}
-
-.footer-content .image-about {
+.image-footer {
+    width: 50%;
     border-radius: 1.5em;
 }
+
+/* 378 */
