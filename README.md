@@ -1,5 +1,13 @@
 # developerSolution
 
+# Nossa estrutura:
+
+criei o arquivo [mapadosite.html] para facilitar a navegação entre as páginas criadas para nosso funil.
+
+
+
+# Páginas do funil do Vini usadas como exemplo:
+
 Ads jogam para página de captura de contato:    https://imersao.digital/aula-maio-2020-archived/
 Com form preenchido,  cai nessa página de obrigado https://imersao.digital/obrigado-aula-maio-2020-archived/ e recebe link por email e remarketing para ver o video.
 A página com o vídeo tem um cta simples aqui para o cara receber contato: https://imersao.digital/aula-liberada-maio-2020-archived/
