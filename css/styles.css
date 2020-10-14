@@ -191,9 +191,24 @@ h1 {
 }
 
 .video {
-    margin: 2em 0 5em;
+    margin: 2em 0 3em;
     /* border: 5px solid #D83A4E; */
     border-radius: 10px;
+}
+
+.cta {
+    background: #D83A4E;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 100%;
+    margin: 0 auto 1.5em;
+    font-size: 1.5em;
+    display: block;
+    text-align: center;
+    padding: 0.8em 0;
+    font-weight: 600;
 }
 
 .big-title {
