@@ -71,7 +71,7 @@ h1 {
 
 .selling-points {
     background: #333B46;
-    padding: 3em 0;
+    padding: 2em 0;
     color: #FFFFFF;
 }
 
@@ -90,7 +90,14 @@ h1 {
 
 .selling-text span {
     display: block;
-    margin: 0 0 0.5em;
+    margin: 1em 0;
+}
+
+.selling-text strong {
+    color: #D83A4E;
+    display: block;
+    margin: 0.8em 0 0.5em;
+    font-size: 1.5em;
 }
 
 .selling-icon {
@@ -177,7 +184,22 @@ h1 {
     margin: 1em 0 0;
 }
 
+.header {
+    margin-top: 2em;
+    margin-bottom: 4em;
+    text-align: center;
+}
 
+.video {
+    margin: 2em 0 5em;
+    /* border: 5px solid #D83A4E; */
+    border-radius: 10px;
+}
+
+.big-title {
+    font-size: 4em;
+    margin-top: 1em;
+}
 
 
 
