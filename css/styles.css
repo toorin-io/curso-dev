@@ -47,7 +47,7 @@ body {
 }
 
 .presentation {
-    padding: 4em 35% 4em 0;
+    padding: 4em 30% 4em 0;
     background: url(../images/pedromarins-header.jpg) right bottom no-repeat;
 }
 
@@ -218,8 +218,11 @@ h1 {
 
 
 
-
-
+@media only screen and (max-width: 1200px) {
+    .presentation {
+        padding: 4em 35% 4em 0;
+    }
+}
 
 @media only screen and (max-width: 1024px) {
     .presentation {
