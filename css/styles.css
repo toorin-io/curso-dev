@@ -15,6 +15,10 @@ body {
     height: 100%;
 }
 
+body.mentoria {
+    padding: 0;
+}
+
 .top-stripe {
     position: absolute;
     top: 0;
@@ -38,6 +42,20 @@ body {
     bottom: -10px;
     position: absolute;
     width: 100%;
+}
+
+.top-warning {
+    width: 100%;
+    padding: 1em 0;
+    background: #333B46;
+    border-bottom: solid 5px #85FFF1;
+}
+
+.top-warning p {
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.2em;
 }
 
 .content {
@@ -223,6 +241,19 @@ h1 {
 .big-title {
     font-size: 4em;
     margin-top: 1em;
+}
+
+.success-list {
+    padding: 0;
+    list-style: none;
+}
+
+.success-list img {
+    width: 30px;
+}
+
+.success-list p {
+    display: inline-block;
 }
 
 
