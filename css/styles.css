@@ -12,7 +12,8 @@ body {
 body {
     padding: 45px 0 0;
     position: relative;
-    height: 100%;
+    min-height: 100%;
+    box-sizing: border-box;
 }
 
 body.mentoria {
@@ -34,6 +35,8 @@ body.mentoria {
     border-bottom: solid 5px #85FFF1;
     margin: -1px 0 5px;
     position: relative;
+    /* bottom: 0; */
+    width: 100%;
 }
 
 .bottom-stripe::after{
@@ -236,6 +239,10 @@ h1 {
     text-align: center;
     padding: 0.8em 0;
     font-weight: 600;
+}
+
+#cta-aula {
+    display: none;
 }
 
 .big-title {
