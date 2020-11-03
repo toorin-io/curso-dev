@@ -18,6 +18,8 @@ body {
 
 body.mentoria {
     padding: 0;
+    font-size: 1.4em;
+    line-height: 1.5;
 }
 
 .top-stripe {
@@ -52,6 +54,8 @@ body.mentoria {
     padding: 1em 0;
     background: #333B46;
     border-bottom: solid 5px #85FFF1;
+    font-size: 0.9em;
+    margin: 0 0 2em;
 }
 
 .top-warning p {
@@ -150,7 +154,7 @@ h1 {
     float: right;
     border-radius: 50%;
     width: 250px;
-    box-shadow: 0px 0px 10px 0px #CCC;
+    box-shadow: 0 0 10px 0 #CCC;
     margin: 0 0 0 1.5em;
 }
 
@@ -213,9 +217,9 @@ h1 {
 
 .video {
     margin: 2em 0 3em;
-    padding: 0px 0px 0px 0px;
+    padding: 0;
     border-radius: 30px 30px 30px 30px;
-    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px 0 #333B46;
     overflow: hidden;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
@@ -223,7 +227,7 @@ h1 {
 }
 
 .video iframe {
-    transform: scale(1.02);
+    margin: 0 0 -10px;
 }
 
 .cta {
@@ -250,6 +254,18 @@ h1 {
     margin-top: 1em;
 }
 
+/* -------------------------------------------------------------------------------- mentoria */
+.mentoria-title {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #D83A4E;
+    margin: 1.7em 0 0;
+}
+
+.mentoria p {
+    margin: 1.2em 0;
+}
+
 .success-list {
     padding: 0;
     list-style: none;
@@ -264,6 +280,10 @@ h1 {
     margin: 0 20px 0 0;
 }
 
+.success-list p {
+    margin: 0.8em 0;
+}
+
 .about {
     background: #333B46;
     color: #FFFFFF;
@@ -273,11 +293,19 @@ h1 {
     width: 100%;
 }
 
+.about-card {
+    background: #FFFFFF;
+    padding: 2em;
+    border-radius: 30px;
+    color: #333B46
+}
+
 .about-img {
     border-radius: 50%;
     width: 30%;
     float: right;
     margin: 0 0 0 40px;
+    box-shadow: 0 0 10px #333B46;
 }
 
 .calendar {
@@ -291,7 +319,7 @@ h1 {
 
 .faq {
     background: #F3F3F3;
-    padding: 4em 0;
+    padding: 2em 0 4em;
     margin: 2em 0;
 }
 
@@ -316,21 +344,18 @@ h1 {
 .sale-header .title {
     color: #FFFFFF;
     font-size: 3em;
+    text-transform: uppercase;
 }
 
-.sale-price-old {
+p.sale-price-old {
     font-size: 1.5em;
     margin: 1em 0 0;
 }
                 
-.sale-price {
+p.sale-price {
     font-size: 3.5em;
     margin: 0.2em;
     font-weight: 600;
-}
-                
-.sale-list {
-
 }
 
 .sale-list li {
@@ -341,6 +366,74 @@ h1 {
 .sale-list img {
     width: 30px;
     margin: 0 30px 0 0;
+}
+
+.collapsible {
+    background: #FFFFFF;
+    box-shadow: 0 0 10px 1px #DDDDDD;
+    margin: 2em 0 0;
+    padding: 1.5em 1em;
+    display: block;
+    cursor: pointer;
+}
+
+.collapsible input {
+    display: none;
+}
+
+.collapsible span {
+    font-weight: 400;
+    color: #D83A4E;
+    font-size: 1.2em;
+}
+
+.collapsible p {
+    height: 1px;
+    opacity: 0;
+    margin: 0;
+    transition: 400ms;
+}
+
+.collapsible input:checked + p {
+    height: auto;
+    opacity: 1;
+    margin: 1.5em 0 0.5em;
+}
+
+.mentoria-footer {
+    margin: 4em 0 0;
+    padding: 2em 0 0;
+    background: #333B46;
+    color: #FFFFFF;
+}
+
+.mentoria-footer a {
+    color: #FFFFFF;
+}
+
+.how-to .cta {
+    margin: 2em auto 0;
+
+}
+
+.contact {
+    padding: 0;
+    margin: 2em 0 0;
+}
+
+.contact li {
+    list-style: none;
+    display:inline-block;
+    margin: 0 1em;
+}
+
+.contact img {
+    width: 40px;
+}
+
+.image-footer {
+    width: 35%;
+    margin: 0 0 0 4%;
 }
 
 
@@ -369,7 +462,7 @@ h1 {
     }
 
     .video {
-        margin: 0 2em 3em;
+        margin: 0 1em 3em;
     }
 
     .cta {
@@ -378,6 +471,10 @@ h1 {
 }
 
 @media only screen and (max-width: 768px) {
+    .content {
+        margin: 0 3%;
+    }
+
     .presentation {
         background: #FFFFFF;
     }
@@ -418,6 +515,20 @@ h1 {
 
     .video iframe {
         height: 210px;
+    }
+
+    body.mentoria {
+        font-size: 1em;
+    }
+
+    p.sale-price {
+        font-size: 3em;
+    }
+
+    .about-img {
+        float: initial;
+        width: 100%;
+        margin: 0;
     }
 }
 /* 
