@@ -72,8 +72,15 @@ body.mentoria {
 }
 
 .presentation {
-    padding: 4em 30% 4em 0;
+    padding: 1em 40% 4em 0;
     background: url(../images/pedromarins-header.jpg) right bottom no-repeat;
+}
+
+.page-title {
+    margin: 1.2em 0 0.5em;
+    font-size: 3em;
+    color: #D83A4E;
+    text-align: center;
 }
 
 h1 {
@@ -188,8 +195,8 @@ h1 {
     margin: 0.5em 0 0;
     box-sizing: border-box;
     width: 100%;
-    padding: 20px 8px;
-    font-size: 1.2rem;
+    padding: 1em 8px;
+    font-size: 1em;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -457,7 +464,7 @@ p.sale-price {
 
 @media only screen and (max-width: 1024px) {
     .presentation {
-        padding: 4em 2em;
+        padding: 1em 2em 4em;
         background: none;
     }
 
@@ -505,7 +512,13 @@ p.sale-price {
 }
 
 @media only screen and (max-width: 600px) {
-    h1 {
+    .page-title {
+        text-align: left;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    h1, .page-title {
         font-size: 2em;
     }
 
