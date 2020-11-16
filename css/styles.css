@@ -430,8 +430,34 @@ p.sale-price {
     color: #FFFFFF;
 }
 
+.how-to {
+    text-align: center;
+}
+
+.how-to--list {
+    text-align: left;
+    column-count: 4;
+    padding: 0 1em;
+}
+
+.how-to--list li {
+    list-style: none;
+    font-size: 0.7em;
+    display: flex;
+}
+
+.how-to--list strong {
+    display: block;   
+}
+
+.how-to--list img {
+    align-self: center;
+    width: 20px;
+    margin-right: 20px;
+}
+
 .how-to .cta {
-    margin: 2em auto 0;
+    margin: 0 auto 0.5em;
 
 }
 
@@ -454,6 +480,8 @@ p.sale-price {
     width: 35%;
     margin: 0 0 0 4%;
 }
+
+
 
 
 @media only screen and (max-width: 1200px) {
@@ -487,6 +515,18 @@ p.sale-price {
     .cta {
         width: 90%;
     }
+
+    .how-to--list {
+        column-count: 2;
+    }
+
+    .how-to--list li {
+        font-size: 1em;
+    }
+
+    .how-to--list img {
+        width: 30px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -508,6 +548,10 @@ p.sale-price {
 
     .video iframe {
         height: 420px;
+    }
+
+    .how-to--list {
+        column-count: 1;
     }
 }
 
