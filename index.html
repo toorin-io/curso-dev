@@ -373,6 +373,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p>Nesta conversa, vou avaliar se você é a pessoa certa para participar desta mentoria e se eu sou a pessoa certa para te guiar.</p>
 
                 <a class="cta" href="contato.html">Quero participar da mentoria</a>
+
+                <ul class="countdown">
+                    <li><span id="days">00</span> dias</li>
+                    <li><span id="hours">00</span> horas</li>
+                    <li><span id="minutes">00</span> minutos</li>
+                    <li><span id="seconds">00</span> segundos</li>
+                </ul>
             </div>
         </section>
     </main>
@@ -400,6 +407,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     })(window,document,'script','https://mkt.henriqueandrade.com.br/mtc.js','mt');
 
     mt('send', 'pageview');
+</script>
+
+<script>
+    function startTimer(duration) {
+        var timer = duration, days, hours, minutes, seconds;
+        setInterval(function () {
+            days = Math.floor(timer / 86400);
+            hours = Math.floor(timer / 3600) % 24;
+            minutes = Math.floor(timer / 60) % 60;
+            seconds = timer % 60;
+
+            days = days < 10 ? "0" + days : days;
+            hours = hours < 10 ? "0" + hours : hours;
+            minutes = minutes < 10 ? "0" + minutes : minutes;
+            seconds = seconds < 10 ? "0" + seconds : seconds;
+
+            document.querySelector('#days').textContent = days;
+            document.querySelector('#hours').textContent = hours;
+            document.querySelector('#minutes').textContent = minutes;
+            document.querySelector('#seconds').textContent = seconds;
+
+            if (--timer < 0) {
+                timer = duration;
+            }
+        }, 1000);
+    }
+
+    window.onload = function () {
+        var end = new Date(2020, 10, 20, 23, 59, 59);
+        var now = new Date()
+        var fiveMinutes = Math.round(Math.abs(end - now) / 1000);
+
+        startTimer(fiveMinutes);
+    };
 </script>
     
     </body>
