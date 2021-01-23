@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+	<title>Parabéns por se inscrever para receber novos materiais!</title>
+
+<?php
+include("chunks/head/google.php");
+include("chunks/head/facebook.php");
+include("chunks/head/meta-mentoria.php");
+?> 
+    
+    </head>
+
+<body>
+    
+<?php
+include("chunks/body/google.php");
+?>
+
+	<header class="content header">
+		<h1>Siga os 3 passos abaixo para garantir que você terá acesso aos próximos conteúdos gratuitos!</h1>
+	</header>
+
+
+	<section class="selling-points">
+		<div class="content">
+            <p class="selling-text">
+				<strong>Passo 1</strong>
+				Entre no canal do Telegram!
+				<span>
+					<a target="_blank" href="telegram.php"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
+				</span>
+			</p>
+			<p class="selling-text">
+				<strong>Passo 2</strong>
+				Me siga lá no Instagram!
+				<span>
+					<a target="_blank" href="instagram.php"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
+				</span>
+			</p>
+			<p class="selling-text">
+				<strong>Passo 3</strong>
+				Me avise pelo WhatsApp!
+				<span>
+					<a target="_blank" href="whatsapp-aviso.php"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+				</span>
+			</p>        
+		</div>
+	</section>
+
+<?php
+include("chunks/body/top-stripe.php");
+include("chunks/body/bottom-stripe.php");
+include("chunks/body/mautic-pixel.php");
+?>
+    
+    </body>
+
+</html>

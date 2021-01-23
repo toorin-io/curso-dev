@@ -2,7 +2,7 @@
 
 # Nossa estrutura:
 
-criei o arquivo [mapadosite.html] para facilitar a navegação entre as páginas criadas para nosso funil.
+criei o arquivo [mapadosite.php] para facilitar a navegação entre as páginas criadas para nosso funil.
 
 
 
