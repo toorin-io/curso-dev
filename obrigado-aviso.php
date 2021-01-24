@@ -29,21 +29,21 @@ include("chunks/body/google.php");
 				<strong>Passo 1</strong>
 				Entre no canal do Telegram!
 				<span>
-					<a target="_blank" href="telegram.php"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
+					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
 				</span>
 			</p>
 			<p class="selling-text">
 				<strong>Passo 2</strong>
 				Me siga lá no Instagram!
 				<span>
-					<a target="_blank" href="instagram.php"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
+					<a target="_blank" href="instagram"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
 				</span>
 			</p>
 			<p class="selling-text">
 				<strong>Passo 3</strong>
 				Me avise pelo WhatsApp!
 				<span>
-					<a target="_blank" href="whatsapp-aviso.php"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+					<a target="_blank" href="whatsapp-aviso"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
 				</span>
 			</p>        
 		</div>

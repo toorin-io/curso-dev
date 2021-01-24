@@ -38,7 +38,7 @@ include("chunks/body/google.php");
             <p>FICOU COM ALGUMA DÚVIDA?</p>
             <p>Entre em contato comigo, ficarei feliz de responder a todas suas perguntas.</p>
             <ul class="contact">
-                <li><a href="whatsappDireto.php"><img class="icon-footer" src="images/icons/whatsapp.svg" alt="WhatsApp"></a></li>
+                <li><a href="whatsapp-direto"><img class="icon-footer" src="images/icons/whatsapp.svg" alt="WhatsApp"></a></li>
                 <li><a href="mailto:conquistesuavaga@pedromarins.com"><img class="icon-footer" src="images/icons/mail.svg" alt="Email"></a></li>
             </ul>
         </div>
