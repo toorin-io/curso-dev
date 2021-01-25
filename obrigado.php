@@ -35,14 +35,14 @@ include("chunks/body/google.php");
 				<strong>Passo 1</strong>
 				Peça a aula pelo WhatsApp!
 				<span>
-					<a target="_blank" href="whatsapp-aula.php"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+					<a target="_blank" href="whatsapp-aula"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
 				</span>
 			</p>
 			<p class="selling-text">
 				<strong>Passo 2</strong>
 				Me siga lá no Instagram!
 				<span>
-					<a target="_blank" href="instagram.php"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
+					<a target="_blank" href="instagram"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
 				</span>
 			</p>
 		</div>

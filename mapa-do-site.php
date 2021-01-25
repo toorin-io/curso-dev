@@ -7,6 +7,8 @@
 
 <body>
 
+<h2>Páginas de conteúdo</h2>
+
 <a href="3-passos.php">3-passos</a> - Página de caputura
 <br><br>
 <a href="obrigado.php">obrigado</a> - Agradecimento por querer ver a aula
