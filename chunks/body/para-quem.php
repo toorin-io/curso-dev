@@ -50,13 +50,5 @@
                         <p>Para quem espera colher sem antes plantar.</p>
                     </li>
                 </ul>
-
-                <div class="calendar">
-                    <h2 class="mentoria-title">CALENDÁRIO DAS AULAS AO VIVO</h2>
-                    <p>Aula 1 - 10 de fevereiro - Quinta - 19:00 (horário de Brasília)</p>
-                    <p>Aula 2 - 17 de fevereiro - Quinta - 19:00 (horário de Brasília)</p>
-                    <p>Aula 3 - 24 de fevereiro - Quinta - 19:00 (horário de Brasília)</p>
-                    <p>Aula 4 - 03 de março - Quinta - 19:00 (horário de Brasília)</p>
-                </div>
             </div>
         </section>   

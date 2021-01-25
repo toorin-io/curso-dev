@@ -323,18 +323,62 @@ h1 {
 }
 
 .calendar {
-    margin: 4em 0;
+    background: #333B46;    
+    margin: 4em 0 0;
+    padding: 2em;
+}
+
+.calendar-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin: 1.7em 0 0;
 }
 
 .calendar p {
-    font-size: 1.2em;
-    font-weight: 600;
+    font-size: 1em;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.testimonials {
+    padding: 2em 0 3em;
+}
+
+.testimonials-title {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #D83A4E;
+    margin: 1.7em 0 0.5em;
+}
+
+.testimonials-content {
+    display: flex;
+}
+
+.testimonial {
+    margin: 0 0;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.testimonial:first-child {
+    margin-right: 30px;
+}
+
+.testimonial .video {
+    margin: 0.5em 0;
+}
+
+.testimonial a {
+    text-decoration: none;
+    color: #333B46;
 }
 
 .faq {
     background: #F3F3F3;
     padding: 2em 0 4em;
-    margin: 2em 0;
+    margin: 0 0 2em;
 }
 
 .sale {
@@ -599,6 +643,14 @@ p.sale-price {
     .how-to--list {
         column-count: 1;
     }
+
+    .testimonials-content {
+        flex-direction: column;
+    }
+
+    .testimonial, .testimonial:first-child {
+        margin: 0 70px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -650,6 +702,10 @@ p.sale-price {
         width: 24%;
         font-size: 0.9em;
         margin: 0 3px;
+    }
+
+    .testimonial, .testimonial:first-child {
+        margin: 0 30px;
     }
 }
 /* 
