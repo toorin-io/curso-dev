@@ -3,7 +3,7 @@
 <head>
   <title>Conquiste Sua Vaga! Contato pelo WhastApp</title>
 
-    <!-- <meta http-equiv="refresh" content="1; url = 'https://api.whatsapp.com/send?phone=5521998407035" /> -->
+    <meta http-equiv="refresh" content="1; url = 'https://api.whatsapp.com/send?phone=5521998407035" />
 
 <?php
 include("chunks/head/google.php");

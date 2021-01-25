@@ -16,16 +16,17 @@ include("chunks/head/meta.php");
 
 </head>
 
-<body>
-    
+<body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
   <p>Você está sendo redirecionado para o Youtube!</p>
 
   <p>Caso a página não carregue automaticamente, <a href="https://www.youtube.com/watch?v=N4PgDIjSvKg">clique aqui para acessar</a>!</p>
 
+</div>
  <?php
 include("chunks/body/mautic-pixel.php");
 ?> 

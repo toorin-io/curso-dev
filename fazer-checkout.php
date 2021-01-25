@@ -14,16 +14,16 @@ include("chunks/head/meta.php");
  
     </head>
 
-<body>
-    
+    <body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
   <p>Você está sendo redirecionado para a página da Eduzz!</p>
 
   <p>Caso a página não carregue automaticamente, <a href="https://sun.eduzz.com/699505?pf=1&dv=1">clique aqui para acessar o carrinho</a>!</p>
-
+</div>
 
 <?php
 include("chunks/body/mautic-pixel.php");
