@@ -31,6 +31,7 @@ include("chunks/body/descricao-mentoria.php");
 include("chunks/body/quem-e-pedro.php");
 include("chunks/body/para-quem.php");
 include("chunks/body/calendario.php");
+include("chunks/body/depoimentos.php");
 include("chunks/body/faq.php");
 include("chunks/body/sale-box.php");
 include("chunks/body/cta-matricula-boleto.php");
