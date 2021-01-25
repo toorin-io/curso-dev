@@ -20,7 +20,7 @@
                     </li>
                     <li>
                         <img class="icon-small" src="images/icons/success-icon.svg" alt="success-icon">
-                        <p>Formou mais de <b>30 mil alunos</b>.</p>
+                        <p>Formou mais de <b>55 mil alunos</b>.</p>
                     </li>
                     <li>
                         <img class="icon-small" src="images/icons/success-icon.svg" alt="success-icon">

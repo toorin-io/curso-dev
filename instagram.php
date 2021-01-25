@@ -14,20 +14,18 @@ include("chunks/head/meta.php");
 
 </head>
 
-<body>
-
+<body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
     <p>Você está sendo redirecionado para o Instagram!</p>
 
   <p>Caso a página não carregue automaticamente, <a href="http://instagram.com/opedromarins">clique aqui para acessar meu perfil</a>!</p>
-
+</div>
          
 <?php
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
 ?> 
     

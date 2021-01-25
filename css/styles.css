@@ -72,7 +72,7 @@ body.mentoria {
 }
 
 .presentation {
-    padding: 1em 40% 4em 0;
+    padding: 1em 45% 2em 0;
     background: url(../images/pedromarins-header.jpg) right bottom no-repeat;
 }
 
@@ -192,11 +192,11 @@ h1 {
 }
 
 .mauticform-input {
-    margin: 0.5em 0 0;
+    margin: 0.4em 0 0;
     box-sizing: border-box;
     width: 100%;
-    padding: 1em 8px;
-    font-size: 1em;
+    padding: 0.6em 8px;
+    font-size: 0.9em;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -214,6 +214,12 @@ h1 {
     padding: 15px 0;
     font-size: 1em;
     margin: 1em 0 0;
+}
+
+.presentation .mauticform-button {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    margin: 0.7em 0 0;
 }
 
 .header {
@@ -317,18 +323,62 @@ h1 {
 }
 
 .calendar {
-    margin: 4em 0;
+    background: #333B46;    
+    margin: 4em 0 0;
+    padding: 2em;
+}
+
+.calendar-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin: 1.7em 0 0;
 }
 
 .calendar p {
-    font-size: 1.2em;
-    font-weight: 600;
+    font-size: 1em;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.testimonials {
+    padding: 2em 0 3em;
+}
+
+.testimonials-title {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #D83A4E;
+    margin: 1.7em 0 0.5em;
+}
+
+.testimonials-content {
+    display: flex;
+}
+
+.testimonial {
+    margin: 0 0;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.testimonial:first-child {
+    margin-right: 30px;
+}
+
+.testimonial .video {
+    margin: 0.5em 0;
+}
+
+.testimonial a {
+    text-decoration: none;
+    color: #333B46;
 }
 
 .faq {
     background: #F3F3F3;
     padding: 2em 0 4em;
-    margin: 2em 0;
+    margin: 0 0 2em;
 }
 
 .sale {
@@ -503,6 +553,24 @@ p.sale-price {
     margin: 0 0 0 4%;
 }
 
+.forward {
+    background: #333B46;
+    padding: 0;
+}
+
+.forward-content {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 80%;
+    padding: 2em;
+    border-radius: 15px;
+    background: #FFFFFF;
+    font-size: 2em;
+    margin: 0 10%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 
 
@@ -575,6 +643,14 @@ p.sale-price {
     .how-to--list {
         column-count: 1;
     }
+
+    .testimonials-content {
+        flex-direction: column;
+    }
+
+    .testimonial, .testimonial:first-child {
+        margin: 0 70px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -626,6 +702,10 @@ p.sale-price {
         width: 24%;
         font-size: 0.9em;
         margin: 0 3px;
+    }
+
+    .testimonial, .testimonial:first-child {
+        margin: 0 30px;
     }
 }
 /* 

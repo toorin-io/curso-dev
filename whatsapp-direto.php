@@ -13,20 +13,19 @@ include("chunks/head/meta.php");
     
 </head>
 
-<body>
+<body class="forward">
 
 <?php
 include("chunks/body/google.php");
 ?>
-    
-  <p>Você está sendo redirecionado para o WhatsApp!</p>
+  <div class="forward-content">
+    <p>Você está sendo redirecionado para o WhatsApp!</p>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://api.whatsapp.com/send?phone=5521998407035">clique aqui
-      para me enviar a mensagem</a>!</p>
+    <p>Caso a página não carregue automaticamente, <a href="https://api.whatsapp.com/send?phone=5521998407035">clique aqui
+        para me enviar a mensagem</a>!</p>
+  </div>
 
 <?php
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
 ?> 
 

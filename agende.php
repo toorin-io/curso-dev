@@ -14,16 +14,17 @@ include("chunks/head/meta.php");
  
 </head>
 
-<body class="mentoria">
-    
+<body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
   <p>Você está sendo redirecionado para o Calendly!</p>
 
   <p>Caso a página não carregue automaticamente, <a href="https://calendly.com/pedromarins/conquiste-sua-vaga-1-0-clone">clique aqui para acessar as opções de horário na minha agenda</a>!</p>
 
+</div>
 <?php
 include("chunks/body/mautic-pixel.php");
 ?> 
