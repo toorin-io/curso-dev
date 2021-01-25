@@ -503,6 +503,24 @@ p.sale-price {
     margin: 0 0 0 4%;
 }
 
+.forward {
+    background: #333B46;
+    padding: 0;
+}
+
+.forward-content {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 80%;
+    padding: 2em;
+    border-radius: 15px;
+    background: #FFFFFF;
+    font-size: 2em;
+    margin: 0 10%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 
 
