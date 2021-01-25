@@ -29,7 +29,7 @@
             </div>
 
             <div id="mauticform_02aulagratuita_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                <button type="submit" name="mauticform[submit]" id="mauticform_input_02aulagratuita_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_02aulagratuita_submit" value="" class="mauticform-button btn btn-default">Inscreva-se agora!</button>
             </div>
             </div>
         </div>
