@@ -40,6 +40,8 @@
 <br><br>
 <a href="instagram.php">instagram</a> - Redirect perfil do Pedro no Instagram
 <br><br>
+<a href="linkedin.php">linkedin</a> - Redirect perfil do Pedro no LinkedIn
+<br><br>
 <a href="telegram.php">telegram</a> - Redirect para canal do Telegram
 <br><br>
 <a href="depoimento-murilo.php">depoimento-murilo</a> - Redirect para Youtube com depoimento do Murilo
