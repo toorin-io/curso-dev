@@ -28,7 +28,7 @@ include("chunks/body/google.php");
 
         <h1 class="page-title">Aprenda a conquistar sua vaga em apenas 3 passos</h1>
 		<div class="presentation">
-			<h2>Inscreva-se para assistir à aula online gratuita</h2>
+			<h2 class="presentation-title">Inscreva-se agora para assistir à aula online</h2>
 
 <?php
 include("chunks/body/mautic-form-aula-campanha.php");
