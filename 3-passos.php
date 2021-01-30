@@ -76,7 +76,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p>Se você souber se preparar e me mostrar o que sabe quando estiver se candidatando, eu terei meu <strong>problema resolvido</strong>. Existem milhares de vagas abertas só esperando você se apresentar. </p>
         <p>Nesta aula compartilho <strong>três técnicas infalíveis</strong> que, se você seguir conforme eu explico, te colocarão entre os profissionais mais cobiçados pelos recrutadores.</p>
         <p>Mas eu já adianto, não adianta somente ver a aula e achar que uma vaga irá cair do céu em seu colo. É preciso <strong>colocar em prática</strong> imediatamente as técnicas do método!</p>
-        <p><strong>Não perca tempo!</strong> A aula ficará disponível somente até o dia 20 de janeiro.</p>
+        <p><strong>Não perca tempo!</strong> A aula ficará disponível somente até o dia 07 de fevereiro.</p>
         <p>Preencha o formulário e se inscreva para assistir à aula sem nenhum custo! Tenho certeza que ao final você saberá exatamente qual próximo passo dar para <strong>desenvolver uma carreira de sucesso e conquistar sua vaga!</strong></p>
 
 		<div class="bio">
