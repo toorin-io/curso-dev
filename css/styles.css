@@ -151,6 +151,9 @@ h1 {
     font-size: 1.3em;   
 }
 
+.description strong {
+    font-weight: 600;
+}
 .bio {
     border-top: 2px solid #333B46;
     margin: 4em 0;
