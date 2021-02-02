@@ -32,3 +32,7 @@
                 </ul>
             </div>
         </section>
+
+<?php
+include("chunks/body/countdown-functions.php");
+?>

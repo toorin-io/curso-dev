@@ -8,3 +8,7 @@
 		}, 60000)
 		
 	</script>
+
+<?php
+include("chunks/body/countdown-functions.php");
+?>
