@@ -71,6 +71,10 @@ body.mentoria {
     box-sizing: border-box;
 }
 
+.content strong {
+    font-weight: 600;
+}
+
 .presentation {
     padding: 1em 45% 2em 0;
     background: url(../images/pedromarins-header.jpg) right bottom no-repeat;
