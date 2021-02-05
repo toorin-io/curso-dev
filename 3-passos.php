@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 
 	<header class="content" id="home">
 
-        <h1 class="page-title">Aprenda a conquistar sua vaga em apenas 3 passos</h1>
+        <h1 class="page-title">Aprenda a conquistar sua vaga de desenvolvedor em apenas 3 passos</h1>
 		<div class="presentation">
 			<h2 class="presentation-title">Inscreva-se agora para assistir à aula online</h2>
 
