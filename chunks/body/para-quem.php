@@ -4,7 +4,7 @@
                     <h2 class="mentoria-title">Para quem é?</h2>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem deseja ser ativo em seu posicionamento profissional e <b>não espera oportunidades cairem do céu</b>.</p>
+                        <p>Para quem deseja ser ativo em seu posicionamento profissional e <strong>não espera oportunidades cairem do céu</strong>.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
@@ -12,7 +12,7 @@
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem <b>quer ganhar bem</b> trabalhando como desenvolvedor de software.</p>
+                        <p>Para quem <strong>quer ganhar bem</strong> trabalhando como desenvolvedor de software.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
@@ -20,15 +20,15 @@
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem tem disposição para trabalhar e <b>investir em seus sonhos</b>.</p>
+                        <p>Para quem tem disposição para trabalhar e <strong>investir em seus sonhos</strong>.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem <b>está comprometido</b> em migrar de vez para a carreira de desenvolvedor.</p>
+                        <p>Para quem <strong>está comprometido</strong> em migrar de vez para a carreira de desenvolvedor.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem sabe que a gente <b>só colhe se plantar</b>.</p>
+                        <p>Para quem sabe que a gente <strong>só colhe se plantar</strong>.</p>
                     </li>
                 </ul>
                 <ul class="success-list">
