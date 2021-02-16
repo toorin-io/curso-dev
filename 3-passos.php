@@ -86,7 +86,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como conquistei minhas vagas e te ajudar a conseguir também.</p>
 		</div>
 
-		<a class="action-button" href="#home">Quero assistir!</a>
+		<a class="action-button" href="#home">Quero assistir a aula!</a>
 	</section>
 
 	
