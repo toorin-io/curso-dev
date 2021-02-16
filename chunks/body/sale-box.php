@@ -28,7 +28,7 @@
                     </li>
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">
-                        <p>Suporte via email, telefone, WhatsApp e Telegram por 6 meses</p>
+                        <p>Suporte via email, telefone, WhatsApp e Telegram por 4 meses</p>
                     </li>
                 </ul>
             </div>

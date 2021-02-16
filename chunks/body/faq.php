@@ -4,7 +4,7 @@
                 <label class="collapsible" for="collapsible" class="lbl-toggle">
                     <span>Quais os dias e horários das aulas ao vivo?</span>
                     <input id="collapsible" class="toggle" type="checkbox">
-                    <p>Todas as quartas a partir de 10 de fevereiro, de 19:00 às 22:00, no horário de Brasília.</p>
+                    <p>Todos os sábados a partir de 13 de março, de 09:00 às 12:00, no horário de Brasília.</p>
                 </label>
                 <label class="collapsible" for="collapsible1" class="lbl-toggle">
                     <span>Como será o seu suporte?</span>
@@ -19,12 +19,12 @@
                 <label class="collapsible" for="collapsible3" class="lbl-toggle">
                     <span>Por quanto tempo terá acesso ao suporte?</span>
                     <input id="collapsible3" class="toggle" type="checkbox">
-                    <p>Por 6 meses.</p>
+                    <p>Por 4 meses.</p>
                 </label>
                 <label class="collapsible" for="collapsible4" class="lbl-toggle">
                     <span>Até que dia/hora é a matrícula?</span>
                     <input id="collapsible4" class="toggle" type="checkbox">
-                    <p>Até terça, 09 de fevereiro, às 23:59 (horário de Brasília). A mentoria começará no dia 10 de fevereiro.</p>
+                    <p>Até sexta, 12 de março, às 23:59 (horário de Brasília). A mentoria começará no dia 13 de março.</p>
                 </label>
                 <!--
                 <label class="collapsible" for="collapsible5" class="lbl-toggle">
