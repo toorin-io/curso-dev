@@ -34,5 +34,5 @@
         </section>
 
 <?php
-include("chunks/body/countdown-functions.php");
+include("chunks/body/countdown-mentoria-functions.php");
 ?>

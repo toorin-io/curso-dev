@@ -28,7 +28,7 @@ include("chunks/body/google.php");
         
 <?php
 include("chunks/body/video-aula.php");
-include("chunks/body/cta-contato-com-timer.php");
+include("chunks/body/cta-contato-com-temporizador.php");
 ?>
     </section>
 
