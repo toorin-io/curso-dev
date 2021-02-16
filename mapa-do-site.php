@@ -23,8 +23,6 @@
 <br><br>
 <a href="matricula.php">matricula</a> - Página com vídeo sobre mentoria, detalhes da mentoria e link para checkout no cartão
 <br><br>
-<a href="fazer-matricula.php">fazer-matricula</a> - Página com vídeo sobre mentoria, detalhes da mentoria e link para checkout aceitando boleto
-<br><br>
 <a href="obrigado-pela-matricula.php">obrigado-pela-matricula</a> - Agradecimento pela compra
 <br><br>
 <a href="index.php">index</a> - Página com vídeo sobre mentoria, detalhes da mentoria e link para formulário de contato
@@ -34,9 +32,7 @@
 <hr>
 <h2>Páginas redirect</h2>
 
-<a href="checkout.php">checkout</a> - Redirect para Eduzz com pagamento só no cartão
-<br><br>
-<a href="fazer-checkout.php">fazer-checkout</a> - Redirect para Eduzz aceitando boleto
+<a href="finalizar-matricula.php">finalizar-matricula</a> - Redirect para Eduzz com pagamento só no cartão
 <br><br>
 <a href="instagram.php">instagram</a> - Redirect perfil do Pedro no Instagram
 <br><br>

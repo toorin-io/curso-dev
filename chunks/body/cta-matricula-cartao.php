@@ -2,7 +2,7 @@
             <div class="content">
                 <h2 class="how-to--title">Tenha acesso imediato!</h2>
 
-                <a class="cta" href="checkout">FINALIZAR MATRÍCULA</a>
+                <a class="cta" href="finalizar-matricula">FINALIZAR MATRÍCULA</a>
 
                 <ul class="countdown">
                     <li><span id="days">00</span> dias</li>
