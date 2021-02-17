@@ -4,9 +4,9 @@
     
     
     <!-- Descrição -->
-    <meta name="description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de desenvolvedor de software!">
-    <meta property="og:description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de desenvolvedor de software!">
-    <meta name="twitter:description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de desenvolvedor de software!">
+    <meta name="description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de programador!">
+    <meta property="og:description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de programador!">
+    <meta name="twitter:description" content="Conheça a mentoria Consquiste Sua Vaga e transforme sua carreira de programador!">
 
     <!-- Imagens -->
     <meta property="og:image" content="https://www.conquistandosuavaga.com/images/social/conquiste-sua-vaga-com-pedro-marins-1200x630.png">

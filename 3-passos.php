@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aprenda a conquistar sua vaga em apenas 3 passos</title>
+	<title>Como conquistar sua vaga de programador em 3 passos</title>
 	
 <?php
 include("chunks/head/google.php");
@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 
 	<header class="content" id="home">
 
-        <h1 class="page-title">Aprenda a conquistar sua vaga de desenvolvedor em apenas 3 passos</h1>
+        <h1 class="page-title">Como conquistar sua vaga de programador em 3 passos</h1>
 		<div class="presentation">
 			<h2 class="presentation-title">Inscreva-se agora para assistir à aula online</h2>
 
@@ -64,28 +64,30 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	<section class="content description">
 		<h2 class="description-title">O que você vai aprender na aula gratuita?</h2>
 
-        <p>Para ser contratado <strong>é preciso ter experiência</strong>, e para ter experiência <strong>é preciso já ter trabalhado.</strong></p>
-        <p>Essa situação é como um beco sem saída, e até <strong>parece que não existe solução.</strong></p>
-        <p>Antes de conhecer o funcionamento do mercado <strong>eu também não sabia</strong> como conquistar as melhores vagas.</p>
-        <p>Com o tempo, descobri que existem técnicas que <strong>qualquer um</strong> pode seguir para <strong>se tornar o candidato dos sonhos</strong> que os recrutadores procuram.</p>
-        <p>Trabalho no mercado de <strong>desenvolvimento de software</strong> há 15 anos, mas houve um tempo em que eu não tinha a segurança que tenho hoje. Fui aprendendo na base da tentativa e erro a <strong>mostrar meu valor</strong> para os recrutadores.</p>
-        <p>Após alguns anos crescendo na carreira de desenvolvedor passei a ser também o responsável pela <strong>contratação de diversos programadores</strong> para o meu time.</p>
-        <p>Neste ponto <strong>ficou muito claro</strong> para mim quais foram as minhas <strong>práticas que abriram todas as portas</strong> por onde passei na minha vida.</p>
-        <p>Minhas práticas viraram um método. Com técnicas <strong>validadas e testadas</strong> no mercado por vários profissionais.</p>
-        <p>A razão para eu compartilhar essa aula é muito simples: Contratar desenvolvedores dá trabalho. E <strong>eu quero facilitar minha vida.</strong></p>
-        <p>Se você souber se preparar e me mostrar o que sabe quando estiver se candidatando, eu terei meu <strong>problema resolvido</strong>. Existem milhares de vagas abertas só esperando você se apresentar. </p>
-        <p>Nesta aula compartilho <strong>três técnicas infalíveis</strong> que, se você seguir conforme eu explico, te colocarão entre os profissionais mais cobiçados pelos recrutadores.</p>
-        <p>Mas eu já adianto, não adianta somente ver a aula e achar que uma vaga irá cair do céu em seu colo. É preciso <strong>colocar em prática</strong> imediatamente as técnicas do método!</p>
-        <p><strong>Não perca tempo!</strong> A aula ficará disponível somente até o dia 08 de março.</p>
-        <p>Preencha o formulário e se inscreva para assistir à aula sem nenhum custo! Tenho certeza que ao final você saberá exatamente qual próximo passo dar para <strong>desenvolver uma carreira de sucesso e conquistar sua vaga!</strong></p>
+
+        <p>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</p>
+        <p>Você estuda, faz cursos livres na internet, às vezes até mesmo uma faculdade. Já sabe resolver problemas de programação, e sonha em viver trabalhando no ar condicionado, programando soluções para problemas reais. Mas… essa cilada aí do mercado é como um beco sem saída, e <strong>parece não ter solução.</strong></p>
+        <p>Quando comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong> Sempre pediam experiência e conhecimento em muitas tecnologias. Como afinal um júnior, que está começando agora pode saber tudo isso??</p>
+        <p>Não foi fácil. Tiveram horas que eu achei que talvez essa carreira não fosse para mim, mas <strong>eu não desisti.</strong> Eu tinha o sonho de conseguir uma vaga como programador, e poder com os bons salários da área de TI, dar à minha família a vida que ela merece.</p>
+        <p>Nas primeiras vezes que tentei me candidatar para uma vaga, <strong>enviei dezenas de currículos e não recebi nenhuma resposta.</strong> Sem falar das incontáveis vagas que eu nem me inscrevi por achar que não estava pronto e que iria apenas perder tempo para levar mais um não.</p>
+        <p>Com muito esforço, e depois de bater com a cara em muitas portas, foi na base da tentativa e erro que <strong>aprendendi a mostrar meu valor para os recrutadores</strong>. Hoje, trabalho como programador há mais de 15 anos. Já tendo atuado em todas as funções possíveis dentro de um projeto de software.</p>
+        <p>Crescendo na carreira de programador passei a ser também o responsável pela contratação de diversos programadores para o meu time. Após entrevistar milhares de pessoas, descobri que <strong>existem técnicas que qualquer um pode seguir para se tornar o candidato dos sonhos que os recrutadores procuram.</strong></p>
+        <p>Com essa experiência, ficou muito claro para mim em que momento eu consegui <strong>construir uma carreira de sucesso.</strong> Eu entendi quais foram as minhas práticas que abriram todas as portas por onde passei na minha vida.</p>
+        <p>Hoje eu peguei essas práticas, que ajudaram tanto a mim como a diversos outros profissionais a terem sucesso, e as compartilhei em uma aula, que está <strong>disponível agora para você.</strong></p>
+        <p>Não importa qual linguagem de programação você gosta, essa aula é para você. É uma aula onde <strong>eu te conto o que a faculdade não ensina.</strong> Te explico como se transformar em um <strong>programador desejado pelo mercado.</strong></p>
+        <p>Nesta aula compartilho três técnicas que, se você seguir conforme eu explico, <strong>te colocarão entre os profissionais mais cobiçados pelos recrutadores.</strong> Entre aqueles que constroem uma carreira escolhendo onde querem trabalhar e quanto querem ganhar!</p>
+        <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 08 de março.</strong></p>
+        <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Tenho certeza que ao final você saberá exatamente qual próximo passo dar para construir uma carreira de sucesso como programador e <strong>conquistar sua vaga!</strong></p>
+   
+		<a class="action-button" href="#home">Quero assistir a aula!</a>
 
 		<div class="bio">
 			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
 			<h2 class="description-title">Pedro Marins</h2>
 			<p>Olá, meu nome é Pedro Marins. Comecei minha carreira como programador front-end e hoje atuo como professor da Alura e do Ibmec. Sou também MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e trabalho como criador de negócios inovadores.</p>
-			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como conquistei minhas vagas e te ajudar a conseguir também.</p>
+			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como contrui minha carreira e te ajudar a conquistar a sua vaga também.</p>
 		</div>
-
+        
 		<a class="action-button" href="#home">Quero assistir a aula!</a>
 	</section>
 

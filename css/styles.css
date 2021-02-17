@@ -98,8 +98,8 @@ h1 {
 
 .action-button {
     font-size: 1.5em;
-    background: #D83A4E;
-    color: #FFFFFF;
+    background: #85FFF1;
+    color: #333B46;
     text-decoration: none;
     display: inline-block;
     width: 100%;
@@ -273,6 +273,8 @@ h1 {
 
 #cta-aula {
     display: none;
+    background: #85FFF1;
+    color: #333B46;
 }
 
 .big-title {

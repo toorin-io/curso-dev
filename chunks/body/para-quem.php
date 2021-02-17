@@ -12,7 +12,7 @@
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem <strong>quer ganhar bem</strong> trabalhando como desenvolvedor de software.</p>
+                        <p>Para quem <strong>quer ganhar bem</strong> trabalhando como programador.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
