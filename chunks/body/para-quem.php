@@ -24,7 +24,7 @@
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
-                        <p>Para quem <strong>está comprometido</strong> em migrar de vez para a carreira de desenvolvedor.</p>
+                        <p>Para quem <strong>está comprometido</strong> em migrar de vez para a carreira de programador.</p>
                     </li>
                     <li>
                         <img src="images/icons/correct-icon.png" alt="correct icon">
@@ -35,7 +35,7 @@
                     <h2 class="mentoria-title">Para quem não é?</h2>
                     <li>
                         <img src="images/icons/error-icon.png" alt="error icon">
-                        <p>Para quem está apenas buscando uma “renda extra” e não está comprometido em migrar de vez para a carreira de desenvolvedor.</p>
+                        <p>Para quem está apenas buscando uma “renda extra” e não está comprometido em migrar de vez para a carreira de programador.</p>
                     </li>
                     <li>
                         <img src="images/icons/error-icon.png" alt="error icon">

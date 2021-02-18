@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Parabéns por se cadastrar para assistir à aula: Como conseguir sua vaga de desenvolvedor!</title>
+	<title>Parabéns por se cadastrar para assistir à aula: Como conseguir sua vaga de programador!</title>
 	  
 <?php
 include("chunks/head/google.php");
