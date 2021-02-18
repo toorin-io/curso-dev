@@ -15,3 +15,7 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=443908680129622&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
+
+<!-- validadr de domínio -->
+<meta name="facebook-domain-verification" content="xfjonj9btrtddzst037c89esolmq4v" />
