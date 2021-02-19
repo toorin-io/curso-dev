@@ -44,19 +44,19 @@ include("chunks/body/mautic-form-aula-campanha.php");
 				<span>
 					<img class="selling-icon" src="images/icons/money.png" alt="">
 				</span>
-				Aprenda a conquistar seu seu emprego já.
+				Saiba como se tornar um programador disputado pelo mercado.				
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/speaking.png" alt="">
+				Aprenda o que os recrutadores esperam de um candidato.
 				</span>
-				Saiba se vender para o mercado.
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/challenge.png" alt="">
-				</span>
-				Esteja preparado para os desafios.
+                Conheça os segredos sobre processos seletivos que a faculdade não te conta.
+                </span>
 			</p>
 		</div>
 	</section>
