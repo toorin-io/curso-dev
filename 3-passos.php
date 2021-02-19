@@ -85,7 +85,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
 			<h2 class="description-title">Pedro Marins</h2>
 			<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de programador. Comecei a trabalhar como programador há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
-			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como contrui minha carreira e te ajudar a conquistar a sua vaga também.</p>
+			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
 		</div>
         
 		<a class="action-button" href="#home">Quero assistir a aula!</a>
