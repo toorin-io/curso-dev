@@ -41,7 +41,7 @@
                 <label class="collapsible" for="collapsible7" class="lbl-toggle">
                     <span>Como posso pagar?</span>
                     <input id="collapsible7" class="toggle" type="checkbox">
-                    <p>Na opção parcelada, você pode pagar com cartão de crédito. Na opção à vista, você pode pagar com cartão, boleto bancário ou PayPal. Se escolher pagar com cartão, você pode utilizar mais de um cartão de crédito.</p>
+                    <p>Na opção parcelada, você pode pagar com cartão de crédito. Na opção à vista, você pode pagar com cartão, pix, boleto bancário ou PayPal. Se escolher pagar com cartão, você pode utilizar mais de um cartão de crédito.</p>
                 </label>
             </div>
         </section>
