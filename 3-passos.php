@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 
 	<header class="content" id="home">
 
-        <h1 class="page-title">Como conquistar sua vaga de programador em 3 passos</h1>
+        <h1 class="page-title">Conheça os 3 passos para se tornar o programador desejado pelo mercado!</h1>
 		<div class="presentation">
 			<h2 class="presentation-title">Pare de enviar currículos sem nunca receber respostas!</h2>
 
