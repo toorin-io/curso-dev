@@ -21,15 +21,15 @@
                 <span class="mauticform-errormsg" style="display: none;">Por favor, informe seu melhor e-mail</span>
             </div>
 
-            <div id="mauticform_03aulagratuita_numero_de_whatsapp1" class="mauticform-row mauticform-text mauticform-field-3">
-                <label id="mauticform_label_03aulagratuita_numero_de_whatsapp1" for="mauticform_input_03aulagratuita_numero_de_whatsapp1" class="mauticform-label">Número de WhatsApp</label>
-                <span class="mauticform-helpmessage">Lembre-se de colocar o DDD</span>
-                <input id="mauticform_input_03aulagratuita_numero_de_whatsapp1" name="mauticform[numero_de_whatsapp1]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_03aulagratuita_numero_de_whatsapp" class="mauticform-row mauticform-text mauticform-field-3">
+                <label id="mauticform_label_03aulagratuita_numero_de_whatsapp" for="mauticform_input_03aulagratuita_numero_de_whatsapp" class="mauticform-label">Número de WhatsApp</label>
+                <span class="mauticform-helpmessage">Lembre-se de colocar o DDD!</span>
+                <input id="mauticform_input_03aulagratuita_numero_de_whatsapp" name="mauticform[numero_de_whatsapp]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
             <div id="mauticform_03aulagratuita_quero_assistir_a_aula" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                <button type="submit" name="mauticform[quero_assistir_a_aula]" id="mauticform_input_03aulagratuita_quero_assistir_a_aula" value="" class="mauticform-button btn btn-default">Quero assistir a aula!</button>
+                <button type="submit" name="mauticform[quero_assistir_a_aula]" id="mauticform_input_03aulagratuita_quero_assistir_a_aula" value="" class="mauticform-button btn btn-default">Quero descobrir agora!</button>
             </div>
             </div>
         </div>
