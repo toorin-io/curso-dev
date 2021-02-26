@@ -46,19 +46,19 @@ include("chunks/body/mautic-form-aula-campanha.php");
 				<span>
 					<img class="selling-icon" src="images/icons/money.png" alt="">
 				</span>
-				Saiba como se tornar um programador disputado pelo mercado.				
+				Saiba como sair da teoria e virar um programador na prática!
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/speaking.png" alt="">
 				</span>
-                				Aprenda o que os recrutadores esperam de um candidato.
+                				Aprenda o que os recrutadores esperam de um candidato!
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/challenge.png" alt="">
                 </span>
-                Conheça os segredos sobre processos seletivos que a faculdade não te conta.
+                Conheça os segredos sobre processos seletivos que a faculdade não te conta!
 			</p>
 		</div>
 	</section>
