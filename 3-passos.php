@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Como conquistar sua vaga de programador em 3 passos</title>
+	<title>Conheça os 3 passos para se tornar o programador desejado pelo mercado!</title>
 	
 <?php
 include("chunks/head/google.php");
@@ -28,8 +28,10 @@ include("chunks/body/google.php");
 
         <h1 class="page-title">Como conquistar sua vaga de programador em 3 passos</h1>
 		<div class="presentation">
-			<h2 class="presentation-title">Inscreva-se agora para assistir à aula online</h2>
+			<h2 class="presentation-title">Pare de enviar currículos sem nunca receber respostas!</h2>
 
+            
+            
 <?php
 include("chunks/body/mautic-form-aula-campanha.php");
 ?>
