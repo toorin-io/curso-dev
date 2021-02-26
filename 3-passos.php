@@ -51,14 +51,14 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/speaking.png" alt="">
-				Aprenda o que os recrutadores esperam de um candidato.
 				</span>
+                				Aprenda o que os recrutadores esperam de um candidato.
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/challenge.png" alt="">
-                Conheça os segredos sobre processos seletivos que a faculdade não te conta.
                 </span>
+                Conheça os segredos sobre processos seletivos que a faculdade não te conta.
 			</p>
 		</div>
 	</section>
