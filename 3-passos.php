@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Conheça os 3 passos para se tornar o programador desejado pelo mercado!</title>
+	<title>Descubra os 3 passos para ser o programador desejado pelo mercado!</title>
 	
 <?php
 include("chunks/head/google.php");
@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 
 	<header class="content" id="home">
 
-        <h1 class="page-title">Conheça os 3 passos para se tornar o programador desejado pelo mercado!</h1>
+        <h1 class="page-title">Descubra os 3 passos para ser o programador desejado pelo mercado!</h1>
 		<div class="presentation">
 			<h2 class="presentation-title">Pare de enviar currículos sem nunca receber respostas!</h2>
 
@@ -46,13 +46,13 @@ include("chunks/body/mautic-form-aula-campanha.php");
 				<span>
 					<img class="selling-icon" src="images/icons/money.png" alt="">
 				</span>
-				Saiba como sair da teoria e virar um programador na prática!
+				Saiba como sair da teoria e virar programador na prática!
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/speaking.png" alt="">
 				</span>
-                				Aprenda o que os recrutadores esperam de um candidato!
+                				Aprenda o que os recrutadores esperam do candidato!
 			</p>
 			<p class="selling-text">
 				<span>
@@ -61,6 +61,10 @@ include("chunks/body/mautic-form-aula-campanha.php");
                 Conheça os segredos sobre processos seletivos que a faculdade não te conta!
 			</p>
 		</div>
+        
+        		<a class="action-button" href="#home">Quero assistir a aula!</a>
+
+        
 	</section>
 
 	<section class="content description">
