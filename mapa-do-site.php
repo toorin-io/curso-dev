@@ -15,6 +15,8 @@
 <br><br>
 <a href="aula.php">aula</a> - Página com a aula gratuita
 <br><br>
+<a href="checkout.php">checkout</a> - Forward para finalizar-matricula. Existe apenas para o caso de algum lead antigo com o link antigo clicar nele.
+<br><br>
 <a href="contato.php">contato</a> - Formulário de pré-inscrição
 <br><br>
 <a href="ligacao.php">ligacao</a>  - Formulário de contato para ligações de pesquisa 
