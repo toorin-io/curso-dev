@@ -6,7 +6,7 @@
                 <p>Quando eu receber suas respostas, as avaliarei e entrarei em contato para conversar com você por WhatsApp ou telefone.</p>
                 <p>Nesta conversa, vamos avaliar se você é a pessoa certa para participar desta mentoria e se eu sou a pessoa certa para te guiar.</p>
 
-                <a class="cta" href="contato">Quero participar da mentoria</a>
+                <a class="cta" href="pre-inscricao">Quero participar da mentoria</a>
 
                 <ul class="countdown">
                     <li><span id="days">00</span> dias</li>

@@ -1,5 +1,5 @@
      
-		<a href="contato" class="cta" id="cta-aula">Quero dar o próximo passo!</a>
+		<a href="pre-inscricao" class="cta" id="cta-aula">Quero dar o próximo passo!</a>
 	</section>
     
 	<script>
