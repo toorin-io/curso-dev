@@ -26,23 +26,21 @@ include("chunks/body/top-warning.php");
 ?>
       
 <main>
-        <section class="content">
-<?php
-    
-    	
-
-include("chunks/body/video-aula.php");
-include("chunks/body/descricao-mentoria.php");
-include("chunks/body/quem-e-pedro.php");
-include("chunks/body/para-quem.php");
-include("chunks/body/calendario.php");
-include("chunks/body/depoimentos.php");
-include("chunks/body/faq.php");
-include("chunks/body/sale-box.php");
-include("chunks/body/cta-contato-sem-countdown.php");
-?>      
-
+    <section class="content">
+        <?php
+        include("chunks/body/video-aula.php");
+        include("chunks/body/descricao-mentoria.php");
+        ?>      
     </section>
+    <?php
+        include("chunks/body/quem-e-pedro.php");
+        include("chunks/body/para-quem.php");
+        include("chunks/body/calendario.php");
+        include("chunks/body/depoimentos.php");
+        include("chunks/body/faq.php");
+        include("chunks/body/sale-box.php");
+        include("chunks/body/cta-contato-sem-countdown.php");
+    ?>
 </main>
 
 <?php
