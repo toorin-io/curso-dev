@@ -11,7 +11,7 @@
                 <figcaption><a href="https://www.linkedin.com/in/mcarvalh0/">Murilo Silva</a></figcaption>
             </figure>
             <figure class="testimonial">
-                <div class="video"><iframe width="100%" height="265" src="https://www.youtube.com/watch?v=JMJFzBvT1FU&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                <div class="video"><iframe width="100%" height="265" src="https://www.youtube.com/embed/JMJFzBvT1FU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
                 <figcaption><a href="https://www.linkedin.com/in/lucas-milar%C3%A9-de-oliveira-3955b6136/">Lucas Milaré</a></figcaption>
             </figure>
         </div>
