@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Como aprender a conquistar sua vaga de programador em apenas 3 passos</title>
+	<title>Como aprender a conquistar sua vaga de desenvolvedor de software em apenas 3 passos</title>
     
 <?php
 include("chunks/head/google.php");
