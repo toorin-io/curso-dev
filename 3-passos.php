@@ -70,7 +70,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	<section class="content description">
 		<h2 class="description-title">O que você vai aprender na aula gratuita?</h2>
 
-        <p><strong>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</strong>strong></p>
+        <p><strong>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</strong></p>
         <p>Você estuda, faz cursos livres na internet, às vezes até mesmo uma faculdade. Já sabe resolver problemas de programação, e sonha em ganhar a vida desenvolvendo soluções para problemas reais. Mas… a sua falta de experiência que não permite ter a primeira oportunidade <strong>parece um problema sem solução.</strong></p>
         <p>Quando comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong> Sempre eram pedidos anos de conhecimento em muitas tecnologias. Como afinal um júnior, que está começando agora, pode saber tudo isso???</p>
         <p>Não foi fácil! Tiveram horas que quase achei que a carreira de desenvolvedor não fosse para mim. Mas <strong>eu não desisti</strong>. Eu tinha o sonho de conseguir uma vaga como desenvolvedor, com um bom salário na área que nunca tem crise, e dar à minha família a vida que ela merece.</p>
