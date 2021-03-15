@@ -70,21 +70,19 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	<section class="content description">
 		<h2 class="description-title">O que você vai aprender na aula gratuita?</h2>
 
+        <p><strong>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</strong>strong></p>
+        <p>Você estuda, faz cursos livres na internet, às vezes até mesmo uma faculdade. Já sabe resolver problemas de programação, e sonha em ganhar a vida desenvolvendo soluções para problemas reais. Mas… a sua falta de experiência que não permite ter a primeira oportunidade <strong>parece um problema sem solução.</strong></p>
+        <p>Quando comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong> Sempre eram pedidos anos de conhecimento em muitas tecnologias. Como afinal um júnior, que está começando agora, pode saber tudo isso???</p>
+        <p>Não foi fácil! Tiveram horas que quase achei que a carreira de desenvolvedor não fosse para mim. Mas <strong>eu não desisti</strong>. Eu tinha o sonho de conseguir uma vaga como desenvolvedor, com um bom salário na área que nunca tem crise, e dar à minha família a vida que ela merece.</p>
+        <p>Nas primeiras vezes que tentei conquistar uma vaga, <strong>enviei centenas de currículos e não recebi nenhuma resposta!</strong></p>
+        <p>Levou muita tentativa e erro, mas eu consegui <strong>aprender como mostrar meu valor para os recrutadores.</strong> Hoje, já estou há mais de 15 anos atuando como desenvolvedor.</p>
+        <p>Crescendo na carreira passei a ser também responsável pela contratação de diversos desenvolvedores para o meu time. Após entrevistar milhares de pessoas, descobri que <strong>existem técnicas que qualquer um pode seguir para se tornar o candidato dos sonhos.</strong></p>
+        <p>Hoje eu juntei essas técnicas, que ajudaram tanto a mim como a diversos outros profissionais a terem sucesso, e as compartilhei em uma aula, que está <strong>disponível agora para você.</strong></p>
+        <p>É uma aula onde eu te conto o que a faculdade não ensina. Te explico o que fazer para se transformar em um desenvolvedor desejado pelo mercado.</p>
+        <p>Nesta aula compartilho as três técnicas farão você <strong>se colocar entre os profissionais mais cobiçados pelos recrutadores.</strong> Entre aqueles que constroem uma carreira escolhendo onde querem trabalhar e quanto querem ganhar!</p>
+        <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 29 de março.</strong></p>
+        <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
-        <p>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</p>
-        <p>Você estuda, faz cursos livres na internet, às vezes até mesmo uma faculdade. Já sabe resolver problemas de programação, e sonha em viver trabalhando no ar condicionado, programando soluções para problemas reais. Mas… essa cilada aí do mercado é como um beco sem saída, e <strong>parece não ter solução.</strong></p>
-        <p>Quando comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong> Sempre pediam experiência e conhecimento em muitas tecnologias. Como afinal um júnior, que está começando agora pode saber tudo isso??</p>
-        <p>Não foi fácil. Tiveram horas que eu achei que talvez essa carreira não fosse para mim, mas <strong>eu não desisti.</strong> Eu tinha o sonho de conseguir uma vaga como desenvolvedor, e poder com os bons salários da área de TI, dar à minha família a vida que ela merece.</p>
-        <p>Nas primeiras vezes que tentei me candidatar para uma vaga, <strong>enviei dezenas de currículos e não recebi nenhuma resposta.</strong> Sem falar das incontáveis vagas que eu nem me inscrevi por achar que não estava pronto e que iria apenas perder tempo para levar mais um não.</p>
-        <p>Com muito esforço, e depois de bater com a cara em muitas portas, foi na base da tentativa e erro que <strong>aprendendi a mostrar meu valor para os recrutadores</strong>. Hoje, trabalho como desenvolvedor há mais de 15 anos. Já tendo atuado em todas as funções possíveis dentro de um projeto de software.</p>
-        <p>Crescendo na carreira de desenvolvedor passei a ser também o responsável pela contratação de diversos desenvolvedores para o meu time. Após entrevistar milhares de pessoas, descobri que <strong>existem técnicas que qualquer um pode seguir para se tornar o candidato dos sonhos.</strong></p>
-        <p>Com essa experiência, ficou muito claro para mim em que momento eu consegui <strong>construir uma carreira de sucesso.</strong> Eu entendi quais foram as minhas práticas que abriram todas as portas por onde passei na minha vida.</p>
-        <p>Hoje eu peguei essas práticas, que ajudaram tanto a mim como a diversos outros profissionais a terem sucesso, e as compartilhei em uma aula, que está <strong>disponível agora para você.</strong></p>
-        <p>Não importa qual linguagem de programação você gosta, essa aula é para você. É uma aula onde <strong>eu te conto o que a faculdade não ensina.</strong> Te explico como se transformar em um <strong>desenvolvedor desejado pelo mercado.</strong></p>
-        <p>Nesta aula compartilho três técnicas que, se você seguir conforme eu explico, <strong>te colocarão entre os profissionais mais cobiçados pelos recrutadores.</strong> Entre aqueles que constroem uma carreira escolhendo onde querem trabalhar e quanto querem ganhar!</p>
-        <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 08 de março.</strong></p>
-        <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Tenho certeza que ao final você saberá exatamente qual próximo passo dar para construir uma carreira de sucesso como desenvolvedor e <strong>conquistar sua vaga!</strong></p>
-   
 		<a class="action-button" href="#home">Quero assistir a aula!</a>
 
 		<div class="bio">
