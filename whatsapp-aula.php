@@ -4,7 +4,7 @@
   <title>Conquiste Sua Vaga! Solicite acesso à aula pelo WhatsApp</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://api.whatsapp.com/send?phone=5521971240906&text=Ol%C3%A1%20Pedro!%20Gostaria%20de%20receber%20o%20link%20da%20aula%20que%20ensina%20os%203%20passos%20que%20preciso%20dar%20para%20garantir%20minha%20vaga%20como%20programador!'" />
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521971240906&text=Oi%20Pedro!%20Gostaria%20de%20receber%20o%20link%20da%20aula%20que%20ensina%20os%203%20passos%20que%20preciso%20dar%20para%20garantir%20minha%20vaga%20como%20programador!'" />
  
     <?php
 include("chunks/head/google.php");
@@ -23,7 +23,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o WhatsApp!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://api.whatsapp.com/send?phone=5521971240906&text=Ol%C3%A1%20Pedro!%20Gostaria%20de%20receber%20o%20link%20da%20aula%20que%20ensina%20os%203%20passos%20que%20preciso%20dar%20para%20garantir%20minha%20vaga%20como%20programador!">clique
+      href="https://api.whatsapp.com/send?phone=5521971240906&text=Oi%20Pedro!%20Gostaria%20de%20receber%20o%20link%20da%20aula%20que%20ensina%20os%203%20passos%20que%20preciso%20dar%20para%20garantir%20minha%20vaga%20como%20programador!">clique
       aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php
