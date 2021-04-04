@@ -4,7 +4,7 @@
 
 <title>Conquiste Sua Vaga! Agende um horário no Calendly</title>
 
-<meta http-equiv="refresh" content="1; url = 'https://calendly.com/pedromarins/conquiste-sua-vaga-4-0'" />
+<meta http-equiv="refresh" content="1; url = 'https://calendly.com/pedromarins/conquiste-sua-vaga-5-0'" />
 
 <?php
 include("chunks/head/google.php");

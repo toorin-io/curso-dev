@@ -20,8 +20,8 @@
 
     <!-- Data de publicação e alteração -->
 
-	<meta property="article:published_time" content="2020-11-05">
-    <meta property="article:modified_time" content="2021-03-12T23:59:44+00:00">
+	<meta property="article:published_time" content="2021-04-05">
+    <meta property="article:modified_time" content="2021-04-05T23:59:44+00:00">
 
     <!-- URL -->
     <meta property="og:url" content="https://www.conquistandosuavaga.com">
