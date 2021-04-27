@@ -15,5 +15,11 @@
                 <figcaption><a href="https://www.linkedin.com/in/mcarvalh0/">Murilo Silva</a></figcaption>
             </figure> -->
         </div>
+        <div>
+            <figure class="testimonial-imagem">
+                <div class="imagem-lucas"><img src="img-linkedin-lucas.jpg" alt="Print do post do mentorado Lucas no Linkedin"></div>
+                <figcaption><a href="https://www.linkedin.com/posts/lucas-milar%C3%A9-de-oliveira-3955b6136_java-backenddeveloper-activity-6775164106790998016-IJg5">Post do Lucas no Linkedin</a></figcaption>
+            </figure>
+        </div>
     </div>
 </section>
