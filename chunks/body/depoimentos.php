@@ -17,7 +17,7 @@
         </div>
         <div>
             <figure class="testimonial-imagem">
-                <div class="imagem-lucas"><a href="https://www.linkedin.com/posts/lucas-milar%C3%A9-de-oliveira-3955b6136_java-backenddeveloper-activity-6775164106790998016-IJg5" target="_blank"><img src="../../images/img_linkedin_lucas.jpg" alt="Print do post do mentorado Lucas no Linkedin"></a></div>
+                <div class="imagem-lucas"><a href="https://www.linkedin.com/posts/lucas-milar%C3%A9-de-oliveira-3955b6136_java-backenddeveloper-activity-6775164106790998016-IJg5" target="_blank"><img src="../../images/img-linkedin-lucas.jpg" alt="Print do post do mentorado Lucas no Linkedin"></a></div>
             </figure>
         </div>
     </div>
