@@ -19,6 +19,9 @@
             <figure class="testimonial-imagem">
                 <div class="imagem-lucas"><a href="https://www.linkedin.com/posts/lucas-milar%C3%A9-de-oliveira-3955b6136_java-backenddeveloper-activity-6775164106790998016-IJg5" target="_blank"><img src="../../images/img-linkedin-lucas.jpg" alt="Print do post do mentorado Lucas no Linkedin"></a></div>
             </figure>
+            <figure class="testimonial-whatsapp">
+                <div class="imagem-wp"><img src="../../images/imagem-wp.png" alt="Print de depoimento do Whatsapp"></a></div>
+            </figure>
         </div>
     </div>
 </section>
