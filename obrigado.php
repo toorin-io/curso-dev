@@ -20,12 +20,12 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Siga os 2 passos abaixo para garantir que você terá acesso à sua aula!</h1>
+		<h1>Siga os 3 passos abaixo para garantir que você terá acesso à sua aula!</h1>
 	</header>
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/GLN1QBgRnR0?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/T--14AvTvmY?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -40,6 +40,13 @@ include("chunks/body/google.php");
 			</p>
 			<p class="selling-text">
 				<strong>Passo 2</strong>
+				Entre no canal do Telegram!
+				<span>
+					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
+				</span>
+			</p>			
+            <p class="selling-text">
+				<strong>Passo 3</strong>
 				Me siga lá no Instagram!
 				<span>
 					<a target="_blank" href="instagram"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>

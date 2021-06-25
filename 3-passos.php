@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 
 	<header class="content" id="home">
 
-        <h1 class="page-title">Descubra os 3 passos para ser o desenvolvedor de software desejado pelo mercado!</h1>
+        <h1 class="page-title">Descubra os 3 passos para se tornar o dev desejado pelo mercado!</h1>
 		<div class="presentation">
 			<h2 class="presentation-title">Inscreva-se para assistir à aula gratuita!</h2>
 
@@ -80,7 +80,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p>Hoje eu juntei essas técnicas, que ajudaram tanto a mim como a diversos outros profissionais a terem sucesso, e as compartilhei em uma aula, que está <strong>disponível agora para você.</strong></p>
         <p>É uma aula onde eu te conto o que a faculdade não ensina. Te explico o que fazer para se transformar em um desenvolvedor desejado pelo mercado.</p>
         <p>Nesta aula compartilho as três técnicas farão você <strong>se colocar entre os profissionais mais cobiçados pelos recrutadores.</strong> Entre aqueles que constroem uma carreira escolhendo onde querem trabalhar e quanto querem ganhar!</p>
-        <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 29 de março.</strong></p>
+        <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 13 de julho.</strong></p>
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
 		<a class="action-button" href="#home">Quero assistir a aula!</a>
