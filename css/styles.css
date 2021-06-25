@@ -77,7 +77,7 @@ body.mentoria {
 
 .presentation {
     padding: 1em 45% 2em 0;
-    background: url(../images/pedromarins-header.jpg) right bottom no-repeat;
+    /* background: url(../images/pedromarins-header.jpg) right bottom no-repeat; */
 }
 
 .presentation-title {
