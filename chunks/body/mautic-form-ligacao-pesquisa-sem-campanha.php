@@ -23,7 +23,7 @@
             </div>
 
             <div id="mauticform_99ligacaodepesquisa_por_que_voce_deseja_ser_d" data-validate="por_que_voce_deseja_ser_d" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
-                <label id="mauticform_label_99ligacaodepesquisa_por_que_voce_deseja_ser_d" for="mauticform_input_99ligacaodepesquisa_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser programador?</label>
+                <label id="mauticform_label_99ligacaodepesquisa_por_que_voce_deseja_ser_d" for="mauticform_input_99ligacaodepesquisa_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser dev?</label>
                 <input id="mauticform_input_99ligacaodepesquisa_por_que_voce_deseja_ser_d" name="mauticform[por_que_voce_deseja_ser_d]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Por favor, responda à pergunta para que eu possa te conhecer melhor!</span>
             </div>
@@ -35,7 +35,7 @@
             </div>
 
             <div id="mauticform_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" data-validate="qual_e_o_maior_desafio_qu" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-5 mauticform-required">
-                <label id="mauticform_label_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" for="mauticform_input_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" class="mauticform-label">Qual é o maior desafio que você tem encontrado para conseguir conquistar sua vaga como programador?</label>
+                <label id="mauticform_label_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" for="mauticform_input_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" class="mauticform-label">Qual é o maior desafio que você tem encontrado para conseguir conquistar sua vaga como dev?</label>
                 <input id="mauticform_input_99ligacaodepesquisa_qual_e_o_maior_desafio_qu" name="mauticform[qual_e_o_maior_desafio_qu]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Por favor, responda à pergunta para que eu possa te conhecer melhor!</span>
             </div>

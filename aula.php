@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aula: Como conquistar sua vaga de desenvolvedor de software em 3 passos</title>
+	<title>Aula: Como conquistar sua vaga de dev de software em 3 passos</title>
 	
     <?php
 include("chunks/head/google.php");
@@ -20,7 +20,7 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Como conquistar sua vaga de desenvolvedor de software em 3 passos!</h1>
+		<h1>Como conquistar sua vaga de dev de software em 3 passos!</h1>
 	</header>
 
 	<section class="content">

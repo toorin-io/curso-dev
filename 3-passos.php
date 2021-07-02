@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Descubra os 3 passos para ser o desenvolvedor desejado pelo mercado!</title>
+	<title>Descubra os 3 passos para ser o dev desejado pelo mercado!</title>
 	
 <?php
 include("chunks/head/google.php");
@@ -46,7 +46,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 				<span>
 					<img class="selling-icon" src="images/icons/money.png" alt="">
 				</span>
-				Saiba como sair da teoria e virar desenvolvedor na prática!
+				Saiba como sair da teoria e virar dev na prática!
 			</p>
 			<p class="selling-text">
 				<span>
@@ -73,12 +73,12 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p><strong>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado!</strong></p>
         <p>Você estuda, faz cursos livres na internet, às vezes até mesmo uma faculdade. Já sabe resolver problemas de programação, e sonha em ganhar a vida desenvolvendo soluções para problemas reais. Mas… a sua falta de experiência que não permite ter a primeira oportunidade <strong>parece um problema sem solução.</strong></p>
         <p>Quando comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong> Sempre eram pedidos anos de conhecimento em muitas tecnologias. Como afinal um júnior, que está começando agora, pode saber tudo isso???</p>
-        <p>Não foi fácil! Tiveram horas que quase achei que a carreira de desenvolvedor não fosse para mim. Mas <strong>eu não desisti</strong>. Eu tinha o sonho de conseguir uma vaga como desenvolvedor, com um bom salário na área que nunca tem crise, e dar à minha família a vida que ela merece.</p>
+        <p>Não foi fácil! Tiveram horas que quase achei que a carreira de dev não fosse para mim. Mas <strong>eu não desisti</strong>. Eu tinha o sonho de conseguir uma vaga como dev, com um bom salário na área que nunca tem crise, e dar à minha família a vida que ela merece.</p>
         <p>Nas primeiras vezes que tentei conquistar uma vaga, <strong>enviei centenas de currículos e não recebi nenhuma resposta!</strong></p>
-        <p>Levou muita tentativa e erro, mas eu consegui <strong>aprender como mostrar meu valor para os recrutadores.</strong> Hoje, já estou há mais de 15 anos atuando como desenvolvedor.</p>
-        <p>Crescendo na carreira passei a ser também responsável pela contratação de diversos desenvolvedores para o meu time. Após entrevistar milhares de pessoas, descobri que <strong>existem técnicas que qualquer um pode seguir para se tornar o candidato dos sonhos.</strong></p>
+        <p>Levou muita tentativa e erro, mas eu consegui <strong>aprender como mostrar meu valor para os recrutadores.</strong> Hoje, já estou há mais de 15 anos atuando como dev.</p>
+        <p>Crescendo na carreira passei a ser também responsável pela contratação de diversos deves para o meu time. Após entrevistar milhares de pessoas, descobri que <strong>existem técnicas que qualquer um pode seguir para se tornar o candidato dos sonhos.</strong></p>
         <p>Hoje eu juntei essas técnicas, que ajudaram tanto a mim como a diversos outros profissionais a terem sucesso, e as compartilhei em uma aula, que está <strong>disponível agora para você.</strong></p>
-        <p>É uma aula onde eu te conto o que a faculdade não ensina. Te explico o que fazer para se transformar em um desenvolvedor desejado pelo mercado.</p>
+        <p>É uma aula onde eu te conto o que a faculdade não ensina. Te explico o que fazer para se transformar em um dev desejado pelo mercado.</p>
         <p>Nesta aula compartilho as três técnicas farão você <strong>se colocar entre os profissionais mais cobiçados pelos recrutadores.</strong> Entre aqueles que constroem uma carreira escolhendo onde querem trabalhar e quanto querem ganhar!</p>
         <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 13 de julho.</strong></p>
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
@@ -88,7 +88,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 		<div class="bio">
 			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
 			<h2 class="description-title">Pedro Marins</h2>
-			<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de desenvolvedor. Comecei a trabalhar como desenvolvedor há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
+			<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de dev. Comecei a trabalhar como dev há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
 			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
 		</div>
         

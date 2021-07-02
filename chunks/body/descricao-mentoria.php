@@ -1,7 +1,7 @@
 
         <section class="content">
             <h2 class="mentoria-title">Qual o problema?</h2>
-            <p>Você está começando na carreira de desenvolvedor e vê <strong>todas as vagas anunciadas pedindo experiência</strong> comprovada em alguma tecnologia.</p>
+            <p>Você está começando na carreira de dev e vê <strong>todas as vagas anunciadas pedindo experiência</strong> comprovada em alguma tecnologia.</p>
             <p>Como nunca trabalhou na área, se sente preso em um loop infinito onde <strong>"se não tenho emprego não ganho experiência, se não tenho experiência não ganho emprego"</strong>.</p>
             <p>Não se desespere! Todos os profissionais que hoje são seniores também passaram por isso.</p>
             <p> Existe uma <strong>fórmula simples e objetiva</strong> para você também conquistar seu primeiro emprego.</p>
@@ -13,17 +13,17 @@
             <p>Existem métodos, por exemplo, que funcionam bem quando você já tem anos de experiência. Outros são melhores para quem quer um emprego qualquer e não pensa em crescer na carreira.</p>
             <p>Nesta mentoria, você aprenderá um <strong>método específico</strong> que é excelente para quem quer <strong>conquistar sua primeira vaga e seguir crescendo na carreira</strong>.</p>
             <p>É um <strong>método sólido</strong> que oferece <strong>resultados consistentes</strong>.</p>
-            <p>Eu o escolhi porque ele permite que você <strong>conquiste sua primeira vaga</strong> e ao mesmo tempo <strong>encurte a estrada</strong> que te levará a se tornar um desenvolvedor senior.</p>
+            <p>Eu o escolhi porque ele permite que você <strong>conquiste sua primeira vaga</strong> e ao mesmo tempo <strong>encurte a estrada</strong> que te levará a se tornar um dev senior.</p>
             <p>Eu uso esse método com sucesso em minha vida há mais de 15 anos.</p>
-            <p>Nesta mentoria, mostrarei os bastidores da preparação de um <strong>desenvolvedor campeão</strong>. Você verá exatamente o que faço, aprenderá detalhes das minhas técnicas e realizá <strong>exercícios práticos</strong>.</p>
+            <p>Nesta mentoria, mostrarei os bastidores da preparação de um <strong>dev campeão</strong>. Você verá exatamente o que faço, aprenderá detalhes das minhas técnicas e realizá <strong>exercícios práticos</strong>.</p>
             <p>Você aprenderá <strong>o passo a passo necessário para sua transformação</strong> e saberá exatamente o que precisa fazer para <strong>mudar sua própria realidade</strong>.</p>
             
             <h2 class="mentoria-title">Qual o principal objetivo da mentoria?</h2>
-            <p>O principal objetivo desta mentoria é levar você a se preparar para conquistar seu emprego de desenvolvedor no período de 4 meses da mentoria.</p>
+            <p>O principal objetivo desta mentoria é levar você a se preparar para conquistar seu emprego de dev no período de 4 meses da mentoria.</p>
             <p>Tudo o que fazemos pela primeira vez é mais difícil. A conquista do primeiro emprego em uma área é a mais desafiadora de todas.</p>
             <p>Meu objetivo é levar você a conquistar sua vaga com rapidez usando um <strong>método sólido que não depende de muitos pré-requisitos</strong>.</p>
             <p>É um método acessível porque <strong>depende apenas de seu esforço e sua dedicação</strong>. Você não precisa ter diplomas importantes ou certificados caros. Tampouco precisa já ter uma rede de profissionais da área. Funciona mesmo quando você não tem ainda um único contato no LinkedIn. E você não precisa sequer ter já desenvolvido um projeto completo para usá-lo.</p>
-            <p>O domínio de um <strong>método eficaz</strong>, a execução das tarefas propostas e o <strong>acompanhamento de um mentor experiente</strong> formam uma base sólida a partir da qual você pode construir sua carreira como desenvolvedor.</p>
+            <p>O domínio de um <strong>método eficaz</strong>, a execução das tarefas propostas e o <strong>acompanhamento de um mentor experiente</strong> formam uma base sólida a partir da qual você pode construir sua carreira como dev.</p>
             
             <h2 class="mentoria-title">Como funciona a mentoria?</h2>
             <p>A mentoria será realizada através de 4 aulas ao vivo em um período de 4 semanas.</p>

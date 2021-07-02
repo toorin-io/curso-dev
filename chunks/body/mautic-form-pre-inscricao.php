@@ -22,7 +22,7 @@
             </div>
 
             <div id="mauticform_07preinscricao_por_que_voce_deseja_ser_d" data-validate="por_que_voce_deseja_ser_d" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
-                <label id="mauticform_label_07preinscricao_por_que_voce_deseja_ser_d" for="mauticform_input_07preinscricao_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser desenvolvedor de software?</label>
+                <label id="mauticform_label_07preinscricao_por_que_voce_deseja_ser_d" for="mauticform_input_07preinscricao_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser dev de software?</label>
                 <input id="mauticform_input_07preinscricao_por_que_voce_deseja_ser_d" name="mauticform[por_que_voce_deseja_ser_d]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Por favor, responda à pergunta para que eu possa te conhecer melhor!</span>
             </div>
@@ -34,7 +34,7 @@
             </div>
 
             <div id="mauticform_07preinscricao_o_que_falta_para_voce_con" data-validate="o_que_falta_para_voce_con" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-5 mauticform-required">
-                <label id="mauticform_label_07preinscricao_o_que_falta_para_voce_con" for="mauticform_input_07preinscricao_o_que_falta_para_voce_con" class="mauticform-label">O que falta para você conquistar sua vaga de desenvolvedor?</label>
+                <label id="mauticform_label_07preinscricao_o_que_falta_para_voce_con" for="mauticform_input_07preinscricao_o_que_falta_para_voce_con" class="mauticform-label">O que falta para você conquistar sua vaga de dev?</label>
                 <input id="mauticform_input_07preinscricao_o_que_falta_para_voce_con" name="mauticform[o_que_falta_para_voce_con]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Por favor, responda à pergunta para que eu possa te conhecer melhor!</span>
             </div>

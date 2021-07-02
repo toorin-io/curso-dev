@@ -2,7 +2,7 @@
             <div class="content about-card">
                 <img class="about-img" src="images/pedromarins.jpg" alt="Pedro Marins">
                 <h2 class="mentoria-title">Quem é o Pedro Marins?</h2>
-                <p>MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, exerce em vários projeto o papel de criador de negócios inovadores. Começou sua carreira como programador front-end e hoje atua como professor da Alura e do Ibmec.</p>
+                <p>MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, exerce em vários projeto o papel de criador de negócios inovadores. Começou sua carreira como dev front-end e hoje atua como professor da Alura e do Ibmec.</p>
                 <p> Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como conquistou suas vagas e como você pode conseguir também</p>
                 <ul class="success-list">
                     <h2 class="mentoria-title">Em mais de 15 anos de carreira, Pedro:</h2>
