@@ -46,19 +46,19 @@ include("chunks/body/mautic-form-aula-campanha.php");
 				<span>
 					<img class="selling-icon" src="images/icons/money.png" alt="">
 				</span>
-				Saiba como sair da teoria e virar dev na prática!
+				Saiba como ser contratado como dev sem nunca ter trabalhado na área!
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/speaking.png" alt="">
 				</span>
-                				Pare de enviar currículos sem nunca receber respostas!
+                Pare de enviar currículos sem nunca receber respostas!
 			</p>
 			<p class="selling-text">
 				<span>
 					<img class="selling-icon" src="images/icons/challenge.png" alt="">
                 </span>
-                Conheça os segredos sobre processos seletivos que a faculdade não te conta!
+                Conheça os segredos do mercado que os cursos não ensinam!
 			</p>
 		</div>
         
