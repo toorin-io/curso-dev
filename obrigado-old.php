@@ -32,10 +32,24 @@ include("chunks/body/google.php");
 	<section class="selling-points">
 		<div class="content">
 			<p class="selling-text">
-				<strong>Próximo Passo</strong>
+				<strong>Passo 1</strong>
 				Peça a aula pelo WhatsApp!
 				<span>
 					<a target="_blank" href="whatsapp-aula"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+				</span>
+			</p>
+			<p class="selling-text">
+				<strong>Passo 2</strong>
+				Entre no canal do Telegram!
+				<span>
+					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
+				</span>
+			</p>			
+            <p class="selling-text">
+				<strong>Passo 3</strong>
+				Me siga lá no Instagram!
+				<span>
+					<a target="_blank" href="instagram"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
 				</span>
 			</p>
 		</div>
