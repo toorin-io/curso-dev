@@ -4,7 +4,7 @@
 
 <title>Conquiste Sua Vaga! Agende um horário no Calendly</title>
 
-<meta http-equiv="refresh" content="1; url = 'https://conquiste-sua-vaga-2021-julho.youcanbook.me/'" />
+<meta http-equiv="refresh" content="1; url = 'https://conquiste-sua-vaga-2021-agosto.youcanbook.me/'" />
 
 <?php
 include("chunks/head/google.php");
@@ -22,7 +22,7 @@ include("chunks/body/google.php");
 
   <p>Você está sendo redirecionado para o Calendly!</p>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://conquiste-sua-vaga-2021-julho.youcanbook.me/">clique aqui para acessar as opções de horário na minha agenda</a>!</p>
+  <p>Caso a página não carregue automaticamente, <a href="https://conquiste-sua-vaga-2021-agosto.youcanbook.me/">clique aqui para acessar as opções de horário na minha agenda</a>!</p>
 
 </div>
 <?php

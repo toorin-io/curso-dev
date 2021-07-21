@@ -21,7 +21,7 @@
     <!-- Data de publicação e alteração -->
 
 	<meta property="article:published_time" content="2021-06-28">
-    <meta property="article:modified_time" content="2021-06-28T23:59:44+00:00">
+    <meta property="article:modified_time" content="2021-07-26T23:59:44+00:00">
 
     <!-- URL -->
     <meta property="og:url" content="https://www.conquistandosuavaga.com">
