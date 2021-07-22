@@ -20,12 +20,12 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Siga os 3 passos abaixo para garantir que você terá acesso à sua aula!</h1>
+		<h1>Só falta mais 1 passo para garantir que você terá acesso à sua aula!</h1>
 	</header>
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/T--14AvTvmY?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/CMgASk4uF_g?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
