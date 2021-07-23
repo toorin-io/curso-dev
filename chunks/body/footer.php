@@ -1,13 +1,11 @@
     <footer class="mentoria-footer">
         <div class="content">
-            <h2 class="mentoria-title">Contato</h2>
-            <p>FICOU COM ALGUMA DÚVIDA?</p>
-            <p>Entre em contato comigo, ficarei feliz de responder a todas suas perguntas.</p>
-            <p>AINDA NÃO ME CONHECE?</p>
-            <p>Acesse <a href="http://pedromarins.com">pedromarins.com</a></p>
-            <ul class="contact">
-                <li><a target="_blank" href="whatsapp-direto"><img class="icon-footer" src="images/icons/whatsapp.svg" alt="WhatsApp"></a></li>
-                <li><a href="mailto:conquistesuavaga@pedromarins.com"><img class="icon-footer" src="images/icons/mail.svg" alt="Email"></a></li>
+            <h2 class="mentoria-title">Ficou com alguma dúvida?</h2>
+            <p><a target="_blank" href="whatsapp-direto">Me mande uma mensagem no WhatsApp.</a></p>
+            <p>Ficarei feliz de responder a todas suas perguntas!</p>
+                <ul class="contact">
+                    <li><a target="_blank" href="whatsapp-direto"><img class="icon-footer" src="images/icons/whatsapp.svg" alt="WhatsApp"></a>
+                
             </ul>
         </div>
     </footer>

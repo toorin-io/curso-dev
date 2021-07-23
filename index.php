@@ -19,22 +19,13 @@ include("chunks/head/meta-mentoria.php");
 include("chunks/body/google.php");
 ?>
 
-<?php
-include("chunks/body/top-warning.php");
-?>
-        
 <main>
         
 <?php
-include("chunks/body/video-mentoria.php");
 include("chunks/body/descricao-mentoria.php");
 include("chunks/body/quem-e-pedro.php");
 include("chunks/body/para-quem.php");
-include("chunks/body/calendario.php");
-include("chunks/body/depoimentos.php");
-include("chunks/body/faq.php");
-include("chunks/body/sale-box.php");
-include("chunks/body/cta-contato-com-countdown.php");
+include("chunks/body/cta-contato-sem-countdown.php");
 ?>      
          
 </main>
