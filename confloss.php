@@ -25,16 +25,13 @@ include("chunks/head/mautic-form.php");
 include("chunks/body/google.php");
 ?>
 
-        <header class="content header">
-            <h1 class="big-title">Conquiste Sua Vaga!</h1>
+        <header class="content header" style="margin-bottom:0em">
+            
+            <h1 class="big-title" style="font-size:3.5em; margin-bottom:0.5em" >Obrigado por ter participado de nossa palestra no CONFLOSS!</h1>
         </header>
 
-        <h2>Obrigado por ter participado de nossa palestra no CONFLOSS!</h2>
-
-        <p>
-        Preencha o formulário abaixo para receber em primeira mão a aula "Os sete erros que estão te impedindo de conquistar sua vaga dev"!
-        </p>
-        
+        <h2 style="max-width: 970px; margin: 0 auto; text-align: center; font-weight: 300; margin-bottom:1em">
+Preencha o formulário abaixo para receber em primeira mão a aula <br/><strong style="font-weight:600">Os sete erros que estão te impedindo de conquistar sua vaga dev!</strong></h2>
 
         <style type="text/css" scoped>
     .mauticform_wrapper { max-width: 600px; margin: 10px auto; color: #6f6f6f; font-weight: 400; font-family: 'Source Sans Pro', 'Helvetica Neue', 'Arial', 'sans-serif';font-size: 18px;}
