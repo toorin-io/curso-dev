@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/T--14AvTvmY?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/WNESJ2N_hMk?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -35,7 +35,7 @@ include("chunks/body/google.php");
 				<strong>Passo 1</strong>
 				Peça a aula pelo WhatsApp!
 				<span>
-					<a target="_blank" href="whatsapp-aula"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+					<a target="_blank" href="whatsapp-confloss"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
 				</span>
 			</p>
 			<p class="selling-text">

@@ -111,6 +111,7 @@ include("chunks/body/google.php");
 
 
 <?php
+include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");

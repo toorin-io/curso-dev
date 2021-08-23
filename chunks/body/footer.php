@@ -8,4 +8,8 @@
                 
             </ul>
         </div>
+        <div class="footer-links">
+        <a href="termos-de-uso">Termo de Uso</a><br/>
+        <a href="politica-de-privacidade">Política de Privacidade</a>
+        </div>
     </footer>
