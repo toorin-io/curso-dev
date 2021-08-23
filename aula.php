@@ -33,6 +33,7 @@ include("chunks/body/cta-contato-com-temporizador.php");
     </section>
 
 <?php
+include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");

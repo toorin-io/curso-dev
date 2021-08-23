@@ -27,6 +27,7 @@ include("chunks/body/google.php");
          
 <?php
 include("chunks/body/mautic-pixel.php");
+
 ?> 
     
 </body>

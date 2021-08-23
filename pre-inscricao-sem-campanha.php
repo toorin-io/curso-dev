@@ -67,6 +67,7 @@ include("chunks/body/mautic-form-pre-inscricao-sem-campanha.php");
 ?>
 
 <?php
+include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
