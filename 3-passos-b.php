@@ -27,16 +27,6 @@ include("chunks/body/google.php");
 	<header class="content" id="home">
 
         <h1 class="page-title">Descubra os 3 passos para se tornar o dev desejado pelo mercado!</h1>
-		<div class="presentation">
-			<h2 class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>
-
-            
-            
-<?php
-include("chunks/body/mautic-form-aula-campanha.php");
-?>
-    
-		</div>
 		
 	</header>
 
@@ -62,7 +52,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			</p>
 		</div>
         
-        		<a class="action-button" href="#home">Quero assistir a aula!</a>
+        		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
 
         
 	</section>
@@ -83,7 +73,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 12 de setembro.</strong></p>
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
-		<a class="action-button" href="#home">Quero assistir a aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
 
 		<div class="bio">
 			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
@@ -92,10 +82,17 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
 		</div>
         
-		<a class="action-button" href="#home">Quero assistir a aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
 	</section>
 
-	
+
+            <div class="presentation">
+            <h2 id="form-title" class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>
+<?php
+include("chunks/body/mautic-form-aula-campanha.php");
+?>
+		</div>
+
 
 <?php
 include("chunks/body/footer.php");
