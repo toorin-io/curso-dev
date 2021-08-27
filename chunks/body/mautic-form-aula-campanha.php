@@ -29,7 +29,7 @@
             </div>
 
             <div id="mauticform_09aulagratuita_quero_assistir_a_aula" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                <button type="submit" name="mauticform[quero_assistir_a_aula]" id="mauticform_input_09aulagratuita_quero_assistir_a_aula" value="" class="mauticform-button btn btn-default">Quero descobrir agora!</button>
+                <button type="submit" name="mauticform[quero_assistir_a_aula]" id="mauticform_input_09aulagratuita_quero_assistir_a_aula" value="" class="mauticform-button btn btn-default">Quero receber a aula agora!</button>
             </div>
             </div>
         </div>
