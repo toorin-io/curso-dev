@@ -62,7 +62,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 			</p>
 		</div>
 		<div class="content">
-        	<a class="action-button" href="#home">Quero assistir à aula!</a>
+        	<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 		</div>
 	</section>
 
@@ -82,7 +82,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 12 de setembro.</strong></p>
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
-		<a class="action-button" href="#home">Quero assistir à aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 	</section>
 
 	<section class="content description bio">
@@ -91,7 +91,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 		<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de dev. Comecei a trabalhar como dev há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
 		<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
         
-		<a class="action-button" href="#home">Quero assistir à aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 	</section>
 
 	

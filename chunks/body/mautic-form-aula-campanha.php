@@ -20,7 +20,8 @@
                 <span class="mauticform-errormsg" style="display: none;">Por favor, informe seu melhor e-mail</span>
             </div>
 
-            <div id="mauticform_09aulagratuita_quero_assistir_a_aula" class="mauticform-row mauticform-button-wrapper mauticform-field-3">
+                <input id="mauticform_input_09aulagratuita_testeab" name="mauticform[testeab]" value="" class="mauticform-hidden" type="hidden">
+            <div id="mauticform_09aulagratuita_quero_assistir_a_aula" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
                 <button type="submit" name="mauticform[quero_assistir_a_aula]" id="mauticform_input_09aulagratuita_quero_assistir_a_aula" value="" class="mauticform-button btn btn-default">Quero receber a aula agora!</button>
             </div>
             </div>
