@@ -52,7 +52,7 @@ include("chunks/body/google.php");
 			</p>
 		</div>
         
-        		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
+        		<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 
         
 	</section>
@@ -73,7 +73,7 @@ include("chunks/body/google.php");
         <p><strong>⚠️ Não perca tempo! A aula ficará disponível somente até o dia 12 de setembro.</strong></p>
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
-		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 
 		<div class="bio">
 			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
@@ -82,7 +82,7 @@ include("chunks/body/google.php");
 			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
 		</div>
         
-		<a class="action-button" href="#form-title">Quero assistir a aula!</a>
+		<a class="action-button" href="#form-title">Quero assistir à aula!</a>
 	</section>
 
 
