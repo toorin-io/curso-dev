@@ -76,7 +76,7 @@ body.mentoria {
 }
 
 .presentation {
-    padding: 1em 20% 2em;
+    padding: 1em 0 2em;
     /* background: url(../images/pedromarins-header.jpg) right bottom no-repeat; */
 }
 
@@ -101,12 +101,12 @@ h1 {
     background: #85FFF1;
     color: #333B46;
     text-decoration: none;
-    display: inline-block;
-    width: 100%;
+    display: block;
+    width: 70%;
     border-radius: 15px;
     text-align: center;
     padding: 10px 0;
-    margin: 1em 0;
+    margin: 1em auto;
 }
 
 .selling-points {
@@ -118,11 +118,6 @@ h1 {
 .selling-points .content {
     display: flex;
     align-content: stretch;
-}
-
-.selling-points .action-button {
-    width: 70%;
-    margin: 1.5em 15% 1em;
 }
 
 .selling-text {
@@ -169,8 +164,7 @@ h1 {
 }
 .bio {
     border-top: 2px solid #333B46;
-    margin: 4em 0;
-    padding: 4em 0 0;
+    border-bottom: 2px solid #333B46;
 }
 
 .bio-photo {
@@ -221,23 +215,24 @@ h1 {
 }
 
 .mauticform-button {
-    background: #85FFF1;
-    color: #333B46;
-    width: 100%;
+    background: #D83A4E;
+    color: #FFFFFF;
+    width: 80%;
     border: none;
-    border-radius: 15px;
+    border-radius: 10px;
     text-align: center;
     padding: 15px 0;
-    font-size: 1em;
-    margin: 1em 0 0;
-    box-shadow: inset 0 0 3px 0 #FFFFFF, 1px 1px 4px 0 #333B46;
+    font-size: 1.3em;
+    margin: 1em auto 0;
+    /* box-shadow: inset 0 0 3px 0 #FFFFFF, 1px 1px 4px 0 #333B46; */
     cursor: pointer;
+    display: block;
+    font-weight: 600;
 }
 
 .presentation .mauticform-button {
     font-size: 1.2em;
     text-transform: uppercase;
-    margin: 0.7em 0 0;
 }
 
 .header {
@@ -494,10 +489,18 @@ p.sale-price {
     padding: 2em 0 0;
     background: #333B46;
     color: #FFFFFF;
+    font-size: 1rem;
+    line-height: 1;
 }
 
 .mentoria-footer a {
     color: #FFFFFF;
+}
+
+p.footer-links {
+    margin: 5em 0 0;
+    text-align: center;
+    font-size: 0.8em;
 }
 
 .how-to {
@@ -596,13 +599,13 @@ p.sale-price {
 
 @media only screen and (max-width: 1200px) {
     .presentation {
-        padding: 4em 35% 4em 0;
+        padding: 4em 0 4em 0;
     }
 }
 
 @media only screen and (max-width: 1024px) {
     .presentation {
-        padding: 1em 2em 4em;
+        padding: 1em 0 4em;
         background: none;
     }
 

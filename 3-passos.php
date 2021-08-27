@@ -61,10 +61,9 @@ include("chunks/body/mautic-form-aula-campanha.php");
                 Conheça os segredos do mercado que os cursos não ensinam!
 			</p>
 		</div>
-        
-        		<a class="action-button" href="#home">Quero assistir à aula!</a>
-
-        
+		<div class="content">
+        	<a class="action-button" href="#home">Quero assistir à aula!</a>
+		</div>
 	</section>
 
 	<section class="content description">
@@ -84,13 +83,13 @@ include("chunks/body/mautic-form-aula-campanha.php");
         <p><strong>Preencha o formulário</strong> e se inscreva para assistir à aula sem nenhum custo! Ao final dela você saberá exatamente quais passos dar para conquistar sua vaga!</p>
 
 		<a class="action-button" href="#home">Quero assistir à aula!</a>
+	</section>
 
-		<div class="bio">
-			<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
-			<h2 class="description-title">Pedro Marins</h2>
-			<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de dev. Comecei a trabalhar como dev há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
-			<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
-		</div>
+	<section class="content description bio">
+		<img class="bio-photo" src="./images/pedromarins.jpg" alt="Pedro Marins">
+		<h2 class="description-title">Pedro Marins</h2>
+		<p>Sou o Pedro Marins. Minha missão é ajudar quem deseja começar na carreira de dev. Comecei a trabalhar como dev há 15 anos e hoje também atuo como professor na Alura e no Ibmec. Sou MBA em Gestão de Conhecimento e Negócios pela COPPE/UFRJ, e tenho minha empresa de desenvolvimento de software, onde sou criador de negócios inovadores.</p>
+		<p>Depois de trabalhar em uma centena de projetos, montar dezenas de equipes e entrevistar mais de mil pessoas, chegou a hora de mostrar como eu construí minha carreira e ajudar você a conquistar sua vaga também!</p>
         
 		<a class="action-button" href="#home">Quero assistir à aula!</a>
 	</section>
