@@ -12,7 +12,7 @@
 	<meta property="og:image:height" content="630">
 	<meta name="twitter:card" content="summary_large_image">
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;700&display=swap" rel="stylesheet">    
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/style.css">
 	<link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">

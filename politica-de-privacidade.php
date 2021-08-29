@@ -96,6 +96,7 @@ Email: contato@conquistandosuavaga.com
 
   
 <?php
+include("chunks/body/float-button.php");
 include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
