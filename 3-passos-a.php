@@ -29,11 +29,12 @@ include("chunks/body/google.php");
         <h1 class="page-title">Descubra os 3 passos para se tornar o dev desejado pelo mercado!</h1>
 		
         
-        <div class="presentation" id="form_header">
-		<h2 id="form-title" class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>      
+        <div class="presentation">
+		<h2 id="form-title" class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>         
 <?php
 include("chunks/body/mautic-form-aula-campanha.php");
 ?>
+    
 		</div>
 		
 	</header>
@@ -93,13 +94,6 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	</section>
 
 	
-    	<div class="content presentation" id="form_footer">
-		<h2 id="form-title" class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>
-		<?php
-		include("chunks/body/mautic-form-aula-campanha.php");
-		?>
-	</div>
-
 
 <?php
 include("chunks/body/footer.php");
@@ -109,21 +103,6 @@ include("chunks/body/mautic-pixel.php");
 ?> 
       
 
-<script>
-    
-if (Math.round(Math.random(1))) {
-    
-    document.getElementById("form_header").remove();
-    document.getElementById("mauticform_input_09aulagratuita_testeab").value = "footer";
-}else{
-    document.getElementById("form_footer").remove();
-    document.getElementById("mauticform_input_09aulagratuita_testeab").value = "header";
-
-}
-    
-    
-</script>    
-    
     
 </body>
 
