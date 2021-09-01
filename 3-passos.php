@@ -42,19 +42,19 @@ include("chunks/body/mautic-form-aula-campanha.php");
 		<div class="content">
 			<p class="selling-text">
 				<span>
-					<img class="selling-icon" src="images/icons/money.png" alt="">
+					<img class="selling-icon" src="images/icons/correct-icon-blue.png" alt="">
 				</span>
 				Saiba como ser contratado como dev sem nunca ter trabalhado na área!
 			</p>
 			<p class="selling-text">
 				<span>
-					<img class="selling-icon" src="images/icons/speaking.png" alt="">
+					<img class="selling-icon" src="images/icons/correct-icon-blue.png" alt="">
 				</span>
                 Pare de enviar currículos sem nunca receber respostas!
 			</p>
 			<p class="selling-text">
 				<span>
-					<img class="selling-icon" src="images/icons/challenge.png" alt="">
+					<img class="selling-icon" src="images/icons/correct-icon-blue.png" alt="">
                 </span>
                 Conheça os segredos do mercado que os cursos não ensinam!
 			</p>
@@ -115,11 +115,14 @@ if (Math.round(Math.random(1))) {
     
     document.getElementById("form_header").remove();
     document.getElementById("mauticform_input_09aulagratuita_testeab").value = "footer";
+    
 }else{
+
     document.getElementById("form_footer").remove();
     document.getElementById("mauticform_input_09aulagratuita_testeab").value = "header";
 
 }
+    
     
     
 </script>    

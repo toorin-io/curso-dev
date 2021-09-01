@@ -9,7 +9,7 @@
 
             <div id="mauticform_09aulagratuita_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
                 <label id="mauticform_label_09aulagratuita_nome" for="mauticform_input_09aulagratuita_nome" class="mauticform-label">Nome</label>
-                <input id="mauticform_input_09aulagratuita_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text" autofocus>
+                <input id="mauticform_input_09aulagratuita_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
