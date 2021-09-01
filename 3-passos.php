@@ -30,7 +30,7 @@ include("chunks/body/google.php");
 		
         
         <div class="presentation" id="form_header">
-		<h2 id="form-title" class="presentation-title">Inscreva-se agora para assistir à aula gratuita!</h2>      
+		<h2 id="form-title" class="presentation-title">Inscreva-se agora gratuitamente para assistir à aula!</h2>      
 <?php
 include("chunks/body/mautic-form-aula-campanha.php");
 ?>
@@ -65,9 +65,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	</section>
 
 	<section class="content description">
-		<h2 class="description-title">O que você vai aprender na aula gratuita?</h2>
-
-        <p><strong>Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado?</strong></p>
+		<h2 class="description-title">Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado?</h2>
         <p>Você estuda pra caramba, faz cursos, já sabe resolver problemas com lógica de programação, e sonha em viver desenvolvendo profissionalmente soluções para <strong>problemas reais.</strong></p>
         <p> Mas, <strong>parece existir um problema no seu caminho insuperável:</strong> os recrutadores dizem que você precisa ter 2 anos de experiência em qualquer tecnologia para conquistar sua primeira vaga.</p>
         <p>Essa situação te deixa frustado. Com vontade de desistir. E eu te entendo. Quando eu comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong></p>
