@@ -67,7 +67,7 @@ include("chunks/body/mautic-form-aula-campanha.php");
 	<section class="content description">
 		<h2 class="description-title">Para ser contratado é preciso ter experiência, e para ter experiência é preciso já ter trabalhado?</h2>
         <p>Você estuda pra caramba, faz cursos, já sabe resolver problemas com lógica de programação, e sonha em viver desenvolvendo profissionalmente soluções para <strong>problemas reais.</strong></p>
-        <p> Mas, <strong>parece existir um problema no seu caminho insuperável:</strong> os recrutadores dizem que você precisa ter 2 anos de experiência em qualquer tecnologia para conquistar sua primeira vaga.</p>
+        <p> Mas, <strong>existe um problema no seu caminho que parece insuperável:</strong> os recrutadores dizem que você precisa ter 2 anos de experiência em qualquer tecnologia para conquistar sua primeira vaga.</p>
         <p>Essa situação te deixa frustado. Com vontade de desistir. E eu te entendo. Quando eu comecei, <strong>todas as vagas pareciam inatingíveis para minha experiência.</strong></p>
         <p>Sempre eram <strong>pedidos anos de conhecimento em diversas tecnologias!</strong> E eu pensava: "Como afinal um júnior, que está começando agora, pode saber tudo isso???"</p>
         <p>Não foi fácil manter a cabeça de pé! Tiveram horas que quase achei que a carreira de dev não fosse para mim. Mas <strong>eu não desisti</strong>.</p>
