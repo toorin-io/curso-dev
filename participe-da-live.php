@@ -27,10 +27,8 @@ include("chunks/body/google.php");
 
         <header class="content header">
             <h1 class="big-title">Conquiste Sua Vaga!</h1>
+            <h2>Participe da Live onde eu analisarei perfis no LinkedIn ao vivo, segunda-feira às 19 horas!</h2>
         </header>
-
-        <h2>Participe da Live onde eu analisarei perfis no LinkedIn ao vivo, segunda-feira às 19 horas!</h2>
-
 
 <style type="text/css" scoped>
     .mauticform_wrapper { max-width: 600px; margin: 10px auto; }
