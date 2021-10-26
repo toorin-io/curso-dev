@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Parabéns por se inscrever para receber novos materiais!</title>
+	<title>Parabéns por se inscrever para receber em primeira mão minhas novas aulas!</title>
 
 <?php
 include("chunks/head/google.php");
