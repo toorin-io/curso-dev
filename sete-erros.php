@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content" id="home">
-		<h1 class="page-title">Acesso à aula gratuita será liberado no dia 1º de novembro!</h1>
+		<h1 class="page-title">Acesso à aula gratuita será liberado em novembro!</h1>
 
         <div class="presentation">
 			<h2>Inscreva-se para ter a aula com os sete erros que estão te impedindo de conquistar sua vaga como dev!</h2>
