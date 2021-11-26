@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  <title>Conquiste Sua Vaga! Solicite acesso à aula pelo WhatsApp</title>
 
-<title>Conquiste Sua Vaga! Agende um horário no You Can Book Me!</title>
-
-<meta http-equiv="refresh" content="1; url = 'https://conquiste-sua-vaga-10.youcanbook.me/'" />
-
-<?php
+    <meta http-equiv="refresh"
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521992959087&text=Oi%20Pedro!%20Eu%20quero%20conversar%20com%20você!'" />
+ 
+    <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
 include("chunks/head/meta.php");
 ?>
- 
+    
 </head>
 
 <body class="forward">
@@ -20,14 +20,14 @@ include("chunks/body/google.php");
 ?>
 <div class="forward-content">
 
-  <p>Você está sendo redirecionado para o You Can Book Me!</p>
+  <p>Você está sendo redirecionado para o WhatsApp!</p>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://conquiste-sua-vaga-10.youcanbook.me/">clique aqui para acessar as opções de horário na minha agenda</a>!</p>
-
+  <p>Caso a página não carregue automaticamente, <a
+      href="https://api.whatsapp.com/send?phone=5521992959087&text=Oi%20Pedro!%20Eu%20quero%20conversar%20com%20você!">clique
+      aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php
-include("chunks/body/mautic-pixel.php");
-?> 
+include("chunks/body/mautic-pixel.php");?> 
 
 </body>
 </html>
