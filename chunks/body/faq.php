@@ -4,7 +4,7 @@
                 <label class="collapsible" for="collapsible" class="lbl-toggle">
                     <span>Quais os dias e horários das aulas ao vivo?</span>
                     <input id="collapsible" class="toggle" type="checkbox">
-                    <p>Todos os sábados a partir de 22 de janeiro, de 09:00 às 12:00, no horário de Brasília.</p>
+                    <p>Todos os sábados a partir de 26 de fevereiro, de 09:00 às 12:00, no horário de Brasília.</p>
                 </label>
                 <label class="collapsible" for="collapsible1" class="lbl-toggle">
                     <span>Como será o seu suporte?</span>
@@ -35,12 +35,12 @@
                 <label class="collapsible" for="collapsible4" class="lbl-toggle">
                     <span>Até que dia/hora é a matrícula?</span>
                     <input id="collapsible4" class="toggle" type="checkbox">
-                    <p>Até sexta, 21 de janeiro, às 23:59 (horário de Brasília). A mentoria começará em 22 de janeiro.</p>
+                    <p>Até sexta, 25 de fevereiro, às 23:59 (horário de Brasília). A mentoria começará em 26 de fevereiro.</p>
                 </label>
                 <label class="collapsible" for="collapsible5" class="lbl-toggle">
                     <span>Até que dia/hora é possível fazer a matrícula com valor promocional?</span>
                     <input id="collapsible5" class="toggle" type="checkbox">
-                    <p>Até terça, 18 de janeiro, às 23:59 (horário de Brasília).</p>
+                    <p>Até quarta, 23 de fevereiro, às 23:59 (horário de Brasília).</p>
                 </label>
                 <label class="collapsible" for="collapsible6" class="lbl-toggle">
                     <span> Qual o valor do investimento?</span>

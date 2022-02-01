@@ -24,7 +24,7 @@
     }
 
     window.onload = function () {
-        var end = new Date(2022, 00, 19, 23, 59, 59);
+        var end = new Date(2022, 01, 23, 23, 59, 59);
         // sempre preencher o mês -1 (janeiro é zero)
         var now = new Date()
         var timeDiff = Math.round(Math.abs(end - now) / 1000);
