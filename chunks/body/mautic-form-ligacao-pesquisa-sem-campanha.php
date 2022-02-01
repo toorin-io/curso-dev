@@ -54,8 +54,8 @@
             </div>
 
             <div id="mauticform_99ligacaodepesquisa_voce_pode_investir_o_equi1" data-validate="voce_pode_investir_o_equi1" data-validation-type="select" class="mauticform-row mauticform-select mauticform-field-8 mauticform-required">
-                <label id="mauticform_label_99ligacaodepesquisa_voce_pode_investir_o_equi1" for="mauticform_input_99ligacaodepesquisa_voce_pode_investir_o_equi1" class="mauticform-label">Você pode investir o equivalente à apenas R$ 3,32 por dia nesta mentoria?</label>
-                <span class="mauticform-helpmessage">O investimento na mentoria é de 12 x R$ 99,70 ou R$ 997 à vista. Isso equivale à apenas R$ 3,32 por dia na opção parcelada.</span>
+                <label id="mauticform_label_99ligacaodepesquisa_voce_pode_investir_o_equi1" for="mauticform_input_99ligacaodepesquisa_voce_pode_investir_o_equi1" class="mauticform-label">Você pode investir o equivalente à apenas R$ 4,93 por dia nesta mentoria?</label>
+                <span class="mauticform-helpmessage">O investimento na mentoria é de 12 x R$ 147,90 ou R$ 1479 à vista. Isso equivale à apenas R$ 4,93 por dia na opção parcelada.</span>
                 <select id="mauticform_input_99ligacaodepesquisa_voce_pode_investir_o_equi1" name="mauticform[voce_pode_investir_o_equi1]" value="" class="mauticform-selectbox">
                     <option value=""></option>                    <option value="1">Sim</option>                    <option value="0">Não</option>
                 </select>

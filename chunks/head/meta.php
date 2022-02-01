@@ -21,13 +21,8 @@
     <!-- Data de publicação e alteração -->
 
 	<meta property="article:published_time" content="2021-06-28">
-    <meta property="article:modified_time" content="2021-11-26T23:59:44+00:00">
+    <meta property="article:modified_time" content="2022-01-15T23:59:44+00:00">
 
-    <!-- URL -->
-    <meta property="og:url" content="https://www.conquistandosuavaga.com">
-    <link rel="canonical" href="https://www.conquistandosuavaga.com">
-	<link rel="shortlink" href="https://www.conquistandosuavaga.com">
-    
     <!-- Fim da parte do Meta que NÃO MUDA. É igual para todas as páginas-->
 
 <!-- Pixel do Linkedin..por enquanto aqui! -->

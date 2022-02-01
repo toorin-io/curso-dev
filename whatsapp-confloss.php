@@ -4,7 +4,7 @@
   <title>Conquiste Sua Vaga! Solicite acesso à aula pelo WhatsApp</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://api.whatsapp.com/send?phone=5521992959087&text=Oi%20Pedro!%20Eu%20estava%20na%20palestra%20do%20CONFLOSS%20e%20quero%20receber%20o%20link%20para%20a%20aula!'" />
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Oi%20Pedro!%20Eu%20estava%20na%20palestra%20do%20CONFLOSS%20e%20quero%20receber%20o%20link%20para%20a%20aula!'" />
  
     <?php
 include("chunks/head/google.php");
@@ -23,7 +23,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o WhatsApp!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://api.whatsapp.com/send?phone=5521992959087&text=Oi%20Pedro!%20Eu%20estava%20na%20palestra%20do%20CONFLOSS%20e%20quero%20receber%20o%20link%20para%20a%20aula!">clique
+      href="https://api.whatsapp.com/send?phone=5521977386162&text=Oi%20Pedro!%20Eu%20estava%20na%20palestra%20do%20CONFLOSS%20e%20quero%20receber%20o%20link%20para%20a%20aula!">clique
       aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php

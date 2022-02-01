@@ -103,7 +103,7 @@
             </div>
 
             <div id="mauticform_11confirmacaomatricula_o_que_quase_fez_voce_nao" data-validate="o_que_quase_fez_voce_nao" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-15 mauticform-required">
-                <label id="mauticform_label_11confirmacaomatricula_o_que_quase_fez_voce_nao" for="mauticform_input_11confirmacaomatricula_o_que_quase_fez_voce_nao" class="mauticform-label">O que quase fez você não se matricular na mentoria?</label>
+                <label id="mauticform_label_11confirmacaomatricula_o_que_quase_fez_voce_nao" for="mauticform_input_11confirmacaomatricula_o_que_quase_fez_voce_nao" class="mauticform-label">O que quase te fez não se matricular na mentoria?</label>
                 <input id="mauticform_input_11confirmacaomatricula_o_que_quase_fez_voce_nao" name="mauticform[o_que_quase_fez_voce_nao]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>

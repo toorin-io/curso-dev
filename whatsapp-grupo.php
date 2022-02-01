@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <title>Conquiste Sua Vaga! Contato pelo WhastApp</title>
+  <title>Conquiste Sua Vaga! Grupo no WhastApp</title>
 
-    <meta http-equiv="refresh" content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162" />
+    <meta http-equiv="refresh" content="1; url = 'https://chat.whatsapp.com/G1zlCVfOh1BCNe2IIj37U5" />
 
 <?php
 include("chunks/head/google.php");
@@ -21,8 +21,8 @@ include("chunks/body/google.php");
   <div class="forward-content">
     <p>Você está sendo redirecionado para o WhatsApp!</p>
 
-    <p>Caso a página não carregue automaticamente, <a href="https://api.whatsapp.com/send?phone=5521977386162">clique aqui
-        para me enviar a mensagem</a>!</p>
+    <p>Caso a página não carregue automaticamente, <a href="https://chat.whatsapp.com/G1zlCVfOh1BCNe2IIj37U5">clique aqui
+        para entrar no grupo</a>!</p>
   </div>
 
 <?php

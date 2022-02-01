@@ -35,17 +35,17 @@
                 <label class="collapsible" for="collapsible4" class="lbl-toggle">
                     <span>Até que dia/hora é a matrícula?</span>
                     <input id="collapsible4" class="toggle" type="checkbox">
-                    <p>Até sexta, 29 de novembro, às 23:59 (horário de Brasília). A mentoria começará em 22 de janeiro.</p>
+                    <p>Até sexta, 21 de janeiro, às 23:59 (horário de Brasília). A mentoria começará em 22 de janeiro.</p>
                 </label>
                 <label class="collapsible" for="collapsible5" class="lbl-toggle">
                     <span>Até que dia/hora é possível fazer a matrícula com valor promocional?</span>
                     <input id="collapsible5" class="toggle" type="checkbox">
-                    <p>Até segunda, 29 de novembro, às 23:59 (horário de Brasília).</p>
+                    <p>Até terça, 18 de janeiro, às 23:59 (horário de Brasília).</p>
                 </label>
                 <label class="collapsible" for="collapsible6" class="lbl-toggle">
                     <span> Qual o valor do investimento?</span>
                     <input id="collapsible6" class="toggle" type="checkbox">
-                    <p>O investimento no Conquiste Sua Vaga com desconto promocional tem o valor de R$ 997 à vista ou 12 x R$ 99,70.</p>
+                    <p>O investimento no Conquiste Sua Vaga com desconto promocional tem o valor de R$ 1479 à vista ou 12 x R$ 147,90.</p>
                 </label>
                 <label class="collapsible" for="collapsible7" class="lbl-toggle">
                     <span>Como posso pagar?</span>
