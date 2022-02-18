@@ -33,7 +33,7 @@ include("chunks/body/google.php");
 		<div class="content">
 			<p class="selling-text">
 				<strong>Acesse o Telegram!</strong>
-				Entre no canal Conquiste Sua Vaga!
+				Entre no canal Conquiste Sua Vaga e receba lá o link para participar da live!
 				<span>
 					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
 				</span>
