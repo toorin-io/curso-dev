@@ -4,7 +4,7 @@
     
   <title>Conquiste Sua Vaga! Você está sendo redirecionado para a nova página da mentoria!</title>
     
-  <meta http-equiv="refresh" content="1; url = 'https://conquistesuavaga.com/mentoria'" />
+  <meta http-equiv="refresh" content="1; url = 'https://conquistesuavaga.com'" />
 
 
 <?php
@@ -24,7 +24,7 @@ include("chunks/body/google.php");
 
   <p>Você está sendo redirecionado para a nova página da mentoria Conquiste Sua Vaga!</p>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://conquistesuavaga.com/mentoria">clique aqui para acessar</a>!</p>
+  <p>Caso a página não carregue automaticamente, <a href="https://conquistesuavaga.com">clique aqui para acessar</a>!</p>
 
 </div>
  <?php
