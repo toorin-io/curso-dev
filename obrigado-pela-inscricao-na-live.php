@@ -37,7 +37,14 @@ include("chunks/body/google.php");
 				<span>
 					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
 				</span>
-			</p>			
+			</p>	
+            		<p class="selling-text">
+				<strong>Divulgue no WhatsApp!</strong>
+				Chame seus amigos que querem virar dev no WhatsApp para participarem da live também!
+				<span>
+					<a target="_blank" href="whatsapp-live.php"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+				</span>
+			</p>		
 
 		</div>
 	</section>
