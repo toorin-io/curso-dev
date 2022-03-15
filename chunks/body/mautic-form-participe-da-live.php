@@ -24,55 +24,61 @@
     .mauticform-button-wrapper .mauticform-button.btn-default[disabled], .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd; opacity: 0.75; cursor: not-allowed; }
     .mauticform-pagebreak-wrapper .mauticform-button-wrapper {  display: inline; }
 </style>
-<div id="mauticform_wrapper_12live" class="mauticform_wrapper">
-    <form autocomplete="false" role="form" method="post" action="https://mkt.henriqueandrade.com.br/form/submit?formId=41" id="mauticform_12live" data-mautic-form="12live" enctype="multipart/form-data">
-        <div class="mauticform-error" id="mauticform_12live_error"></div>
-        <div class="mauticform-message" id="mauticform_12live_message"></div>
+<div id="mauticform_wrapper_13live" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://mkt.henriqueandrade.com.br/form/submit?formId=46" id="mauticform_13live" data-mautic-form="13live" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_13live_error"></div>
+        <div class="mauticform-message" id="mauticform_13live_message"></div>
         <div class="mauticform-innerform">
 
             
           <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
 
-            <div id="mauticform_12live_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
-                <label id="mauticform_label_12live_nome" for="mauticform_input_12live_nome" class="mauticform-label">Nome</label>
-                <input id="mauticform_input_12live_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_13live_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_13live_nome" for="mauticform_input_13live_nome" class="mauticform-label">Nome</label>
+                <input id="mauticform_input_13live_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_12live_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
-                <label id="mauticform_label_12live_email" for="mauticform_input_12live_email" class="mauticform-label">E-mail</label>
-                <input id="mauticform_input_12live_email" name="mauticform[email]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_13live_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                <label id="mauticform_label_13live_email" for="mauticform_input_13live_email" class="mauticform-label">E-mail</label>
+                <input id="mauticform_input_13live_email" name="mauticform[email]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_12live_telefone" class="mauticform-row mauticform-text mauticform-field-3">
-                <label id="mauticform_label_12live_telefone" for="mauticform_input_12live_telefone" class="mauticform-label">Número de WhatsApp</label>
-                <input id="mauticform_input_12live_telefone" name="mauticform[telefone]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_13live_telefone" class="mauticform-row mauticform-text mauticform-field-3">
+                <label id="mauticform_label_13live_telefone" for="mauticform_input_13live_telefone" class="mauticform-label">Número de WhatsApp</label>
+                <input id="mauticform_input_13live_telefone" name="mauticform[telefone]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_12live_link_para_seu_curriculo" data-validate="link_para_seu_curriculo" data-validation-type="url" class="mauticform-row mauticform-url mauticform-field-4 mauticform-required">
-                <label id="mauticform_label_12live_link_para_seu_curriculo" for="mauticform_input_12live_link_para_seu_curriculo" class="mauticform-label">Link para seu currículo</label>
-                <span class="mauticform-helpmessage">Lembre de deixar o arquivo com acesso livre para qualquer um com o link!</span>
-                <input id="mauticform_input_12live_link_para_seu_curriculo" name="mauticform[link_para_seu_curriculo]" value="" class="mauticform-input" type="url">
+            <div id="mauticform_13live_link_para_seu_linkedin" data-validate="link_para_seu_linkedin" data-validation-type="url" class="mauticform-row mauticform-url mauticform-field-4 mauticform-required">
+                <label id="mauticform_label_13live_link_para_seu_linkedin" for="mauticform_input_13live_link_para_seu_linkedin" class="mauticform-label">Link para seu LinkedIn</label>
+                <span class="mauticform-helpmessage">Atenção! Se colar a URL errada eu não vou conseguir acessar!</span>
+                <input id="mauticform_input_13live_link_para_seu_linkedin" name="mauticform[link_para_seu_linkedin]" value="" class="mauticform-input" type="url">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_12live_gostaria_de_comentar_algu" class="mauticform-row mauticform-text mauticform-field-5">
-                <label id="mauticform_label_12live_gostaria_de_comentar_algu" for="mauticform_input_12live_gostaria_de_comentar_algu" class="mauticform-label">Gostaria de comentar alguma coisa comigo antes da live?</label>
-                <input id="mauticform_input_12live_gostaria_de_comentar_algu" name="mauticform[gostaria_de_comentar_algu]" value="" class="mauticform-input" type="text">
-                <span class="mauticform-errormsg" style="display: none;"></span>
+            <div id="mauticform_13live_por_que_voce_deseja_ser_d" data-validate="por_que_voce_deseja_ser_d" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-5 mauticform-required">
+                <label id="mauticform_label_13live_por_que_voce_deseja_ser_d" for="mauticform_input_13live_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser dev?</label>
+                <input id="mauticform_input_13live_por_que_voce_deseja_ser_d" name="mauticform[por_que_voce_deseja_ser_d]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_12live_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-6">
-                <button type="submit" name="mauticform[submit]" id="mauticform_input_12live_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
+            <div id="mauticform_13live_o_que_falta_para_voce_con" data-validate="o_que_falta_para_voce_con" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-6 mauticform-required">
+                <label id="mauticform_label_13live_o_que_falta_para_voce_con" for="mauticform_input_13live_o_que_falta_para_voce_con" class="mauticform-label">O que falta para você conquistar sua vaga como dev?</label>
+                <input id="mauticform_input_13live_o_que_falta_para_voce_con" name="mauticform[o_que_falta_para_voce_con]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+            </div>
+
+            <div id="mauticform_13live_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-7">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_13live_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
             </div>
             </div>
         </div>
 
-        <input type="hidden" name="mauticform[formId]" id="mauticform_12live_id" value="41">
-        <input type="hidden" name="mauticform[return]" id="mauticform_12live_return" value="">
-        <input type="hidden" name="mauticform[formName]" id="mauticform_12live_name" value="12live">
+        <input type="hidden" name="mauticform[formId]" id="mauticform_13live_id" value="46">
+        <input type="hidden" name="mauticform[return]" id="mauticform_13live_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_13live_name" value="13live">
 
         </form>
 </div>

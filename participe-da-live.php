@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
+        <title>Conquiste Sua Vaga - Envie seu LinkedIn</title>
 
 
 <?php
@@ -27,7 +27,7 @@ include("chunks/body/google.php");
 
         <header class="content header">
             <h1 class="big-title">Conquiste Sua Vaga!</h1>
-            <h2>Participe da Live onde eu analisarei currículos ao vivo, segunda-feira às 19 horas!</h2>
+            <h2>Participe da Live onde eu analisarei perfis do LinkedIn ao vivo, segunda-feira às 19 horas!</h2>
         </header>
 
 
