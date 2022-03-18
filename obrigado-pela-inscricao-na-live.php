@@ -33,11 +33,18 @@ include("chunks/body/google.php");
 		<div class="content">
 			<p class="selling-text">
 				<strong>Acesse o Telegram!</strong>
-				Entre no canal Conquiste Sua Vaga!
+				Entre no canal Conquiste Sua Vaga e receba lá o link para participar da live!
 				<span>
 					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
 				</span>
-			</p>			
+			</p>	
+            		<p class="selling-text">
+				<strong>Divulgue no WhatsApp!</strong>
+				Chame seus amigos que querem virar dev no WhatsApp para participarem da live também!
+				<span>
+					<a target="_blank" href="whatsapp-live.php"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
+				</span>
+			</p>		
 
 		</div>
 	</section>
