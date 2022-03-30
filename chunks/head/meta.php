@@ -21,7 +21,7 @@
     <!-- Data de publicação e alteração -->
 
 	<meta property="article:published_time" content="2021-06-28">
-    <meta property="article:modified_time" content="2022-03-06T23:59:44+00:00">
+    <meta property="article:modified_time" content="2022-04-10T23:59:44+00:00">
 
     <!-- Fim da parte do Meta que NÃO MUDA. É igual para todas as páginas-->
 
