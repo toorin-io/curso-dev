@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aula: Descubra os 3 passos para se tornar o dev desejado pelo mercado!</title>
+	<title>Mentoria Conquiste Sua Vaga</title>
 	
     <?php
 include("chunks/head/google.php");
