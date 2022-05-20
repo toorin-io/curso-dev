@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/n__6mE8DDl0?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/_W-r841wBK8?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
