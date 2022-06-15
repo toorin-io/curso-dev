@@ -7,7 +7,7 @@
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
-include("chunks/head/meta-aula.php");
+include("chunks/head/meta-mentoria.php");
 
     ?>
     
