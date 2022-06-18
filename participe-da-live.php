@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu LinkedIn</title>
+        <title>Conquiste Sua Vaga - Participe da Aula ao Vivo</title>
 
 
 <?php
@@ -26,8 +26,8 @@ include("chunks/body/google.php");
 ?>
 
         <header class="content header">
-            <h1 class="big-title">Inscrição para aula ao vivo com Pedro Marins!</h1>
-            <h2>Participe gratuitamente da aula ao vivo <b>Como passar em qualquer entrevista para dev</b> ao vivo na segunda-feira às 18h30!</h2>
+            <h1 class="big-title">Aula ao vivo com Pedro Marins!</h1>
+            <h2>Participe gratuitamente da aula ao vivo <b>COMO PASSAR EM QUALQUER ENTREVISTA PARA DEV</b> na segunda-feira às 18h30!</h2>
         </header>
 
 

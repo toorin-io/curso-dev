@@ -35,7 +35,7 @@ include("chunks/body/google.php");
 				<strong>Adicione na sua agenda!</strong>
 				Não esqueça da aula! Adicione um lembrete na sua agenda!
 				<span>
-					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+passar+em+qualquer+entrevista+para+dev&details=Link+para+o+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&dates=20220620T213000Z%2F20220620T233000Z"><img class="selling-icon" src="images/icons/correct-icon.png" alt=""></a>
+					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+passar+em+qualquer+entrevista+para+dev&details=Link+para+o+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&dates=20220620T213000Z%2F20220620T233000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
 				</span>
 			</p>	
 			<p class="selling-text">
