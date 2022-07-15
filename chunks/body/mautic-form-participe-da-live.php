@@ -24,86 +24,84 @@
     .mauticform-button-wrapper .mauticform-button.btn-default[disabled], .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd; opacity: 0.75; cursor: not-allowed; }
     .mauticform-pagebreak-wrapper .mauticform-button-wrapper {  display: inline; }
 </style>
-
-
-<div id="mauticform_wrapper_16live" class="mauticform_wrapper">
-    <form autocomplete="false" role="form" method="post" action="https://mkt.henriqueandrade.com.br/form/submit?formId=64" id="mauticform_16live" data-mautic-form="16live" enctype="multipart/form-data">
-        <div class="mauticform-error" id="mauticform_16live_error"></div>
-        <div class="mauticform-message" id="mauticform_16live_message"></div>
+<div id="mauticform_wrapper_17live" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://mkt.henriqueandrade.com.br/form/submit?formId=69" id="mauticform_17live" data-mautic-form="17live" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_17live_error"></div>
+        <div class="mauticform-message" id="mauticform_17live_message"></div>
         <div class="mauticform-innerform">
 
             
           <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
 
-            <div id="mauticform_16live_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
-                <label id="mauticform_label_16live_nome" for="mauticform_input_16live_nome" class="mauticform-label">Nome</label>
-                <input id="mauticform_input_16live_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_17live_nome" for="mauticform_input_17live_nome" class="mauticform-label">Nome</label>
+                <input id="mauticform_input_17live_nome" name="mauticform[nome]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_16live_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
-                <label id="mauticform_label_16live_email" for="mauticform_input_16live_email" class="mauticform-label">E-mail</label>
-                <input id="mauticform_input_16live_email" name="mauticform[email]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                <label id="mauticform_label_17live_email" for="mauticform_input_17live_email" class="mauticform-label">E-mail</label>
+                <input id="mauticform_input_17live_email" name="mauticform[email]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
             </div>
 
-            <div id="mauticform_16live_qual_sua_idade" class="mauticform-row mauticform-number mauticform-field-3">
-                <label id="mauticform_label_16live_qual_sua_idade" for="mauticform_input_16live_qual_sua_idade" class="mauticform-label">Qual sua Idade?</label>
-                <input id="mauticform_input_16live_qual_sua_idade" name="mauticform[qual_sua_idade]" value="" class="mauticform-input" type="number">
+            <div id="mauticform_17live_qual_sua_idade" class="mauticform-row mauticform-number mauticform-field-3">
+                <label id="mauticform_label_17live_qual_sua_idade" for="mauticform_input_17live_qual_sua_idade" class="mauticform-label">Qual sua Idade?</label>
+                <input id="mauticform_input_17live_qual_sua_idade" name="mauticform[qual_sua_idade]" value="" class="mauticform-input" type="number">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_mora_em_qual_cidade_e_est" class="mauticform-row mauticform-text mauticform-field-4">
-                <label id="mauticform_label_16live_mora_em_qual_cidade_e_est" for="mauticform_input_16live_mora_em_qual_cidade_e_est" class="mauticform-label">Mora em qual cidade e estado?</label>
-                <input id="mauticform_input_16live_mora_em_qual_cidade_e_est" name="mauticform[mora_em_qual_cidade_e_est]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_mora_em_qual_cidade_e_est" class="mauticform-row mauticform-text mauticform-field-4">
+                <label id="mauticform_label_17live_mora_em_qual_cidade_e_est" for="mauticform_input_17live_mora_em_qual_cidade_e_est" class="mauticform-label">Mora em qual cidade e estado?</label>
+                <input id="mauticform_input_17live_mora_em_qual_cidade_e_est" name="mauticform[mora_em_qual_cidade_e_est]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_qual_seu_genero" class="mauticform-row mauticform-text mauticform-field-5">
-                <label id="mauticform_label_16live_qual_seu_genero" for="mauticform_input_16live_qual_seu_genero" class="mauticform-label">Qual seu gênero?</label>
-                <input id="mauticform_input_16live_qual_seu_genero" name="mauticform[qual_seu_genero]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_qual_seu_genero" class="mauticform-row mauticform-text mauticform-field-5">
+                <label id="mauticform_label_17live_qual_seu_genero" for="mauticform_input_17live_qual_seu_genero" class="mauticform-label">Qual seu gênero?</label>
+                <input id="mauticform_input_17live_qual_seu_genero" name="mauticform[qual_seu_genero]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_esta_fazendo_ou_planejand" class="mauticform-row mauticform-text mauticform-field-6">
-                <label id="mauticform_label_16live_esta_fazendo_ou_planejand" for="mauticform_input_16live_esta_fazendo_ou_planejand" class="mauticform-label">Está fazendo ou planejando uma transição de carreira? Caso sim, atualmente trabalha em qual area?</label>
-                <input id="mauticform_input_16live_esta_fazendo_ou_planejand" name="mauticform[esta_fazendo_ou_planejand]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_esta_fazendo_ou_planejand" class="mauticform-row mauticform-text mauticform-field-6">
+                <label id="mauticform_label_17live_esta_fazendo_ou_planejand" for="mauticform_input_17live_esta_fazendo_ou_planejand" class="mauticform-label">Está fazendo ou planejando uma transição de carreira? Caso sim, atualmente trabalha em qual area?</label>
+                <input id="mauticform_input_17live_esta_fazendo_ou_planejand" name="mauticform[esta_fazendo_ou_planejand]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_por_que_voce_deseja_ser_d" class="mauticform-row mauticform-text mauticform-field-7">
-                <label id="mauticform_label_16live_por_que_voce_deseja_ser_d" for="mauticform_input_16live_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser dev?</label>
-                <input id="mauticform_input_16live_por_que_voce_deseja_ser_d" name="mauticform[por_que_voce_deseja_ser_d]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_por_que_voce_deseja_ser_d" class="mauticform-row mauticform-text mauticform-field-7">
+                <label id="mauticform_label_17live_por_que_voce_deseja_ser_d" for="mauticform_input_17live_por_que_voce_deseja_ser_d" class="mauticform-label">Por que você deseja ser dev?</label>
+                <input id="mauticform_input_17live_por_que_voce_deseja_ser_d" name="mauticform[por_que_voce_deseja_ser_d]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_ja_esta_praticando_alguma" class="mauticform-row mauticform-text mauticform-field-8">
-                <label id="mauticform_label_16live_ja_esta_praticando_alguma" for="mauticform_input_16live_ja_esta_praticando_alguma" class="mauticform-label">Já está praticando alguma linguagem de programação? Caso sim, qual?</label>
-                <input id="mauticform_input_16live_ja_esta_praticando_alguma" name="mauticform[ja_esta_praticando_alguma]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_ja_esta_praticando_alguma" class="mauticform-row mauticform-text mauticform-field-8">
+                <label id="mauticform_label_17live_ja_esta_praticando_alguma" for="mauticform_input_17live_ja_esta_praticando_alguma" class="mauticform-label">Já está praticando alguma linguagem de programação? Caso sim, qual?</label>
+                <input id="mauticform_input_17live_ja_esta_praticando_alguma" name="mauticform[ja_esta_praticando_alguma]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_qual_seu_grau_de_escolari" class="mauticform-row mauticform-text mauticform-field-9">
-                <label id="mauticform_label_16live_qual_seu_grau_de_escolari" for="mauticform_input_16live_qual_seu_grau_de_escolari" class="mauticform-label">Qual seu grau de escolaridade?</label>
-                <input id="mauticform_input_16live_qual_seu_grau_de_escolari" name="mauticform[qual_seu_grau_de_escolari]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_qual_seu_grau_de_escolari" class="mauticform-row mauticform-text mauticform-field-9">
+                <label id="mauticform_label_17live_qual_seu_grau_de_escolari" for="mauticform_input_17live_qual_seu_grau_de_escolari" class="mauticform-label">Qual seu grau de escolaridade?</label>
+                <input id="mauticform_input_17live_qual_seu_grau_de_escolari" name="mauticform[qual_seu_grau_de_escolari]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_o_que_falta_para_voce_con" class="mauticform-row mauticform-text mauticform-field-10">
-                <label id="mauticform_label_16live_o_que_falta_para_voce_con" for="mauticform_input_16live_o_que_falta_para_voce_con" class="mauticform-label">O que falta para você conquistar sua vaga como dev?</label>
-                <input id="mauticform_input_16live_o_que_falta_para_voce_con" name="mauticform[o_que_falta_para_voce_con]" value="" class="mauticform-input" type="text">
+            <div id="mauticform_17live_o_que_falta_para_voce_con" class="mauticform-row mauticform-text mauticform-field-10">
+                <label id="mauticform_label_17live_o_que_falta_para_voce_con" for="mauticform_input_17live_o_que_falta_para_voce_con" class="mauticform-label">O que falta para você conquistar sua vaga como dev?</label>
+                <input id="mauticform_input_17live_o_que_falta_para_voce_con" name="mauticform[o_que_falta_para_voce_con]" value="" class="mauticform-input" type="text">
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="mauticform_16live_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-11">
-                <button type="submit" name="mauticform[submit]" id="mauticform_input_16live_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
+            <div id="mauticform_17live_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-11">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_17live_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
             </div>
             </div>
         </div>
 
-        <input type="hidden" name="mauticform[formId]" id="mauticform_16live_id" value="64">
-        <input type="hidden" name="mauticform[return]" id="mauticform_16live_return" value="">
-        <input type="hidden" name="mauticform[formName]" id="mauticform_16live_name" value="16live">
+        <input type="hidden" name="mauticform[formId]" id="mauticform_17live_id" value="69">
+        <input type="hidden" name="mauticform[return]" id="mauticform_17live_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_17live_name" value="17live">
 
         </form>
 </div>

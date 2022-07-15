@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/Dwzg3y_FXgs?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/SHy-66W-540?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -35,12 +35,12 @@ include("chunks/body/google.php");
 				<strong>Adicione na sua agenda!</strong>
 				Não esqueça da aula! Adicione um lembrete na sua agenda!
 				<span>
-					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+passar+em+qualquer+entrevista+para+dev&details=Link+para+o+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F81049002687%3Fpwd%3DOUQzMHBzUTFkRGpCNjNoakJWbFo0dz09&dates=20220620T213000Z%2F20220620T233000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
+					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+criar+um+portf%C3%B3lio+de+DEV+sem+experi%C3%AAncia+na+%C3%A1rea&details=Link+para+o+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F82327387108%3Fpwd%3DV3VTODZPaEM3RkV0VVNKZnRDeEIvQT09&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F82327387108%3Fpwd%3DV3VTODZPaEM3RkV0VVNKZnRDeEIvQT0930&dates=20220718T212500Z%2F20220718T233000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
 				</span>
 			</p>	
 			<p class="selling-text">
 				<strong>Conheça o meu método!</strong>
-				Assista agora à aula com os 3 passos para se tornar um dev!
+				Assista agora à aula com os 3 passos para começar sua carreira como dev!
 				<span>
 					<a target="_blank" href="https://www.conquistesuavaga.com/aula"><img class="selling-icon" src="images/icons/speaking.png" alt=""></a>
 				</span>
