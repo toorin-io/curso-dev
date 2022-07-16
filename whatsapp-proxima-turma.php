@@ -4,7 +4,7 @@
   <title>Conquiste Sua Vaga! Solicite ser avisado pelo WhatsApp</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Ol%C3%A1%20Pedro!%20Gostaria%20de%20ser%20informado%20quando%20for%20lançada%20uma%20nova%20turma%20da%20mentoria%20Conquiste%20Sua%20Vaga!'" />
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Gostaria%20de%20ser%20informado%20quando%20for%20lançada%20uma%20nova%20turma%20da%20mentoria%20Conquiste%20Sua%20Vaga!'" />
     
 <?php
 include("chunks/head/google.php");
@@ -23,7 +23,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o WhatsApp!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://api.whatsapp.com/send?phone=5521977386162&text=Ol%C3%A1%20Pedro!%20Gostaria%20de%20ser%20informado%20quando%20for%20lançada%20uma%20nova%20turma%20da%20mentoria%20Conquiste%20Sua%20Vaga!">clique
+      href="https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Gostaria%20de%20ser%20informado%20quando%20for%20lançada%20uma%20nova%20turma%20da%20mentoria%20Conquiste%20Sua%20Vaga!">clique
       aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php
