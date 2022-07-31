@@ -4,7 +4,7 @@
                 <label class="collapsible" for="collapsible" class="lbl-toggle">
                     <span>Quais os dias e horários das aulas ao vivo?</span>
                     <input id="collapsible" class="toggle" type="checkbox">
-                    <p>Todos os sábados a partir de 26 de março, de 09:00 às 12:00, no horário de Brasília.</p>
+                    <p>Todos os sábados a partir de 20 de agosto, de 09:00 às 12:00, no horário de Brasília.</p>
                 </label>
                 <label class="collapsible" for="collapsible1" class="lbl-toggle">
                     <span>Como será o seu suporte?</span>
@@ -25,7 +25,7 @@
                 <label class="collapsible" for="collapsible8" class="lbl-toggle">
                     <span>Por quanto tempo terá acesso à comunidade?</span>
                     <input id="collapsible8" class="toggle" type="checkbox">
-                    <p>Por 1 ano.</p>
+                    <p>Vitalício.</p>
                 </label>
                 <label class="collapsible" for="collapsible3" class="lbl-toggle">
                     <span>Por quanto tempo terá acesso ao suporte?</span>
@@ -35,22 +35,22 @@
                 <label class="collapsible" for="collapsible4" class="lbl-toggle">
                     <span>Até que dia/hora é a matrícula?</span>
                     <input id="collapsible4" class="toggle" type="checkbox">
-                    <p>Até sexta, 25 de março, às 23:59 (horário de Brasília). A mentoria começará em 26 de março.</p>
+                    <p>Até sexta, 19 de agosto, às 23:59 (horário de Brasília). A mentoria começará em 26 de março.</p>
                 </label>
                 <label class="collapsible" for="collapsible5" class="lbl-toggle">
                     <span>Até que dia/hora é possível fazer a matrícula com valor promocional?</span>
                     <input id="collapsible5" class="toggle" type="checkbox">
-                    <p>Até quarta, 23 de março, às 23:59 (horário de Brasília).</p>
+                    <p>Até quarta, 17 de agosto, às 23:59 (horário de Brasília).</p>
                 </label>
                 <label class="collapsible" for="collapsible6" class="lbl-toggle">
                     <span> Qual o valor do investimento?</span>
                     <input id="collapsible6" class="toggle" type="checkbox">
-                    <p>O investimento no Conquiste Sua Vaga com desconto promocional tem o valor de R$ 1479 à vista ou 12 x R$ 147,90.</p>
+                    <p>O investimento no Conquiste Sua Vaga com desconto promocional tem o valor de R$ 1790 à vista ou 12 x R$ 179.</p>
                 </label>
                 <label class="collapsible" for="collapsible7" class="lbl-toggle">
                     <span>Como posso pagar?</span>
                     <input id="collapsible7" class="toggle" type="checkbox">
-                    <p>Na opção parcelada, você pode pagar com cartão de crédito. Na opção à vista, você pode pagar com cartão, pix, boleto bancário ou PayPal. Se escolher pagar com cartão, você pode utilizar mais de um cartão de crédito.</p>
+                    <p>Na opção parcelada, você pode pagar com cartão de crédito ou boleto. Na opção à vista, você pode pagar com cartão, pix, boleto bancário ou PayPal. Se escolher pagar com cartão, você pode utilizar mais de um cartão de crédito.</p>
                 </label>
             </div>
         </section>
