@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Parabéns por se cadastrar para assistir à aula: 3 passos para conquistar sua vaga como dev!</title>
+	<title>Parabéns por se cadastrar para assistir à aula: Como começar a sua carreira como dev em 3 passos!</title>
 	  
 <?php
 include("chunks/head/google.php");
@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/jDL2JU1K9zg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/Z5zzV9ihx3w" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
