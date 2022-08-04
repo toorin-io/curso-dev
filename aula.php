@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aula: Descubra os 3 passos para se tornar o dev desejado pelo mercado!</title>
+	<title>Comece sua Carreira Como Dev em 3 Passos!</title>
 	
     <?php
 include("chunks/head/google.php");
@@ -20,7 +20,7 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Descubra os 3 passos para se tornar o dev desejado pelo mercado!</h1>
+		<h1>Comece sua Carreira Como Dev em 3 Passos!</h1>
 	</header>
 
 	<section class="content">
