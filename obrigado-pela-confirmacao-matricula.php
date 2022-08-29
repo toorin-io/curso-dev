@@ -27,7 +27,7 @@ include("chunks/body/google.php");
 	<section class="selling-points">
 		<div class="content">
 			<p class="selling-text">
-                <strong><a class="selling-text-a" target="_blank" href="https://discord.gg/dZJDd3bbt8">Clique aqui para entrar na comunidade!</a></strong>
+                <strong><a class="selling-text-a" target="_blank" href="https://discord.gg/hENf4mHhBh">Clique aqui para entrar na comunidade!</a></strong>
                 Ao entrar na Comunidade CoDe no Discord, mande imediatamente uma mensagem no canal #papo-aberto se apresentando!
 			</p>			
 

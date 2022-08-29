@@ -1,5 +1,5 @@
      
-		<a href="matricula" class="cta" id="cta-aula">Quero dar o próximo passo!</a>
+		<a href="https://conquistesuavaga.com/matricula" class="cta" id="cta-aula">Quero dar o próximo passo!</a>
 	</section>
     
 	<script>

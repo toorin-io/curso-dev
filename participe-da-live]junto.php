@@ -1,49 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
+<head>
+  <title>Conquiste Sua Vaga! Participe da aula ao vivo!</title>
 
-        
-        <title>Conquiste Sua Vaga - Participe da Aula ao Vivo</title>
-
-
+    <meta http-equiv="refresh" content="1; url = 'https://www.conquistandosuavaga.com/participe-da-aula-ao-vivo'" />
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/meta.php");
 ?>
-        
-            
-<?php
-include("chunks/head/mautic-form.php");
-?>
+ 
 
+</head>
 
-    </head>
-    <body>
-
+<body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
-        <header class="content header">
-            <h1 class="big-title">Aula ao vivo com Pedro Marins!</h1>
-            <h2>Participe gratuitamente da aula ao vivo <b>COMO CRIAR UM PORTFÓLIO DE DEV SEM EXPERIÊNCIA NA ÁREA</b> na segunda-feira às 18h30!</h2>
-        </header>
+  <p>Você está sendo redirecionado para o formulário de incrição para a aula ao vivo!</p>
 
+  <p>Caso a página não carregue automaticamente, <a href="https://www.conquistandosuavaga.com/participe-da-aula-ao-vivo">clique aqui para acessar </a>!</p>
 
+</div>
 <?php
-include("chunks/body/mautic-form-participe-da-live.php");
-?>
-
-
-
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
 ?> 
-    
-        
-        </body>
+
+</body>
+
 </html>
