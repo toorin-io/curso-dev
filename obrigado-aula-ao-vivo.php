@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/M82Z66dYzB0?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/Cl20S-SFfUY?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -35,7 +35,8 @@ include("chunks/body/google.php");
 				<strong>Adicione na sua agenda!</strong>
 				Não esqueça da aula! Adicione um lembrete na sua agenda!
 				<span>
-					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Tenha+um+curr%C3%ADculo+de+dev+que+n%C3%A3o+te+elimine+dos+processos+seletivos&details=Participe+da+aula+ao+vivo+com+Pedro+Marins+e+Henrique+de+Andrade+sobre+vamos+ensinar+como+fazer+um+curr%C3%ADculo+de+dev+que+n%C3%A3o+te+elimine+dos+processos+seletivos%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F83056869694%3Fpwd%3DanVxcWRxVWFFa1lNMENPOVF2SWVWZz09&dates=20220815T213000Z%2F20220815T233000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
+					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Saia+do+estudo+b%C3%A1sico+de+programa%C3%A7%C3%A3o+e+vire+um+dev+profissional+rapidamente&details=Nesta+segunda-feira+%C3%A0s+18h30+que+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+tudo+que+voc%C3%AA+precisa+saber+para+parar+de+perder+tempo+com+cursinhos+te%C3%B3ricos+e+saber+como+virar+um+dev+capaz+de+fazer+seus+pr%C3%B3prios+c%C3%B3digos%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F87810671041%3Fpwd%3DbUdpZ3JJMGRSbmNBcVh3Ylc5ZTJOdz09&dates=20220912T213000Z%2F20220912T233000Z
+"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
 				</span>
 			</p>	
 			<p class="selling-text">
