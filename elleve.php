@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <title>Conquiste Sua Vaga! Faça parcelamento pelo boleto na Elleve</title>
+  <title>Conquiste Sua Vaga! Faça sua matrícula parcelada por boleto ou por pix!</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://bit.ly/3QXBhe3'" />
+    content="1; url = 'https://conquistandosuavaga.activehosted.com/f/12'" />
     
 <?php
 include("chunks/head/google.php");
@@ -20,10 +20,10 @@ include("chunks/body/google.php");
 ?>
 <div class="forward-content">
 
-  <p>Você está sendo redirecionado para a Elleve!</p>
+  <p>Você está sendo redirecionado para a simulação de crédito por boleto ou por pix!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://bit.ly/3QXBhe3">clique
+      href="https://conquistandosuavaga.activehosted.com/f/12">clique
       aqui para entrar</a>!</p>
 </div>
 <?php

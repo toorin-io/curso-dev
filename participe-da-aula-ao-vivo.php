@@ -27,11 +27,11 @@ include("chunks/body/google.php");
 
         <header class="content header">
             <h1 class="big-title">Aula ao vivo com Pedro Marins!</h1>
-            <h2>Participe gratuitamente da aula ao vivo <b>SAIA DO ESTUDO BÁSICO DE PROGRAMAÇÃO E VIRE UM DEV PROFISSIONAL RAPIDAMENTE</b> na segunda-feira às 18h30!</h2>
+            <h2>Participe gratuitamente da aula ao vivo <b style="color:red">SAIA DO ESTUDO BÁSICO DE PROGRAMAÇÃO E VIRE UM DEV PROFISSIONAL RAPIDAMENTE</b> na segunda-feira às 18h30!</h2>
         </header>
 
 <?php
-include("chunks/head/ac-inscricao-ao-vivo.php");
+include("chunks/body/ac-inscricao-ao-vivo.php");
 ?>
 
 
