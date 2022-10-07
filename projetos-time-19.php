@@ -3,7 +3,7 @@
 <head>
   <title>Conquiste Sua Vaga! Entrega de projetos</title>
 
-    <meta http-equiv="refresh" content="1; url = 'https://forms.gle/LErPNhcwMNCaxvSt5'" />
+    <meta http-equiv="refresh" content="1; url = 'https://forms.gle/QAbG95h7gUcA97PM7'" />
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
@@ -21,7 +21,7 @@ include("chunks/body/google.php");
 
   <p>Você está sendo redirecionado para o formulário de entrega de projetos!</p>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://forms.gle/LErPNhcwMNCaxvSt5">clique aqui para acessar </a>!</p>
+  <p>Caso a página não carregue automaticamente, <a href="https://forms.gle/QAbG95h7gUcA97PM7">clique aqui para acessar </a>!</p>
 
 </div>
 <?php
