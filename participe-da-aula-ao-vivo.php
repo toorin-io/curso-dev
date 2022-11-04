@@ -27,7 +27,7 @@ include("chunks/body/google.php");
 
         <header class="content header">
             <h1 class="big-title">Aula ao vivo com Pedro Marins!</h1>
-            <h2>Participe gratuitamente da aula ao vivo <b style="color:red">O MÍNIMO QUE VOCÊ REALMENTE PRECISA SABER PARA SER CONTRATADO COMO DEV JUNIOR!</b> na segunda-feira às 18h30!</h2>
+            <h2>Participe gratuitamente da aula ao vivo <b style="color:red">O que você deve fazer hoje para virar dev ainda em 2022!</b> na segunda-feira às 18h30!</h2>
         </header>
 
 <?php

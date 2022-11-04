@@ -35,7 +35,7 @@ include("chunks/body/google.php");
 				<strong>Adicione na sua agenda!</strong>
 				Não esqueça da aula! Adicione um lembrete na sua agenda!
 				<span>
-					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=O+m%C3%ADnimo+que+voc%C3%AA+realmente+precisa+saber+para+ser+contratado+como+dev+junior%21&details=Nesta+segunda-feira+%C3%A0s+18h30+que+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+o+m%C3%ADnimo+que+voc%C3%AA+precisa+saber+para+ser+contratado+como+Dev%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88270197014%3Fpwd%3DRlU3VVJDWm96aWtGYWZCQWxXbWZsdz09&dates=20221010T213000Z%2F20221011T000000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
+					<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21+-+Aula+ao+vivo&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88094942874%3Fpwd%3DelpqSExqS3Qyb2lxTDhoOEJZS3FCQT09&dates=20221107T213000Z%2F20221107T230000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
 				</span>
 			</p>	
 			<p class="selling-text">
