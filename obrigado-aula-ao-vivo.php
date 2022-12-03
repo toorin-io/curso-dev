@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/sIWOKuM_kek?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/ejIok_3MjiE?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -34,10 +34,10 @@ include("chunks/body/google.php");
             <p class="selling-text">
 				
 						
-                                <strong>	<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21+-+Aula+ao+vivo&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88094942874%3Fpwd%3DelpqSExqS3Qyb2lxTDhoOEJZS3FCQT09&dates=20221107T213000Z%2F20221107T230000Z">Adicione na sua agenda!</a></strong>
-                <a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21+-+Aula+ao+vivo&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88094942874%3Fpwd%3DelpqSExqS3Qyb2lxTDhoOEJZS3FCQT09&dates=20221107T213000Z%2F20221107T230000Z">         Não esqueça da aula! Adicione um lembrete na sua agenda! </a>
+                                <strong>	<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88060206680%3Fpwd%3DUlhDMFZrZ1I4MkliUDBCaVFQQUNtZz09&dates=20221206T213000Z%2F20221207T000000Z">Adicione na sua agenda!</a></strong>
+                <a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88060206680%3Fpwd%3DUlhDMFZrZ1I4MkliUDBCaVFQQUNtZz09&dates=20221206T213000Z%2F20221207T000000Z">         Não esqueça da aula! Adicione um lembrete na sua agenda! </a>
 				<span>
-			<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21+-+Aula+ao+vivo&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+O+que+voc%C3%AA+deve+fazer+hoje+para+virar+dev+ainda+em+2022%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88094942874%3Fpwd%3DelpqSExqS3Qyb2lxTDhoOEJZS3FCQT09&dates=20221107T213000Z%2F20221107T230000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
+			<a target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&details=Nesta+segunda-feira+%C3%A0s+18h30+eu+e+o+Henrique+de+Andrade+vamos+te+explicar+como+fazer+transi%C3%A7%C3%A3o+de+carreira+e+ser+contratado+como+dev+em+poucos+meses%21&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F88060206680%3Fpwd%3DUlhDMFZrZ1I4MkliUDBCaVFQQUNtZz09&dates=20221206T213000Z%2F20221207T000000Z"><img class="selling-icon" src="images/icons/calendar-icon.png" alt=""></a>
 				</span>
 			</p>	
 			<p class="selling-text">
