@@ -4,7 +4,7 @@
   <title>Conquiste Sua Vaga! Assista à aula</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://youtu.be/CfhYRTd_RIM?t=315'" />
+    content="1; url = 'https://youtu.be/5U2YX5iHR8s?t=330'" />
     
 <?php
 include("chunks/head/google.php");
@@ -23,7 +23,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o YouTube!</p>
 
   <p>Caso a gravação da aula não carregue automaticamente, <a
-      href="https://youtu.be/CfhYRTd_RIM?t=315">clique
+      href="https://youtu.be/5U2YX5iHR8s?t=330">clique
       aqui para assistir a aula</a>!</p>
 </div>
 <?php
