@@ -3,8 +3,8 @@
                 <div class="sale-header">
                     <h1 class="title">Conquiste Sua Vaga</h1>
                 </div>
-                <p class="sale-price-old"><del>R$ 3.000</del> R$ 1790 à vista</p>
-                <p class="sale-price">12 x R$ 179</p>
+                <p class="sale-price-old"><del>R$ 4.000</del> R$ 1990 à vista</p>
+                <p class="sale-price">12 x R$ 199</p>
                 <ul class="sale-list">
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">
@@ -12,7 +12,7 @@
                     </li>
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">
-                        <p>4 aulas ao vivo</p>
+                        <p>30 dias de aulas</p>
                     </li>
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">
