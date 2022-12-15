@@ -31,12 +31,12 @@
                 <label class="collapsible" for="collapsible4" class="lbl-toggle">
                     <span>Até que dia/hora é a matrícula?</span>
                     <input id="collapsible4" class="toggle" type="checkbox">
-                    <p>Até sexta, 19 de agosto, às 23:59 (horário de Brasília). A mentoria começará em 26 de março.</p>
+                    <p>Até domingo, 01 de janeiro de 2023, às 23:59 (horário de Brasília). A mentoria começará em 02 de janeiro.</p>
                 </label>
                 <label class="collapsible" for="collapsible5" class="lbl-toggle">
                     <span>Até que dia/hora é possível fazer a matrícula com valor promocional?</span>
                     <input id="collapsible5" class="toggle" type="checkbox">
-                    <p>Até quarta, 17 de agosto, às 23:59 (horário de Brasília).</p>
+                    <p>Até sexta, 29 de dezembro, às 23:59 (horário de Brasília).</p>
                 </label>
                 <label class="collapsible" for="collapsible6" class="lbl-toggle">
                     <span> Qual o valor do investimento?</span>
