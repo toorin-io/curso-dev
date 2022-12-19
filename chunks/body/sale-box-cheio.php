@@ -12,7 +12,7 @@
                     </li>
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">
-                        <p>4 aulas ao vivo</p>
+                        <p>Imersão de 30 dias</p>
                     </li>
                     <li>
                         <img src="images/icons/success-icon.svg" alt="success-icon">

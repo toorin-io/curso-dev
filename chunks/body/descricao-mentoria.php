@@ -26,10 +26,10 @@
             <p>O domínio de um <strong>método eficaz</strong>, a execução das tarefas propostas e o <strong>acompanhamento de um mentor experiente</strong> formam uma base sólida a partir da qual você pode construir sua carreira como dev.</p>
             
             <h2 class="mentoria-title">Como funciona a mentoria?</h2>
-            <p>A mentoria será realizada através de 4 aulas ao vivo em um período de 4 semanas.</p>
-            <p>Nestas aulas, mostramos o passo a passo do método e você poderá tirar todas as dúvidas que surgirem <strong>ao vivo</strong>.</p>
-            <p>As aulas ao vivo serão gravadas e você poderá acessá-las <strong>quantas vezes desejar por tempo indeterminado</strong>.</p>
-            <p>Além das aulas ao vivo, <strong>você também terá acesso direto a mim</strong>, que irei <strong>pessoalmente tirar dúvidas</strong> e acompanhar sua evolução.</p>
+            <p>A mentoria será realizada através de uma imersão com aulas diárias em um período de 30 dias.</p>
+            <p>Nestas aulas, mostramos o passo a passo do método e você poderá tirar todas as dúvidas que surgirem .</p>
+            <p>As aulas  serão gravadas e você poderá acessá-las <strong>quantas vezes desejar por tempo indeterminado</strong>.</p>
+            <p>Além das aulas, <strong>você também terá acesso direto a mim</strong>, que irei <strong>pessoalmente tirar dúvidas</strong> e acompanhar sua evolução.</p>
             <p>Durante todos os dias da mentoria, passarei <strong>exercícios práticos</strong> que servirão para estruturar sua presença digital e, sobretudo, sua capacidade de <strong>atender às expectativas do mercado</strong>.</p>
             <p>Você também fará parte de um <strong>grupo exclusivo</strong> onde conviverá com outras pessoas que estão na mesma jornada que você.</p>
             
