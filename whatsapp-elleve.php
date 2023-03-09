@@ -4,8 +4,11 @@
   <title>Conquiste Sua Vaga! Converse comigo pelo WhatsApp</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Eu%20acabei%20de%20conversar%20com%20o%20Chatbot%20do%20boleto!'" />
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Falaa%20Pedro!a%20Queroa%20sabera%20maisa%20sobrea%20comoa%20fazera%20matrículaa%20sema%20limitea%20noa%20cartão!'" />
 
+    
+    
+    
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
@@ -23,7 +26,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o WhatsApp!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Eu%20acabei%20de%20conversar%20com%20o%20Chatbot%20do%20boleto!">clique
+      href="https://api.whatsapp.com/send?phone=5521977386162&text=Falaa%20Pedro!a%20Queroa%20sabera%20maisa%20sobrea%20comoa%20fazera%20matrículaa%20sema%20limitea%20noa%20cartão!">clique
       aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php
