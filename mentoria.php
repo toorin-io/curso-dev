@@ -1,35 +1,55 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    
-  <title>Conquiste Sua Vaga!</title>
-    
-  <meta http-equiv="refresh" content="1; url = 'https://conquistesuavaga.com/mentoria'" />
 
+<head>
+      
+    <title>Conquiste Sua Vaga! Conheça a mentoria</title>
 
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
-include("chunks/head/meta.php");
+include("chunks/head/meta-mentoria.php");
 ?>
- 
-
+    
 </head>
 
-<body class="forward">
+<body class="mentoria">
+
+
 <?php
 include("chunks/body/google.php");
 ?>
-<div class="forward-content">
 
-  <p>Você está sendo redirecionado!</p>
+    
+<?php
+include("chunks/body/top-warning.php");
+?>
+      
+<main>
+    <section class="content">
+        <?php
+        include("chunks/body/video-aula.php");
+        include("chunks/body/descricao-mentoria.php");
+        ?>      
+    </section>
+    <?php
+        include("chunks/body/quem-e-pedro.php");
+        include("chunks/body/para-quem.php");
+        include("chunks/body/calendario.php");
+        include("chunks/body/depoimentos.php");
+        include("chunks/body/faq.php");
+        include("chunks/body/sale-box.php");
+        include("chunks/body/cta-contato-sem-countdown.php");
+    ?>
+</main>
 
-  <p>Caso a página não carregue automaticamente, <a href="https://conquistesuavaga.com/mentoria">clique aqui</a>!</p>
-
-</div>
- <?php
+<?php
+include("chunks/body/footer.php");
+incl
+ude("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
 ?> 
-
+        
 </body>
+
 </html>
