@@ -18,12 +18,13 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
 	<link rel="manifest" href="images/favicon/site.webmanifest">
 
-    <!-- Data de publicação e alteração -->
+
+    <!-- Fim da parte do Meta que NÃO MUDA. É igual para todas as páginas-->
+
+<!-- Data de publicação e alteração -->
 
 	<meta property="article:published_time" content="2021-06-28">
     <meta property="article:modified_time" content="2023-03-31T23:59:44+00:00">
-
-    <!-- Fim da parte do Meta que NÃO MUDA. É igual para todas as páginas-->
 
 <!-- Pixel do Linkedin..por enquanto aqui! -->
 
