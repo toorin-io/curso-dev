@@ -56,6 +56,24 @@ A possibilidade do fornecimento de período de teste grátis não gera qualquer 
 
 A Contratada reserva-se o direito de, a qualquer momento e sem aviso prévio, (i) modificar os termos e condições da oferta, ou (ii) cancelar a oferta do teste grátis.
 
+</p><h2>Da Garantia</h2><p>
+
+A Mentoria – Conquiste sua vaga consiste em orientar profissionais de desenvolvimento em TI no aprimoramento profissional e na obtenção de um emprego nesta área, exclusivamente.
+
+O objetivo principal é que, até o final da Mentoria, o Contratante consiga uma colocação no mercado de trabalho, em vaga na área de desenvolvimento em TI.
+
+A Contratada se compromete a devolver integralmente o valor pago pelo Contratante, acrescido de uma bonificação de 100% sobre referido montante, nos casos em que este, após concluir a Mentoria com 100% de assiduidade e tendo realizado todos os exercícios propostos, dentro dos prazos estabelecidos no cronograma apresentado pelos Mentores, não receber nenhuma proposta de trabalho na área de desenvolvimento em TI nos quatro meses de duração da Mentoria.
+
+A liberalidade da Contratada em aceitar a entrega de atividades fora do prazo inicialmente estabelecido para os Mentorados não se confunde com as exigências para a solicitação da garantia e não poderá para este fim ser invocada.
+
+O Contratante se obriga a informar a Contratada sobre quaisquer processos seletivos dos quais esteja participando e sobre toda e qualquer abordagem de recrutadores e oferta de emprego que venha a receber, do momento da contratação do Serviço até a conclusão da Mentoria, que tem duração de 4 meses.
+
+A não aceitação, pelo Contratante, de oportunidade de trabalho a ele oferecida, que atenda aos requisitos acima, não lhe gera o direito de usufruir da garantia aqui prevista. 
+
+Para efeitos do exposto no parágrafo imediatamente acima, considera-se oportunidade de trabalho todo e qualquer modelo de contratação, incluindo mas não restrito à emprego registrado, prestação de serviços como autônomo ou pessoa jurídica, por jornada de trabalho fechada ou por hora, em modelo de exclusividade ou não, através de empresas terceirizadoras de mão de obra ou diretamente.
+
+A omissão ou alteração de fatos e informações, de forma dolosa, que resultarem na utilização indevida desta garantia e recebimento indevido do reembolso, constituem fato típico regulado no artigo 171 do Código Penal, estando sujeito o Contratante às devidas sanções legais.
+
 </p><h2>Alterações de Honorários</h2><p>
 
 ‍A Contratada, a seu exclusivo critério e a qualquer momento, poderá modificar os valores de matrícula na Mentoria. 
