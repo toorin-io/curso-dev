@@ -1,149 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
+<head>
+  <title>Conquiste Sua Vaga! </title>
 
-        
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
-
-
-<?php
+    <meta http-equiv="refresh"
+    content="1; url = 'https://www.conquistandosuavaga.com/termos-de-servico-mentoria'" />
+ 
+    <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/meta.php");
 ?>
-        
-            
-<?php
-include("chunks/head/mautic-form.php");
-?>
+    
+</head>
 
-
-    </head>
-    <body>
-
+<body class="forward">
 <?php
 include("chunks/body/google.php");
 ?>
+<div class="forward-content">
 
-        <header class="content header">
-            <h1 class="big-title">TERMOS DE SERVIÇO</h1>
-        </header>
-Ao se matricular na Mentoria – Conquiste Sua Vaga (Serviço), o Contratante declara ter lido e estar de acordo com o presente Termo de Serviço.  
-<br/>
-Seu acesso às aulas e ao material da Mentoria – Conquiste Sua Vaga está condicionado à aceitação e conformidade com estes Termos. Ao usar o Serviço, você declara concordar com a totalidade destes Termos. 
-<br/>
-<h2>Comunicações</h2>
-Ao se matricular na Mentoria – Conquiste Sua Vaga, você concorda em receber newsletters, materiais de marketing ou promocionais ou quaisquer outras informações relativas aos serviços da Contratada. Você poderá, posteriormente, optar pelo cancelamento de parte ou da totalidade destas comunicações através do link de “unsubscribe” ou instruções específicas fornecidas em qualquer dos e-mails recebidos.
-<br/>
-<h2>Matrícula</h2>
-A matrícula será feita de acordo com orientações específicas da Contratada para cada turma disponibilizada e o procedimento poderá envolver a utilização de plataforma de serviços específicos para este tipo de intermediação.
-<br/>
-As formas de pagamento aceitas serão aquelas divulgadas pelos canais de comunicação da Contratada na ocasião da abertura de novas turmas.
-<br/>
-Tanto a forma de pagamento quanto a utilização, ou não, de plataformas para intermediação de contratação não alteram os termos pactuados no presente documento.
-<br/>
-Quando você efetua a matrícula na Mentoria – Conquiste Sua Vaga, você garante ter mais de 18 anos e que as informações que fornece são verdadeiras, completas e atuais. Informações imprecisas, incompletas ou obsoletas podem resultar no cancelamento imediato da sua matrícula.
-<br/>
-<h2>Teste grátis</h2>
-A Contratada pode, a seu exclusivo critério, oferecer um período de teste grátis, por tempo limitado, com acesso a uma ou mais aulas, ou material específico da Mentoria – Conquiste Sua Vaga.
-<br/>
-A possibilidade do fornecimento de período de teste grátis não gera qualquer obrigação para a Contratada de oferecer tal gratuidade, constituindo mera liberalidade desta.
-<br/>
-A Contratada reserva-se o direito de, a qualquer momento e sem aviso prévio, (i) modificar os termos e condições da oferta, ou (ii) cancelar a oferta do teste grátis.
-<br/>
-<h2>Da Garantia</h2> 
-A Mentoria – Conquiste sua vaga consiste em orientar profissionais de desenvolvimento em TI no aprimoramento profissional e na obtenção de um emprego nesta área, exclusivamente.
-<br/>
-O objetivo principal é que, até o final da Mentoria, o Contratante consiga uma colocação no mercado de trabalho, em vaga na área de desenvolvimento em TI.
-<br/>
-A Contratada se compromete a devolver integralmente o valor pago pelo Contratante, acrescido de uma bonificação de 100% sobre referido montante, nos casos em que este, após concluir a Mentoria com 100% de assiduidade e tendo realizado todos os exercícios propostos, dentro dos prazos estabelecidos no cronograma apresentado pelos Mentores, não receber nenhuma proposta de trabalho na área de desenvolvimento em TI nos quatro meses de duração da Mentoria.
-<br/>
-A liberalidade da Contratada em aceitar a entrega de atividades fora do prazo inicialmente estabelecido para os Mentorados não se confunde com as exigências para a solicitação da garantia e não poderá para este fim ser invocada.
-<br/>
-O Contratante se obriga a informar a Contratada sobre quaisquer processos seletivos dos quais esteja participando e sobre toda e qualquer abordagem de recrutadores e oferta de emprego que venha a receber, do momento da contratação do Serviço até a conclusão da Mentoria, que tem duração de 4 meses.
-<br/>
-A não aceitação, pelo Contratante, de oportunidade de trabalho a ele oferecida, que atenda aos requisitos acima, não lhe gera o direito de usufruir da garantia aqui prevista. 
-<br/>
-Para efeitos do exposto no parágrafo imediatamente acima, considera-se oportunidade de trabalho todo e qualquer modelo de contratação, incluindo mas não restrito à emprego registrado, prestação de serviços como autônomo ou pessoa jurídica, por jornada de trabalho fechada ou por hora, em modelo de exclusividade ou não, através de empresas terceirizadoras de mão de obra ou diretamente.
-<br/>
-A omissão ou alteração de fatos e informações, de forma dolosa, que resultarem na utilização indevida desta garantia e recebimento indevido do reembolso, constituem fato típico regulado no artigo 171 do Código Penal, estando sujeito o Contratante às devidas sanções legais.
-<br/>
-<h2>Alterações de Honorários</h2>
-A Contratada, a seu exclusivo critério e a qualquer momento, poderá modificar os valores de matrícula na Mentoria. 
-<br/>
-<h2>Reembolsos</h2>
-Ao se matricular na Mentoria – Conquiste Sua Vaga, o Contratante terá o prazo de 7 (sete) dias para solicitar o cancelamento da matrícula e reembolso da totalidade do valor pago, nos termos determinados no Código de Defesa do Consumidor.
-<br/>
-‍As solicitações de reembolsos de valores pagos feitas após o prazo legal serão avaliadas pela Contratada, podendo ser deferidas ou não, não havendo qualquer obrigatoriedade para a concessão de tais reembolsos. 
-<br/>
-<h2>Conteúdo</h2>
-O Conteúdo utilizado nas aulas ou disponibilizado para os mentorados é propriedade da Contratada ou usado com permissão. Não é permitido distribuir, modificar, transmitir, reutilizar, repostar, copiar ou usar o referido Conteúdo, seja no todo ou em parte, para fins comerciais ou para ganhos pessoais, sem autorização prévia por escrito.
-<br/>
-<h2>Propriedade intelectual</h2>
-O Serviço e seu conteúdo original são e continuarão a ser propriedade exclusiva da Contratada. O Serviço está protegido por direitos autorais, marcas registradas e demais diplomas legais pertinentes. Nossas marcas não podem ser usadas em conexão com nenhum outro produto ou serviço sem o prévio consentimento por escrito da Contratada.
-<br/>
-<h2>Links para outros sites da Web</h2>
-Nosso Serviço pode conter links para sites ou serviços de terceiros que não são de propriedade ou controlados pela Contratada.
-<br/>
-A Contratada não tem controle sobre ou responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros. Nós não garantimos as ofertas de nenhuma dessas entidades/indivíduos ou seus sites.
-<br/>
-Você reconhece e concorda que a Contratada não será responsável, direta ou indiretamente, por qualquer dano ou perda causada ou alegadamente causada ou relacionada com o uso ou dependência de qualquer conteúdo, bens ou serviços disponíveis em, ou através de, tais sites ou serviços de terceiros. Recomendamos que você leia os termos e condições e políticas de privacidade de sites ou serviços de terceiros que visita.
-<br/>
-<h2>Rescisão</h2>
-A Contratada poderá rescindir ou bloquear o acesso ao Serviço imediatamente, sem aviso prévio ou responsabilidade, sob seu exclusivo critério, por violação dos Termos. 
-<br/>
-<h2>Lei aplicável</h2>
-Estes Termos serão regidos e interpretados de acordo com as leis Brasileiras. Nossa falha em fazer valer qualquer direito ou disposição destes Termos não será considerada uma renúncia a esses direitos. Se qualquer disposição destes Termos for considerada inválida ou inexequível por lei ou decisão judicial, as restantes disposições destes Termos permanecerão em vigor. Estes Termos devem constituir o acordo completo entre as partes em relação ao Serviço da Contratada e substituir quaisquer acordos anteriores.
-<br/>
-Da Política de Privacidade e LGPD
-Os Serviços oferecidos pela Contratada só poderão ser contratados por pessoas maiores de 18 anos.
-<br/>
-Ao comprar ou registrar-se em nosso site, ou em plataforma de intermediário de serviço, conforme o caso, você pode ser solicitado a inserir seu nome, endereço de e-mail, número de telefone, endereço, informações do cartão de crédito, ou outros detalhes para ajudá-lo(a) com sua experiência. Não há coleta de dados sensíveis, nos termos da LGPD – Lei Geral de Proteção de Dados.
-<br/>    
-Podemos usar as informações que coletamos de você das seguintes maneiras:
-Para personalizar sua experiência e entregar o tipo de conteúdo e ofertas nas quais você pode estar mais interessado(a).
-Para melhorar nosso site e melhor atendê-lo(a).
-Para melhor responder às suas solicitações de atendimento ao cliente.
-Para processar rapidamente suas transações.
-Para solicitar sua avaliação dos nossos serviços ou produtos.
-Para dar-lhe retorno após correspondências (chat, e-mail ou perguntas por telefone).
-<br/>
-Todas as transações são processadas através de um provedor de gateway e não são armazenadas ou processadas em nossos servidores. Nós coletamos informações de cartão de crédito através do provedor de gateway mencionado acima, que executa varreduras de vulnerabilidade, conforme exigido para ser compatível com os padrões de segurança de dados da indústria de cartões de pagamento (PCI). Nós também usamos a verificação regular de malware em nosso site. Suas informações pessoais são armazenadas em redes protegidas, com acesso limitado, que mantêm a informação confidencial. Além disso, todas as informações confidenciais que você fornece são criptografadas através da tecnologia Secure Socket Layer (SSL). Implementamos uma variedade de medidas de segurança no ato da transação, inserção, envio ou acesso às suas informações para manter a segurança de seus dados pessoais.
-<br/>
-Os cookies são pequenos arquivos que um site ou seu provedor de serviços transfere para o disco rígido do seu computador através do seu navegador (se você autorizar), que permitem que o site ou os sistemas do provedor de serviços reconheçam seu navegador, capturem e lembrem de certas informações. Por exemplo, usamos cookies para nos ajudar a lembrar e processar os itens em sua transação. Eles também são usados para nos ajudar a entender suas preferências com base na atividade do site anterior ou atual, o que nos permite oferecer serviços personalizados. Nós também usamos cookies para compilar dados agregados sobre o tráfego e a interação com o site para que possamos oferecer melhores experiências e ferramentas no futuro.
-<br/>
-Usamos cookies para:
-<br/>
-Compreender e salvar as preferências do usuário para futuras visitas.
-Acompanhar os anúncios publicitários.
-<br/>
-Compilar dados agregados sobre o tráfego e as interações com o site, a fim de oferecer melhores experiências e ferramentas no futuro. Também podemos usar serviços de terceiros que acompanhem essas informações.
-<br/>
-Você pode escolher que o seu computador o avise sempre que um cookie estiver sendo enviado, ou você pode optar por desligar todos os cookies. Você pode fazer isso através das configurações do seu navegador. Como cada navegador é um pouco diferente, veja o menu de ajuda do seu navegador para aprender a maneira correta de modificar seus cookies.
-<br/>
-A Contratada, seus funcionários e prepostos, cumprirão, a todo momento, a LGPD - Lei Geral de Proteção de Dados (Lei Federal 13.709/2018), jamais colocando, por seus atos ou por sua omissão, o(a) usuário(a) ou cliente em situação de violação das leis de proteção de dados.
-<br/>
-Em consonância com a Lei Geral de Proteção de Dados, seus dados só serão coletados, tratados e armazenados mediante prévio e expresso consentimento.
-<br/>
-Ao utilizar os nossos serviços e fornecer seus dados pessoais, você está ciente e consentindo com as disposições destes Termos de Serviço, além de conhecer seus direitos e como exercê-los.
-<br/>
-O consentimento para coleta e armazenamento de dados poderá ser revogado a qualquer tempo, sem ônus, todavia, tal revogação pode implicar na impossibilidade da continuação da prestação dos serviços contratados.
-<br/>
-A Contratada e seus representantes declaram cumprir suas obrigações relativas à segurança no tratamento de dados, proteção contra violação de dados pessoais e demais medidas que garantam o devido cumprimento das determinações da LGPD.
-<br/>
-A Contratada se compromete a manter estes Termos atualizados, observando suas disposições e zelando por seu cumprimento, reservando-se o direito de modificá-la a qualquer tempo, especialmente se para aprimorar a aplicação de políticas de segurança de dados e funcionamento de sua plataforma.
-<br/>
-    <h2>Do Foro</h2>
-Todos os itens destes Termos estão regidos pelas leis vigentes na República Federativa do Brasil. Para todos os assuntos referentes à interpretação e ao cumprimento deste Contrato, as partes se submetem ao Foro Central da Comarca do Rio de Janeiro, estado do Rio de Janeiro.
+  <p>Você está sendo redirecionado para os termos de serviço da mentoria conquiste sua vaga!</p>
 
-                
+  <p>Caso a página não carregue automaticamente, <a
+      href="https://www.conquistandosuavaga.com/termos-de-servico-mentoria">clique
+      aqui para acessar</a>!</p>
+</div>
 <?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-include("chunks/body/mautic-pixel.php");
-?> 
-    
-        
-        </body>
+include("chunks/body/mautic-pixel.php");?> 
+
+</body>
 </html>
