@@ -105,7 +105,7 @@ AO ACEITAR ESSE ACORDO VOCÊ ISENTA A EMPRESA DE QUALQUER CONSEQUÊNCIA RESULTAN
 <h2>Dados da Empresa</h2>
 
         MENTORIA CONQUISTE SUA VAGA – www.conquistandosuavaga.com<br/>
-CRIPTO VIP PLANEJAMENTO FINANCEIRO LTDA: 30.117.190/0001-92<br/>
+CODE CONHECIMENTO LTDA: 30.117.190/0001-92<br/>
 Rua Benjamin Constant, 60/304. Rio de Janeiro/RJ<br/>
 Telefone: (21) 9481-5880<br/>
 Email: contato@conquistandosuavaga.com
