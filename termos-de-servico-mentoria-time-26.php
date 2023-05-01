@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
+        <title>Conquiste Sua Vaga </title>
 
 
 <?php
@@ -26,7 +26,7 @@ include("chunks/body/google.php");
 ?>
 
         <header class="content header">
-            <h1 class="big-title">TERMOS DE SERVIÇO DA MENTORIA</h1>
+            <h1 class="big-title">TERMOS DE SERVIÇO DA MENTORIA para o time 26 iniciado em 24 de Abril de 2023</h1>
         </header>
 
 
