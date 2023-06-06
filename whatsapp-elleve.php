@@ -4,7 +4,7 @@
   <title>Conquiste Sua Vaga! Converse comigo pelo WhatsApp</title>
 
     <meta http-equiv="refresh"
-    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Quero%20saber%20mais%20sobre%20como%20fazer%20matrícula%20sem%20limite%20no%20cartão!'" />
+    content="1; url = 'https://api.whatsapp.com/send?phone=5521977386162&text=Quero%20saber%20mais%20sobre%20como%20fazer%20matrícula%20sem%20limite%20no%20cartão!'" />
 
     
     
@@ -26,7 +26,7 @@ include("chunks/body/google.php");
   <p>Você está sendo redirecionado para o WhatsApp!</p>
 
   <p>Caso a página não carregue automaticamente, <a
-      href="https://api.whatsapp.com/send?phone=5521977386162&text=Fala%20Pedro!%20Quero%20saber%20mais%20sobre%20como%20fazer%20matrícula%20sem%20limite%20no%20cartão!">clique
+      href="https://api.whatsapp.com/send?phone=5521977386162&text=Quero%20saber%20mais%20sobre%20como%20fazer%20matrícula%20sem%20limite%20no%20cartão!">clique
       aqui para me enviar a mensagem</a>!</p>
 </div>
 <?php
