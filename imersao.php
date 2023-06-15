@@ -45,8 +45,7 @@ include("chunks/body/top-warning.php");
 
 <?php
 include("chunks/body/footer.php");
-incl
-ude("chunks/body/bottom-stripe.php");
+include("chunks/body/bottom-stripe.php");
 include("chunks/body/mautic-pixel.php");
 ?> 
         

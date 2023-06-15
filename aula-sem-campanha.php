@@ -28,7 +28,7 @@ include("chunks/body/google.php");
 		<h1 class="page-title">Acesso à aula gratuita encerrado!</h1>
 
         <div class="presentation">
-			<h2>Inscreva-se para ter acesso a mais materiais sobre como conquistar sua vaga!</h2>
+			<h2>Inscreva-se para ter acesso a mais materiais sobre como virar dev!</h2>
 
 <?php
 include("chunks/body/mautic-form-cadastro-sem-campanha.php");

@@ -1,3 +1,3 @@
 <?php
-include("seja-bem-vindo-geral.php");
+include("seja-bem-vindo-base.php");
 ?>
