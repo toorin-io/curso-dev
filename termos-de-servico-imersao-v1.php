@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
+        <title>Termos de Serviço da Imersão Vire Dev v1</title>
 
 
 <?php
@@ -26,8 +26,12 @@ include("chunks/body/google.php");
 ?>
 
         <header class="content header">
-            <h1 class="big-title">TERMOS DE USO E SERVIÇO</h1>
+            <h1 class="big-title">TERMOS DE SERVIÇO DA IMERSÃO VIRE DEV v1</h1>
         </header>
+        
+        
+        
+        ESCREVER!!!!
 
 IMPORTANTE! ESSES TERMOS DE SERVIÇO REGULAM O USO DESTE SITE DISPONIBILIZADO PELA CODE CONHECIMENTO LTDA. AO ACESSAR A ESSE SITE, VOCÊ ATESTA SEU CONHECIMENTO E CONCORDÂNCIA COM ESSES TERMOS DE USO. ESSES TERMOS DE USO PODEM SER ALTERADOS A QUALQUER TEMPO E SEM AVISO. A UTILIZAÇÃO DESTE SITE APÓS TAIS ALTERAÇÕES ENTREM EM VIGOR CONSTITUI SEU CONHECIMENTO E ACEITAÇÃO DAS MUDANÇAS. POR FAVOR, CONSULTE OS TERMOS DE USO ANTES DE CADA USO PARA AVERIGUAR MODIFICAÇÕES.
 

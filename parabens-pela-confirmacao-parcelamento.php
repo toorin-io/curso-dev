@@ -2,12 +2,12 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Siga a instrução abaixo para acessar imediatamente a comunidade!</title>
+	<title>Siga a instrução abaixo!</title>
 	  
 <?php
 include("chunks/head/google.php");
 include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/meta-aula.php");
 
     ?>
     
@@ -20,15 +20,17 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Siga a instrução abaixo para garantir que você terá acesso à comunidade VIP Conquiste Sua Vaga!</h1>
+		<h1>Finalmente vamos começar! Agora é só ficar de olho no seu email para uma mensagem do Nutror!</h1>
 	</header>
 
 
 	<section class="selling-points">
 		<div class="content">
 			<p class="selling-text">
-                <strong><a class="selling-text-a" target="_blank" href="https://discord.gg/hENf4mHhBh">Clique aqui para entrar na comunidade!</a></strong>
-                Ao entrar na Comunidade CoDe no Discord, mande imediatamente uma mensagem no canal #papo-aberto se apresentando!
+				
+				O Nutror é a plataforma de conteúdo que usamos.<br> Lá no Nutror você terá acesso à um vídeo onde eu explico exatamente como vai funcionar a imersão e te oriento sobre quais próximos passos dar!
+					
+
 			</p>			
 
 		</div>

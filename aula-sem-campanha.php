@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aula Encerrada. Cadastre-se para receber mais materiais sobre como Conquistar Sua Vaga!</title>
+	<title>Aula Encerrada. Cadastre-se para receber mais materiais sobre como Virar Dev!</title>
 
 <?php
 include("chunks/head/google.php");

@@ -3,7 +3,7 @@
 <html lang="pt-BR">
 <head>
     
-	<title>Conquiste Sua Vaga! Parabéns pela matrícula!</title>
+	<title>Parabéns pela matrícula!</title>
 
     
 <?php
@@ -21,7 +21,7 @@ include("chunks/body/google.php");
 ?>
 
 	<header class="content header">
-		<h1>Parabéns pela matrícula no<br> Conquiste Sua Vaga!</h1>
+		<h1>Parabéns por se matricular na<br> Imersão Vire Dev!</h1>
 	</header>
 
 	<section class="content">
