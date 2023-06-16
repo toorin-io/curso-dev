@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
+        <title>Política de Privacidade</title>
 
 
 <?php
@@ -29,7 +29,7 @@ include("chunks/body/google.php");
             <h1 class="big-title">Política de Privacidade</h1>
         </header>
 
-Esta política descreve as formas como coletamos, armazenamos, usamos e protegemos suas informações pessoais. Você aceita essa política e concorda com tal coleta, armazenamento e uso quando se inscrever ou usar nossos produtos, serviços ou qualquer outro recurso, tecnologia ou funcionalidade que nós oferecemos ao acessar nosso site ou por qualquer outro meio (coletivamente “os Serviços da MENTORIA CONQUISTE SUA VAGA”). Podemos alterar esta política a qualquer momento, divulgando uma versão revisada em nosso site. A versão revisada entrará em vigor assim que disponibilizada no site. Além disso, se a versão revisada incluir uma alteração substancial, avisaremos você com 30 dias de antecedência, divulgando o aviso sobre a alteração na página “Atualizações da política” do nosso site. Depois desse aviso de 30 dias, será considerado que você concorda com todas as emendas feitas a essa política.
+Esta política descreve as formas como coletamos, armazenamos, usamos e protegemos suas informações pessoais. Você aceita essa política e concorda com tal coleta, armazenamento e uso quando se inscrever ou usar nossos produtos, serviços ou qualquer outro recurso, tecnologia ou funcionalidade que nós oferecemos ao acessar nosso site ou por qualquer outro meio (coletivamente “os Serviços da CODE CONHECIMENTO LTDA”). Podemos alterar esta política a qualquer momento, divulgando uma versão revisada em nosso site. A versão revisada entrará em vigor assim que disponibilizada no site. Além disso, se a versão revisada incluir uma alteração substancial, avisaremos você com 30 dias de antecedência, divulgando o aviso sobre a alteração na página “Atualizações da política” do nosso site. Depois desse aviso de 30 dias, será considerado que você concorda com todas as emendas feitas a essa política.
 
 <h2>Importante: Política de Descadastramento (“Opt-out”)</h2>
 
@@ -37,7 +37,7 @@ O usuário dos nossos serviços pode a qualquer momento deixar de receber comuni
 
 <h2>Como coletamos informações a seu respeito</h2>
 
-Quando você visita o site da MENTORIA CONQUISTE SUA VAGA ou usa os Serviços da MENTORIA CONQUISTE SUA VAGA, coletamos o seu endereço IP e as informações padrões de acesso à web como o tipo do seu navegador e as páginas que acessou em nosso site. Se você se inscrever, coletaremos os seguintes tipos de informações:
+Quando você visita o site da CODE CONHECIMENTO LTDA ou usa os Serviços da CODE CONHECIMENTO LTDA, coletamos o seu endereço IP e as informações padrões de acesso à web como o tipo do seu navegador e as páginas que acessou em nosso site. Se você se inscrever, coletaremos os seguintes tipos de informações:
 <br/>
     Informações de contato – o seu nome, telefone e e-mail.
 <br/>
@@ -47,7 +47,7 @@ Nós não coletamos informações do tipo:
 
 <h2>Como usamos cookies</h2>
 
-Quando você acessa nosso site, nós, incluindo as empresas que contratamos para acompanhar como nosso site é usado, podemos colocar pequenos arquivos de dados chamados “cookies” no seu computador. Enviamos um “cookie da sessão” para o seu computador quando você entra em sua conta ou usa os Serviços da MENTORIA CONQUISTE SUA VAGA. Esse tipo de cookie nos ajuda a reconhecê-lo se visitar várias páginas em nosso site durante a mesma sessão. Depois que você sair ou fechar o seu navegador, esse cookie irá expirar e deixará de ter efeito. Codificamos nossos cookies para que apenas nós possamos interpretar as informações armazenadas neles. Você está livre para recusar nossos cookies caso o seu navegador permita. Nós e nossos prestadores de serviço também usamos cookies para personalizar nossos serviços, conteúdo e publicidade, avaliar a eficiência das promoções e promover confiança e segurança. Você pode encontrar cookies de terceiros ao usar os Serviços da MENTORIA CONQUISTE SUA VAGA em determinados sites que não estão sob nosso controle (por exemplo, se você visualizar uma página da Web criada por terceiros ou usar um aplicativo desenvolvido por terceiros, um cookie poderá ser colocado por essa página ou aplicativo).
+Quando você acessa nosso site, nós, incluindo as empresas que contratamos para acompanhar como nosso site é usado, podemos colocar pequenos arquivos de dados chamados “cookies” no seu computador. Enviamos um “cookie da sessão” para o seu computador quando você entra em sua conta ou usa os Serviços da CODE CONHECIMENTO LTDA. Esse tipo de cookie nos ajuda a reconhecê-lo se visitar várias páginas em nosso site durante a mesma sessão. Depois que você sair ou fechar o seu navegador, esse cookie irá expirar e deixará de ter efeito. Codificamos nossos cookies para que apenas nós possamos interpretar as informações armazenadas neles. Você está livre para recusar nossos cookies caso o seu navegador permita. Nós e nossos prestadores de serviço também usamos cookies para personalizar nossos serviços, conteúdo e publicidade, avaliar a eficiência das promoções e promover confiança e segurança. Você pode encontrar cookies de terceiros ao usar os Serviços da CODE CONHECIMENTO LTDA em determinados sites que não estão sob nosso controle (por exemplo, se você visualizar uma página da Web criada por terceiros ou usar um aplicativo desenvolvido por terceiros, um cookie poderá ser colocado por essa página ou aplicativo).
 
 <h2>Remarketing do Google</h2>
 
@@ -84,15 +84,14 @@ Podemos compartilhar suas informações pessoais com:
         acreditamos, de boa fé, que a divulgação das informações pessoais é necessária para impedir danos físicos ou perdas financeiras, para reportar atividade ilegal suspeita ou investigar violações do nosso Contrato do usuário.
     Outros terceiros com seu consentimento ou orientação para tanto.<br/>
 
-A MENTORIA CONQUISTE SUA VAGA não venderá ou alugará nenhuma das suas informações pessoais para terceiros no curso normal dos negócios e só compartilha suas informações pessoais com terceiros conforme descrito nesta política. Se você se inscrever na MENTORIA CONQUISTE SUA VAGA diretamente em um site de terceiros ou por meio de um aplicativo de terceiros, qualquer informação inserida naquele site ou aplicativo (e não diretamente em um site da MENTORIA CONQUISTE SUA VAGA) será compartilhada com o proprietário desse site ou aplicativo – e suas informações podem estar sujeitas as políticas de privacidade deles.
+A CODE CONHECIMENTO LTDA não venderá ou alugará nenhuma das suas informações pessoais para terceiros no curso normal dos negócios e só compartilha suas informações pessoais com terceiros conforme descrito nesta política. Se você se inscrever na CODE CONHECIMENTO LTDA diretamente em um site de terceiros ou por meio de um aplicativo de terceiros, qualquer informação inserida naquele site ou aplicativo (e não diretamente em um site da CODE CONHECIMENTO LTDA) será compartilhada com o proprietário desse site ou aplicativo – e suas informações podem estar sujeitas as políticas de privacidade deles.
 
 <h2>Dados da Empresa</h2>
 
-        MENTORIA CONQUISTE SUA VAGA – www.conquistandosuavaga.com<br/>
-CRIPTO VIP PLANEJAMENTO FINANCEIRO LTDA: 30.117.190/0001-92<br/>
+CODE CONHECIMENTO LTDA: 30.117.190/0001-92<br/>
 Rua Benjamin Constant, 60/304. Rio de Janeiro/RJ<br/>
 Telefone: (21) 9481-5880<br/>
-Email: contato@conquistandosuavaga.com
+Email: contato@codeconhecimento.com.br
 
   
 <?php
