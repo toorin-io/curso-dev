@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 
-	<title>Aula Encerrada. Cadastre-se para receber mais materiais sobre como Conquistar Sua Vaga!</title>
+	<title>Cadastre-se para receber mais materiais sobre como Conquistar Sua Vaga!</title>
 
 <?php
 include("chunks/head/google.php");
@@ -31,7 +31,7 @@ include("chunks/body/google.php");
 			<h2>Inscreva-se para ter acesso a mais materiais sobre como conquistar sua vaga!</h2>
 
 <?php
-include("chunks/body/mautic-form-cadastro-sem-campanha.php");
+include("chunks/body/ac-form-em-breve.php");
 ?>
     
             
