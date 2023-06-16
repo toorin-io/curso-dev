@@ -16,6 +16,9 @@ textarea {
 
 a {
   text-decoration: none;
+  font-family: "Montserrat", Sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
 }
 
 a:hover {
@@ -417,6 +420,92 @@ a:hover {
   flex-direction: column;
   gap: 2.4rem;
   line-height: 2.4rem;
+  width: 60%;
+}
+
+.price-wrapper {
+  margin-top: 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 8px;
+  border: 1px solid #d8d8d8;
+
+  background: #f8f8f8;
+}
+
+.price-left {
+  height: 100%;
+  width: 40%;
+  background: #efefef;
+  padding: 3.6rem 2.8rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+
+  font-family: "Montserrat", Sans-serif;
+}
+
+.price-left p {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.price-line-through {
+  text-decoration: line-through;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.price-highlight {
+  font-size: 2rem;
+}
+
+.price-left p strong {
+  font-size: 3.2rem;
+}
+
+.price-left .price-lowlight {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.price-right {
+  height: 100%;
+  width: 60%;
+  padding: 2rem;
+  text-align: left;
+}
+
+.price-right strong {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+
+.price-right ul {
+  margin: 2rem 0 0 2rem;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.price-right li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.6rem;
+
+  padding: 1rem;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.price-right li i {
+  font-size: 1.6rem;
+  color: #c3c5c8;
 }
 
 .outline-button {
@@ -598,8 +687,12 @@ footer {
     text-align: center;
   }
 
-  details {
-    width: 90%;
+  .price-wrapper {
+    flex-direction: column;
+  }
+  .price-left,
+  .price-right {
+    width: 100%;
   }
 }
 
