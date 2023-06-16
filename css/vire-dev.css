@@ -26,11 +26,29 @@ a:hover {
 }
 
 .hero {
+  position: relative;
   padding: 16rem 0;
-  /* background-image: url("images/hero-bg.png"); */
-  background: #001569;
+  background-image: url("../images/hero-bg.png");
+  background-position: center center;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
   height: 100%;
   text-align: center;
+}
+
+.hero-overlay {
+  position: relative;
+  z-index: 1;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 19, 75, 0.6);
+  z-index: 1;
 }
 
 .hero-text {
@@ -439,7 +457,7 @@ a:hover {
   height: 100%;
   width: 40%;
   background: #efefef;
-  padding: 3.6rem 2.8rem;
+  padding: 4rem 3.2rem;
 
   display: flex;
   flex-direction: column;
@@ -486,11 +504,11 @@ a:hover {
 }
 
 .price-right ul {
-  margin: 2rem 0 0 2rem;
+  margin: 1rem 0 0 2rem;
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 1.6rem;
+  gap: 1rem;
 }
 
 .price-right li {

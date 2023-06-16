@@ -7,7 +7,7 @@
     <?php
     include("chunks/head/google.php");
     include("chunks/head/facebook.php");
-    include("chunks/head/meta.php");
+    include("chunks/head/meta-vire-dev.php");
 
   ?>
     
@@ -17,7 +17,7 @@
   <?php
     include("chunks/body/google.php");
     include("chunks/body/vire-dev/hero.php");    
-    include("chunks/body/vire-dev/pra-quem-nao-e.php");    
+    include("chunks/body/vire-dev/pra-quem-e.php");    
     include("chunks/body/vire-dev/o-que-e.php");    
     include("chunks/body/vire-dev/milhares-de-vagas-abertas.php");    
     include("chunks/body/vire-dev/conheca-sua-jornada.php");    

@@ -4,22 +4,21 @@
       <i class="fas fa-quote-left"></i>
       <div class="testimonal">
         <p class="text-gray-800 testimonal-text">
-          Com uma semana e meia de mentoria eu já tive contato da primeira
-          recrutadora!
+        O investimento se paga muito rápido. Com um mês do meu salário, dá e sobra, e o tempo que eu teria perdido postergando essa entrada no mercado..
         </p>
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/felipemgc/"
+          href="https://www.linkedin.com/in/ramonfcf/"
           target="_blank"
         >
           <div class="testimonal-content">
             <img
               class="testimonal-avatar"
-              src="images/historias/felipe-marcondes.jpg"
+              src="images/historias/ramon-costa.jpg"
             />
             <div class="testimonal-author">
               <strong class="testimonal-name text-gray-800"
-                >Felipe Marcondes</strong
+                >Ramon Costa</strong
               >
               <span class="testimonal-role text-gray-700">Dev Junior</span>
             </div>
@@ -28,23 +27,21 @@
       </div>
       <div class="testimonal">
         <p class="text-gray-800 testimonal-text">
-          Eu fui aprovado e consegui a minha tão sonhada vaga como
-          desenvolvedor junior!
+        Eu adquiri confiança. Transformou minha vida! É uma imersão literalmente na preparação para um processo seletivo. Você se sente pronto desde a parte de softskills, até a parte das hardskills. 
         </p>
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/lucas-milar%C3%A9-de-oliveira-3955b6136//"
+          href="https://www.linkedin.com/in/allan-pereira-abrahao/"
           target="_blank"
         >
           <div class="testimonal-content">
             <img
               class="testimonal-avatar"
-              src="images/historias/lucas-milare.jpg"
+              src="images/historias/allan-abrahao.jpg"
             />
             <div class="testimonal-author">
               <strong class="testimonal-name text-gray-800"
-                >Lucas Milaré</strong
-              >
+              >Allan Abrahão</strong>
               <span class="testimonal-role text-gray-700">Dev Junior</span>
             </div>
           </div>
@@ -54,7 +51,7 @@
     <div class="what-is-right">
       <div class="icon-box-h">
         <div class="icon-wrapper">
-          <i class="fas fa-user-ninja"></i>
+          <i class="fa-solid fa-play"></i>
         </div>
         <div>
           <strong>+ de 200 aulas gravadas</strong>
@@ -66,9 +63,7 @@
         </div>
       </div>
       <div class="icon-box-h">
-        <div class="icon-wrapper">
-          <i class="fas fa-user-ninja"></i>
-        </div>
+        <i class="fas fa-tv"></i>        
         <div>
           <strong>Encontros ao vivo</strong>
           <p class="text-gray-600">
@@ -91,7 +86,7 @@
         </div>
       </div>
       <div class="icon-box-h">
-        <i class="fas fa-user-friends"></i>
+        <i class="fa-solid fa-chalkboard-user"></i>
         <div>
           <strong>Time de guias especialistas</strong>
           <p class="text-gray-600">

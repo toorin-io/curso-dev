@@ -4,7 +4,7 @@
     <h2 class="title">O MERCADO QUE MAIS CRESCE NA CRISE</h2>
     <p class="text text-gray-400">
       Tá faltando gente no mundo de desenvolvimento de software. Isso é um
-      fato. O mercado está muito aquecido. São mais de 50 mil vagas abertas
+      fato.<br /> O mercado está muito aquecido. São mais de 50 mil vagas abertas
       hoje para trabalhar com programação só no Brasil!
     </p>
 
