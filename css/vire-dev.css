@@ -25,13 +25,12 @@ a:hover {
 .hero {
   padding: 16rem 0;
   /* background-image: url("images/hero-bg.png"); */
-  background: #060b31;
+  background: #001569;
   height: 100%;
   text-align: center;
 }
 
 .hero-text {
-  color: #8a8e95;
   font-size: 1.2rem;
   line-height: 2.4rem;
   font-weight: 500;
@@ -40,7 +39,6 @@ a:hover {
 }
 
 .headline {
-  color: #ffffff;
   font-family: "Montserrat", Sans-serif;
   font-size: 7.2rem;
   font-weight: 700;
@@ -49,7 +47,6 @@ a:hover {
 }
 
 .subheadline {
-  color: #c3c5c8;
   font-size: 1.8rem;
   line-height: 2.4rem;
   font-weight: 400;
@@ -62,39 +59,70 @@ a:hover {
   border-radius: 4px 4px 4px 4px;
   padding: 12px 24px;
   font-size: 1.6rem;
+  display: flex;
+  flex-wrap: nowrap;
+  width: fit-content;
+  margin: 0 auto;
 }
 
 .cta-button:hover {
   background: #16a5dc;
+  color: white;
 }
 
-.container-dark-gray {
+.container-dark-blue {
   padding: 6rem 0;
-  background: #070b45;
-  color: #f2eeef;
+  background: #000829;
   text-align: center;
 }
 
-.container-gray {
+.container-blue {
   padding: 6rem 0;
-  background: #2d343d;
-  color: #f2eeef;
+  background: #00135f;
   text-align: center;
 }
 
 .container-light-gray {
   padding: 6rem 0;
   background: #f2eeef;
-  color: #2d343d;
   text-align: center;
 }
 
-.text-light-color {
+.container-white {
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-gray-200 {
+  color: #f2eeef;
+}
+
+.text-gray-400 {
   color: #c3c5c8;
 }
 
-.text-dark-color {
+.text-gray-600 {
+  color: #656a73;
+}
+
+.text-gray-700 {
+  color: #79808a;
+}
+
+.text-gray-800 {
   color: #2d343d;
+}
+
+.text-primary {
+  color: #62cffd;
+}
+
+.text-primary-600 {
+  color: #16a5dc;
 }
 
 .content {
@@ -103,11 +131,11 @@ a:hover {
 }
 
 .subtitle {
-  color: #62cffd;
   font-size: 2rem;
   line-height: 2.4rem;
   font-weight: 700;
   text-transform: uppercase;
+  margin-bottom: 8px;
 }
 
 .title {
@@ -115,6 +143,7 @@ a:hover {
   font-size: 2.4rem;
   font-weight: 700;
   text-transform: uppercase;
+  margin-bottom: 2rem;
 }
 
 .text {
@@ -135,7 +164,16 @@ a:hover {
   align-items: center;
   justify-content: center;
   flex-grow: 1;
-  gap: 1.6rem;
+  gap: 1rem;
+  padding: 8px;
+}
+
+.icon-box-v strong {
+  font-size: 2.4rem;
+}
+
+.icon-box-v p {
+  font-size: 1.6rem;
 }
 
 .icon-box-v i {
@@ -149,6 +187,7 @@ a:hover {
 
 .icon-box-h {
   width: 100%;
+  padding: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -158,16 +197,20 @@ a:hover {
   text-align: left;
 }
 
-.icon-wrapper {
+.icon-wrapper,
+.videos-wrapper,
+.flex-wrapper {
+  margin-top: 1.6rem;
   display: flex;
+  align-items: center;
   justify-content: center;
   padding: 0 5px;
+  gap: 1.6rem;
 }
 
 .icon-box-h i {
   font-size: 3.2rem;
   transition: all 0.2s;
-  color: #16a5dc;
 }
 
 .icon-box-h i:hover {
@@ -180,7 +223,6 @@ a:hover {
 
 .icon-box-h p {
   font-size: 1.6rem;
-  color: #656a73;
 }
 
 .what-is {
@@ -233,7 +275,7 @@ a:hover {
 .testimonal-name {
   font-family: "Montserrat", Sans-serif;
   font-size: 1.8rem;
-  color: #2d343d;
+  cursor: pointer;
 }
 
 .testimonal-name:hover {
@@ -242,7 +284,6 @@ a:hover {
 
 .testimonal-role {
   font-size: 1.4rem;
-  color: #79808a;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -253,4 +294,318 @@ a:hover {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+}
+
+.gallery {
+  margin-top: 3.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery-column {
+  flex: 33%;
+  max-width: 33%;
+  padding: 0 4px;
+}
+
+.gallery-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  transition: all 0.3s;
+}
+
+.gallery-column img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.salaries {
+  margin-top: 5.2rem;
+  display: flex;
+  gap: 8px;
+}
+
+.salaries-title {
+  padding: 1rem;
+  text-align: left;
+  flex: 1;
+}
+
+.salaries-title h3 {
+  font-size: 1.6rem;
+}
+
+.salaries-title h2 {
+  font-size: 2.4rem;
+}
+
+.salaries-box {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  background-color: transparent;
+  background-image: linear-gradient(165deg, #000829 0%, #00135f 100%);
+  border: 1px solid #121f51;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.45);
+  transition: all 0.3s;
+  padding: 1.8rem 0.8rem;
+  border-radius: 8px;
+}
+
+.salaries-box:hover {
+  border: 1px solid #16a5dc;
+}
+
+.salaries-box h2 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 3.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 24px;
+}
+
+.salaries-box h3 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.salaries-box p {
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+.info-wrapper {
+  margin: 3.2rem 0;
+}
+
+.separator {
+  width: 30%;
+  border: 1px solid #d8d8d8;
+  border-radius: 99999px;
+  margin: 4rem auto;
+}
+
+.videos-wrapper {
+  margin-top: 4rem;
+}
+
+.video-box {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  flex: 1;
+}
+
+.video-box iframe {
+  border-radius: 8px;
+}
+
+.expert-avatar {
+  border-radius: 9999px;
+  width: 30%;
+}
+
+.expert-right {
+  width: 65%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  line-height: 2.4rem;
+}
+
+.outline-button {
+  color: #16a5dc;
+  border: 2px solid #16a5dc;
+  border-radius: 4px 4px 4px 4px;
+  padding: 12px 24px;
+  font-size: 1.6rem;
+  display: flex;
+  flex-wrap: nowrap;
+  width: fit-content;
+  margin: 1.6rem auto;
+}
+
+.outline-button:hover {
+  background: linear-gradient(180deg, #62cffd 0%, #16a5dc 100%);
+  color: white;
+}
+
+summary {
+  padding: 1rem;
+  display: block;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
+
+  font-weight: 600;
+  transition: all 0.3s;
+}
+
+summary:before {
+  content: "";
+  border: 0.4rem solid;
+  border-color: transparent transparent transparent #62cffd;
+  position: absolute;
+  top: 1.6rem;
+  left: 1rem;
+  transform: rotate(0);
+  transform-origin: 0.2rem 50%;
+  transition: 0.25s transform ease;
+}
+
+details {
+  text-align: left;
+  border-bottom: 1px solid #121f51;
+}
+
+details[open] > summary {
+  color: #62cffd;
+}
+
+details[open] > summary:before {
+  transform: rotate(90deg);
+}
+
+details > p {
+  padding: 2rem;
+}
+
+.whatsapp-button {
+  color: white;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #128c7e 0%, #075e54 100%);
+  border-radius: 4px 4px 4px 4px;
+  padding: 12px 24px;
+  font-size: 1.6rem;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  margin: 1.6rem auto;
+}
+
+.whatsapp-button i {
+  font-size: 1.8rem;
+}
+
+.whatsapp-button:hover {
+  background: #128c7e;
+  color: white;
+}
+
+.whatsapp-floating-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 9999px;
+  width: 5rem;
+  height: 5rem;
+  padding: 1rem;
+  background-color: #25d366;
+
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.whatsapp-floating-button a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 4rem;
+}
+
+.whatsapp-floating-button:hover {
+  background-color: #17a14b;
+}
+
+footer {
+  background: #000412;
+  padding: 1rem 0;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.4rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+  .hero,
+  .container-dark-blue,
+  .container-blue,
+  .container-light-blue,
+  .container-white {
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+  }
+
+  .content {
+    width: 90%;
+  }
+
+  .icon-boxes,
+  .videos-wrapper,
+  .flex-wrapper {
+    flex-direction: column;
+    gap: 2.4rem;
+  }
+
+  .what-is {
+    flex-direction: column;
+  }
+
+  .what-is-left,
+  .what-is-right {
+    width: 90%;
+    text-align: center;
+  }
+
+  .testimonal-content {
+    justify-content: center;
+  }
+
+  .gallery-column {
+    flex: 50%;
+    max-width: 50%;
+  }
+
+  .salaries {
+    flex-direction: column;
+  }
+
+  .salaries-title {
+    text-align: center;
+  }
+
+  .expert-avatar {
+    width: 80%;
+  }
+
+  .expert-right {
+    width: 100%;
+    text-align: center;
+  }
+
+  details {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .gallery-column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }
