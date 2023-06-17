@@ -68,7 +68,7 @@ body.mentoria {
   position: absolute;
   left: 8px;
   width: 16px;
-  background: #d83a4e;
+  background: #16a5dc;
   animation: redirect-loading 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
 }
 .redirect-loading div:nth-child(1) {
