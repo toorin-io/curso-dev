@@ -25,7 +25,7 @@ include("chunks/body/google.php");
 
 	<section class="content">
 		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/LiIO4TiJBI8?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/TAbn3aEwa2U?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 
@@ -33,7 +33,7 @@ include("chunks/body/google.php");
 		<div class="content">
 			<p class="selling-text">
 				<strong>Próximo Passo</strong>
-                <a target="_blank" href="whatsapp-simulacao" style="color:#ffffff">Me avise pelo WhatsApp</a> que preencheu o formulário para saber se seu CPF foi aprovado!
+                <a target="_blank" href="whatsapp-simulacao" style="color:#ffffff">Avise pelo WhatsApp</a> que preencheu o formulário para saber se seu CPF foi aprovado!
 				<span>
 					<a target="_blank" href="whatsapp-simulacao"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
 				</span>
