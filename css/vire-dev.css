@@ -648,6 +648,68 @@ footer {
   text-align: center;
 }
 
+.hero-conheca {
+  padding: 10rem 0;
+  text-align: left;
+}
+
+.hero-conheca::before {
+  background-color: rgba(0, 15, 45, 0.9);
+}
+
+.hero-conheca a {
+  margin: 0;
+}
+
+.hero-overlay-conheca {
+  display: grid;
+  grid-template-columns: 45% 65%;
+  gap: 32px;
+  align-items: center;
+}
+
+.hero-overlay-conheca-mobile {
+  display: none;
+}
+
+.conheca-title {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+
+.conheca-headline {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.conheca-subheadline {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: 400;
+  margin: 1rem 0 3rem;
+}
+
+.conheca-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.conheca-text-icon {
+  margin-top: 1rem;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.conheca-text-icon i {
+  font-size: 1rem;
+}
+
 @media screen and (max-width: 800px) {
   .hero,
   .container-dark-blue,
@@ -656,6 +718,18 @@ footer {
   .container-white {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  .hero-overlay-conheca {
+    display: none;
+  }
+
+  .hero-overlay-conheca-mobile {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .content {
