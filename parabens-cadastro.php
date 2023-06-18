@@ -5,9 +5,9 @@
 	<title>Parabéns por se inscrever para receber em primeira mão minhas novas aulas!</title>
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/tags.php");
+
+include("chunks/head/meta-imersao.php");
 ?> 
     
     </head>
@@ -15,7 +15,7 @@ include("chunks/head/meta-mentoria.php");
 <body>
     
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
 	<header class="content header">

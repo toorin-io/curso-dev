@@ -5,9 +5,9 @@
 	<title>Mentoria Conquiste Sua Vaga</title>
 	
     <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/tags.php");
+
+include("chunks/head/meta-imersao.php");
 ?>
    
 
@@ -16,7 +16,7 @@ include("chunks/head/meta-mentoria.php");
 <body>
     
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
 	<header class="content header">

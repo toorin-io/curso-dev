@@ -7,8 +7,8 @@
   <meta http-equiv="refresh" content="1; url = 'https://t.me/pedromarinscsv'" />
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
+include("chunks/head/tags.php");
+
 include("chunks/head/meta.php");
 ?>
     
@@ -16,7 +16,7 @@ include("chunks/head/meta.php");
 
 <body class="forward">
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 <div class="forward-content">
 

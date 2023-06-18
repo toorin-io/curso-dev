@@ -4,8 +4,8 @@
 		<meta charset="UTF-8" />
 		<title>Descubra os 3 passos para ser o dev desejado pelo mercado!</title>
 		<?php
-			include("chunks/head/google.php");
-			include("chunks/head/facebook.php");
+			include("chunks/head/tags.php");
+			
 			include("chunks/head/meta-aula.php");
 		?>
 		<?php
@@ -751,7 +751,7 @@
       </defs>
     </svg>
 		<?php
-			include("chunks/body/google.php");
+			include("chunks/body/tags.php");
 		?>
     <div
       data-elementor-type="wp-page"

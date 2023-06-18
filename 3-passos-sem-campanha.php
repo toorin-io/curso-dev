@@ -5,8 +5,8 @@
 	<title>Cadastre-se para receber mais materiais sobre como Conquistar Sua Vaga!</title>
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
+include("chunks/head/tags.php");
+
 include("chunks/head/meta-aula-encerrada.php");
 ?>
     
@@ -21,7 +21,7 @@ include("chunks/head/mautic-form.php");
 <body>
     
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
 	<header class="content" id="home">

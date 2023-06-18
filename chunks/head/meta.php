@@ -43,7 +43,7 @@
 <!-- Data de publicação e alteração -->
 
 	<meta property="article:published_time" content="2021-06-28">
-    <meta property="article:modified_time" content="2023-05-31T23:59:44+00:00">
+    <meta property="article:modified_time" content="2023-06-17T23:59:44+00:00">
 
 <!-- Pixel do Linkedin..por enquanto aqui! -->
 

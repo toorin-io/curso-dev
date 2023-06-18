@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
       <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
+include("chunks/head/tags.php");
+
 include("chunks/head/meta.php");
 ?>
     <meta charset="UTF-8" />
@@ -20,7 +20,7 @@ print($link);
   </head>
   <body class="redirect-body">
       <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 include("chunks/body/mautic-pixel.php");
 ?>
     <section class="redirect">

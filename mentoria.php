@@ -6,9 +6,9 @@
     <title>Conquiste Sua Vaga! Conheça a mentoria</title>
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
-include("chunks/head/meta-mentoria.php");
+include("chunks/head/tags.php");
+
+include("chunks/head/meta-imersao.php");
 ?>
     
 </head>
@@ -17,7 +17,7 @@ include("chunks/head/meta-mentoria.php");
 
 
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
     

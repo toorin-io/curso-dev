@@ -7,8 +7,8 @@
 
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
+include("chunks/head/tags.php");
+
 include("chunks/head/meta-aula.php");
 ?>
         
@@ -22,7 +22,7 @@ include("chunks/head/mautic-form.php");
     <body>
 
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
         <header class="content header">

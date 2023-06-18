@@ -7,8 +7,8 @@
   <meta http-equiv="refresh" content="1; url = 'https://www.viredev.com.br'" />
 
 <?php
-include("chunks/head/google.php");
-include("chunks/head/facebook.php");
+include("chunks/head/tags.php");
+
 include("chunks/head/meta.php");
 ?>
 
@@ -17,7 +17,7 @@ include("chunks/head/meta.php");
 <body>
 
 <?php
-include("chunks/body/google.php");
+include("chunks/body/tags.php");
 ?>
 
     <p>Você tentou acessar uma página que não existe!</p>
