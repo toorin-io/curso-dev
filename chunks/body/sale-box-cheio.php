@@ -3,7 +3,7 @@
                 <div class="sale-header">
                     <h1 class="title">Conquiste Sua Vaga</h1>
                 </div>
-                <p class="sale-price-old">R$ 4.000 à vista</p>
+                <p class="sale-price-old">R$ 5.000 à vista</p>
                 <p class="sale-price">12 x R$ 400</p>
                 <ul class="sale-list">
                     <li>
