@@ -1,7 +1,7 @@
 <section class="container-dark-blue text-gray-200">
   <div class="content">
     <h3 class="subtitle text-primary">QUEREMOS SÓ GENTE BOA NO TIME!</h3>
-    <h2 class="title">PRA QUEM NÃO É​ A MENTORIA</h2>
+    <h2 class="title">PRA QUEM NÃO É​ A IMERSÃO</h2>
     <div class="icon-boxes">
       <div class="icon-box-v">
         <i class="far fa-window-close text-gray-700"></i>

@@ -81,7 +81,7 @@
           <p class="text-gray-600">
             Série de exercícios estruturados para aplicar as técnicas e
             ferramentas que são compartilhadas ao longo da imersão para que
-            você avance e tenha um enorme progresso durante toda a mentoria.
+            você avance e tenha um enorme progresso durante toda a imersão.
           </p>
         </div>
       </div>
