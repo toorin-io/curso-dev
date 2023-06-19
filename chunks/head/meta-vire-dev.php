@@ -1,6 +1,6 @@
     <!-- Início da parte do Meta que NÃO MUDA. É igual para todas as páginas-->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta property="og:site_name" content="Conquiste Sua Vaga!">
+    <meta property="og:site_name" content="Vire Dev!">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="author" content="Pedro Marins">

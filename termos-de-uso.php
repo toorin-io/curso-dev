@@ -3,7 +3,7 @@
     <head>
 
         
-        <title>Conquiste Sua Vaga - Envie seu currículo</title>
+        <title>Termos de Uso</title>
 
 
 <?php
