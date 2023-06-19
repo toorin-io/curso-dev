@@ -11,19 +11,17 @@
         </p>
         <p>
           POR
-          <span class="price-highlight">R$ 1.990</span> À VISTA OU
+          <span class="price-highlight">R$ 2.000</span> À VISTA OU
         </p>
-        <p>12 x <strong class="text-primary-600">R$ 199,00</strong></p>
+        <p>12 x <strong class="text-primary-600">R$ 200,00</strong></p>
         <p class="price-lowlight">
           PARA MATRÍCULAS ANTECIPADAS <br />(enquanto houverem vagas
           disponíveis)
         </p>
-        <a
-          target="_blank"
-          href="/finalizar-matricula.php"
-          class="cta-button"
-          >Reservar minha vaga com 50% de desconto</a
-        >
+ <?php
+include("botao-matricula.php");
+?>
+
       </div>
       <div class="price-right">
         <strong>VOCÊ VAI TER:</strong>

@@ -5,14 +5,14 @@
 	<title>Aula Encerrada. Cadastre-se para receber mais materiais sobre como Virar Dev!</title>
 
 <?php
-include("chunks/head/tags.php");
+include("chunks/head/tags-head.php");
 
 include("chunks/head/meta-aula-encerrada.php");
 ?>
     
 
 <?php
-include("chunks/head/mautic-form.php");
+
 ?>
 
        
@@ -21,7 +21,7 @@ include("chunks/head/mautic-form.php");
 <body>
     
 <?php
-include("chunks/body/tags.php");
+include("chunks/body/tags-body.php");
 ?>
 
 	<header class="content" id="home">
@@ -45,7 +45,7 @@ include("chunks/body/mautic-form-cadastro-sem-campanha.php");
 include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
-include("chunks/body/mautic-pixel.php");
+
 ?>
     
     </body>

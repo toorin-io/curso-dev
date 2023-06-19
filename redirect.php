@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
       <?php
-include("chunks/head/tags.php");
+include("chunks/head/tags-head.php");
 
 include("chunks/head/meta.php");
 ?>
@@ -20,8 +20,8 @@ print($link);
   </head>
   <body class="redirect-body">
       <?php
-include("chunks/body/tags.php");
-include("chunks/body/mautic-pixel.php");
+include("chunks/body/tags-body.php");
+
 ?>
     <section class="redirect">
       <div class="redirect-loading">

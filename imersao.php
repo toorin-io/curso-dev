@@ -5,7 +5,7 @@
 	<title>Vire Dev! - Imersão com Pedro Marins</title>
 	  
     <?php
-    include("chunks/head/tags.php");
+    include("chunks/head/tags-head.php");
     
     include("chunks/head/meta-vire-dev.php");
 
@@ -15,7 +15,7 @@
 <body>
     
   <?php
-    include("chunks/body/tags.php");
+    include("chunks/body/tags-body.php");
     include("chunks/body/vire-dev/hero.php");    
     include("chunks/body/vire-dev/pra-quem-e.php");    
     include("chunks/body/vire-dev/o-que-e.php");    

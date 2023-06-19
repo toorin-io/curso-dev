@@ -5,7 +5,7 @@
 	<title>Parabéns por se cadastrar para se matrícular sem limite e sem cartão!</title>
 	  
 <?php
-include("chunks/head/tags.php");
+include("chunks/head/tags-head.php");
 
 include("chunks/head/meta-aula.php");
 
@@ -16,7 +16,7 @@ include("chunks/head/meta-aula.php");
 <body>
     
 <?php
-include("chunks/body/tags.php");
+include("chunks/body/tags-body.php");
 ?>
 
 	<header class="content header">
@@ -46,7 +46,7 @@ include("chunks/body/tags.php");
 include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
-include("chunks/body/mautic-pixel.php");
+
 ?>
 
     

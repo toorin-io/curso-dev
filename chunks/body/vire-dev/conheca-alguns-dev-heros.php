@@ -3,7 +3,7 @@
     <h3 class="subtitle text-primary">
       CONHEÇA ALGUNS DE NOSSOS DEV HEROS
     </h3>
-    <h2 class="title">O QUE DIZEM NOSSOS MENTORADOS</h2>
+    <h2 class="title">O QUE DIZEM OS DEVS FORMADOS POR MIM</h2>
 
     <div class="videos-wrapper">
       <div class="video-box">
@@ -18,7 +18,7 @@
         ></iframe>
 
         <p class="text-gray-400 text">
-          "Entrei na mentoria sem nenhuma experiência como programador...
+          "Entrei sem nenhuma experiência como programador...
           Com 21 dias eu fui chamado pra fazer onboarding na empresa...
           Inclusive uma vaga pra fora do Brasil."
         </p>
@@ -48,8 +48,7 @@
         ></iframe>
 
         <p class="text-gray-400 text">
-          "Eu vinha de um momento que estava com a confiança baixa... Fazer
-          a mentoria foi a melhor escolha que eu pude fazer."
+          "Eu vinha de um momento que estava com a confiança baixa... foi a melhor escolha que eu pude fazer."
         </p>
         <a
           target="_blank"
@@ -78,7 +77,7 @@
 
         <p class="text-gray-400 text">
           "Nunca trabalhei com desenvolvimento anteriormente... Foram
-          basicamente 3 semanas de mentoria, e eu fui chamado para minha
+          basicamente 3 semanas e eu fui chamado para minha
           primeira vaga como desenvolvedor."
         </p>
         <a

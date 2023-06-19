@@ -7,7 +7,7 @@
   <meta http-equiv="refresh" content="1; url = 'https://t.me/pedromarinscsv'" />
 
 <?php
-include("chunks/head/tags.php");
+include("chunks/head/tags-head.php");
 
 include("chunks/head/meta.php");
 ?>
@@ -16,7 +16,7 @@ include("chunks/head/meta.php");
 
 <body class="forward">
 <?php
-include("chunks/body/tags.php");
+include("chunks/body/tags-body.php");
 ?>
 <div class="forward-content">
 
@@ -26,7 +26,7 @@ include("chunks/body/tags.php");
          
 </div>
 <?php
-include("chunks/body/mautic-pixel.php");
+
 ?> 
 
 </body>

@@ -7,7 +7,7 @@
   <meta http-equiv="refresh" content="1; url = 'https://www.viredev.com.br'" />
 
 <?php
-include("chunks/head/tags.php");
+include("chunks/head/tags-head.php");
 
 include("chunks/head/meta.php");
 ?>
@@ -17,7 +17,7 @@ include("chunks/head/meta.php");
 <body>
 
 <?php
-include("chunks/body/tags.php");
+include("chunks/body/tags-body.php");
 ?>
 
     <p>Você tentou acessar uma página que não existe!</p>
@@ -29,7 +29,7 @@ include("chunks/body/tags.php");
 include("chunks/body/footer.php");
 include("chunks/body/top-stripe.php");
 include("chunks/body/bottom-stripe.php");
-include("chunks/body/mautic-pixel.php");
+
 ?> 
     
 </body>

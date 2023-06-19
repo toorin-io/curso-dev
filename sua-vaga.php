@@ -4,12 +4,12 @@
 		<meta charset="UTF-8" />
 		<title>Descubra os 3 passos para ser o dev desejado pelo mercado!</title>
 		<?php
-			include("chunks/head/tags.php");
+			include("chunks/head/tags-head.php");
 			
 			include("chunks/head/meta-aula.php");
 		?>
 		<?php
-			include("chunks/head/mautic-form.php");
+			
 		?>
 
     <style>
@@ -751,7 +751,7 @@
       </defs>
     </svg>
 		<?php
-			include("chunks/body/tags.php");
+			include("chunks/body/tags-body.php");
 		?>
     <div
       data-elementor-type="wp-page"
@@ -830,8 +830,8 @@
                           <h1
                             class="elementor-heading-title elementor-size-default"
                           >
-                            Comece sua carreira como dev em 3 passos, mesmo sem
-                            ter experiência prévia
+                            Vire Dev em 3 passos, mesmo sem
+                            ter experiência na area!
                           </h1>
                         </div>
                       </div>
@@ -3717,7 +3717,7 @@
       id="e-sticky-js"
     ></script>
 		<?php
-			include("chunks/body/mautic-pixel.php");
+			
 		?>
   </body>
 </html>

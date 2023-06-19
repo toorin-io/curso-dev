@@ -1,7 +1,7 @@
 <section class="container-light-gray text-gray-800">
   <div class="content">
     <h3 class="subtitle text-primary">UMA DESSAS VAGAS PODE SER SUA!</h3>
-    <h2 class="title">CONHEÇA SUA JORNADA DENTRO DA MENTORIA</h2>
+    <h2 class="title">CONHEÇA SUA JORNADA DENTRO DA IMERSÃO</h2>
 
     <div class="info-wrapper">
       <div>
@@ -104,8 +104,9 @@
       <div class="separator"></div>
     </div>
 
-    <a target="_blank" href="/finalizar-matricula.php" class="cta-button"
-      >Reservar minha vaga com 50% de desconto</a
-    >
+<?php
+include("botao-matricula.php");
+?>
+
   </div>
 </section>
