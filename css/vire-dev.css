@@ -71,7 +71,7 @@ a:hover {
   font-size: 1.8rem;
   line-height: 2.4rem;
   font-weight: 400;
-  margin: 0.8rem 0 5.4rem;
+  margin-top: 0.8rem;
 }
 
 .cta-button {
@@ -84,11 +84,16 @@ a:hover {
   flex-wrap: nowrap;
   width: fit-content;
   margin: 0 auto;
+  margin-top: 2.4rem;
 }
 
 .cta-button:hover {
   background: #16a5dc;
   color: white;
+}
+
+#cta-aula {
+  display: none;
 }
 
 .container-dark-blue {
@@ -144,6 +149,22 @@ a:hover {
 
 .text-primary-600 {
   color: #16a5dc;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.bg-dark-blue {
+  background: #000829;
+}
+
+.bg-blue {
+  background: #00135f;
+}
+
+.bg-light-gray {
+  background: #f2eeef;
 }
 
 .content {
@@ -639,7 +660,6 @@ details > p {
 }
 
 footer {
-  background: #000412;
   padding: 1rem 0;
   font-family: "Montserrat", Sans-serif;
   font-size: 1.2rem;
@@ -648,17 +668,17 @@ footer {
   text-align: center;
 }
 
-.hero-conheca {
+.hero-dark-blue {
   padding: 10rem 0;
   text-align: left;
 }
 
-.hero-conheca::before {
+.hero-dark-blue::before {
   background-color: rgba(0, 15, 45, 0.9);
 }
 
-.hero-conheca a {
-  margin: 0;
+.hero-overlay-conheca a {
+  margin: 2.4rem 0 0;
 }
 
 .hero-overlay-conheca {
@@ -691,7 +711,7 @@ footer {
   font-size: 1.6rem;
   line-height: 2.4rem;
   font-weight: 400;
-  margin: 1rem 0 3rem;
+  margin-top: 1rem;
 }
 
 .conheca-text {
