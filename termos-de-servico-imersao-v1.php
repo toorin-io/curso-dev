@@ -28,91 +28,226 @@ include("chunks/body/tags-body.php");
         <header class="content header">
             <h1 class="big-title">TERMOS DE SERVIÇO DA IMERSÃO VIRE DEV v1</h1>
         </header>
-        
-        
-        
-        ESCREVER!!!!
 
-IMPORTANTE! ESSES TERMOS DE SERVIÇO REGULAM O USO DESTE SITE DISPONIBILIZADO PELA CODE CONHECIMENTO LTDA. AO ACESSAR A ESSE SITE, VOCÊ ATESTA SEU CONHECIMENTO E CONCORDÂNCIA COM ESSES TERMOS DE USO. ESSES TERMOS DE USO PODEM SER ALTERADOS A QUALQUER TEMPO E SEM AVISO. A UTILIZAÇÃO DESTE SITE APÓS TAIS ALTERAÇÕES ENTREM EM VIGOR CONSTITUI SEU CONHECIMENTO E ACEITAÇÃO DAS MUDANÇAS. POR FAVOR, CONSULTE OS TERMOS DE USO ANTES DE CADA USO PARA AVERIGUAR MODIFICAÇÕES.
+Última modificação: 18 de Junho de 2023
 
-        <h2>Acesso ao site</h2>
+Bem-vindo à Imersão Vire Dev!
 
-Para acessar esse site ou alguns dos recursos que ele oferece, pode ser requerido que você forneça alguns detalhes para inscrição ou outras informações. É uma condição de uso deste site que toda a informação que você forneça seja correta, atualizada e completa. Se a Empresa acreditar que a informação fornecida não é correta, atualizada ou completa, temos o direito de recusar o seu acesso a esse site ou qualquer um de seus serviços e também de cancelar ou suspender seu acesso a qualquer tempo sem notificação prévia.
-        
-<h2>Restrições de uso</h2>
+A Imersão é composta de alunos e parceiros da CoDe Conhecimento e é o destino certo para aprender a virar dev e criar conexões com devs e futuros devs. Adoramos ver os usuários aprendendo uns com os outros e construindo sua carreira na Imersão Vire Dev.
 
-Você pode utilizar esse site para propósitos expressamente permitidos por esse site. Você não pode utilizá-lo em qualquer outro objetivo, incluindo propósitos comerciais, sem o consentimento prévio expresso e escrito da nossa Empresa. Por exemplo, você não pode (e tampouco pode autorizar a terceiros) a (i) associar a marca da nossa Empresa a nenhuma outra, ou (ii) fazer um frame deste site em outro ou (iii) fazer um hiperlink para este site sem a autorização expressa prévia e escrita de um representante da nossa Empresa. Para efeitos deste termo de uso desses Termos de Uso, “associar a marca da nossa Empresa” significa expor nome, logo, marca comercial ou outros meios de atribuição ou identificação em fonte de maneira que dê ao usuário a impressão de que tal fonte tem o direito de expor, publicar ou distribuir este site ou o conteúdo disponibilizado por ele. Você concorda em cooperar com a Empresa para cessar qualquer associação, frame ou hiperlink não autorizados.
+Estes Termos de Uso da Imersão Vire Dev (“TDU da Imersão”) são os termos que se aplicam ao seu uso da Imersão Vire Dev. Esperamos que eles ajudem a garantir o valor da Imersão para você e que ela seja uma plataforma em que todos nós possamos melhorar juntos. Os TDU da Imersão também protegem os interesses de todos os nossos membros, bem como nossa boa vontade e reputação. Estes termos são tão importantes que não podemos permitir que você use a Imersão Vire Dev a menos que concorde com eles. Ao usar a Imersão Vire Dev, você concorda com estes termos.
 
-<h2>Propriedade da Informação</h2>
+Todos os nossos usuários da Imersão devem aderir a estes TDU da Imersão e são responsáveis por quaisquer violações. Você não tem permissão para auxiliar nem se envolver com ninguém de maneira que possa violar estes TDU da Imersão. Vamos impor e garantir a conformidade com estes TDU da Imersão utilizando os métodos que considerarmos apropriados.
 
-O material e conteúdo (referido nesse documento como “conteúdo”) acessíveis neste site e qualquer outro web site de propriedade, licenciado ou controlado pela nossa Empresa pertence à Empresa ou da fonte que forneceu o conteúdo à nossa Empresa, e nossa Empresa ou a fonte em questão detém todo o direito, título e proveito no Conteúdo. Da mesma forma, o conteúdo não pode ser copiado, distribuído, republicado, carregado, postado ou transmitido por qualquer meio sem o consentimento prévio escrito de nossa Empresa, ou ao menos que esteja autorizado de forma escrita no nosso site, exceto quando você imprime uma cópia para seu uso pessoal somente. Ao fazer isso, você não pode remover, alterar ou causar remoção ou alteração em qualquer copyright, marca comercial, nome comercial, marca de serviço ou qualquer outro aviso de propriedade no Conteúdo. Modificação ou uso do Conteúdo em qualquer outra forma que não as expressamente descritas nesse Termo de Uso viola os direitos de propriedade intelectual de nossa Empresa. Nem autoria nem a propriedade intelectual são transferidas para você ao acessar esse site.
+Definições
 
-<h2>Hiperlinks</h2>
+“Acordo”, "Termos", ou “TDU da Imersão” refere-se a estes Termos de Uso da Imersão Vire Dev e a todos os materiais indicados ou vinculados neste documento.
 
-Este site pode conter links para outros websites que não são mantidos ou mesmo relacionados à nossa Empresa. Hiperlinks para tais sites são providos como um serviço para usuários e não são afiliados a este site ou à nossa Empresa. Nossa Empresa não revisa todos ou mesmo nenhum desses sites e não é responsável pelo conteúdo deles. O usuário assume o risco ao acessar esses hiperlinks e nossa Empresa não faz nenhuma representação ou dá garantias sobre a plenitude ou precisão dos hiperlinks e os sites ao quais eles direcionam. Finalmente, a conclusão de qualquer hiperlink para um site de terceiro não necessariamente implica endosso da nossa Empresa a esse site.
+“Conteúdo da Imersão” refere-se a todo conteúdo, inclusive, entre outros, linguagem, dados, informações e imagens, fornecido ou divulgado pelo uso da Imersão Vire Dev, seja por nós ou por outros usuários da Imersão Vire Dev.  O Conteúdo da Imersão não inclui o "Seu Conteúdo".
 
-<h2>Envios</h2>
+“Imersão Vire Dev” refere-se à Imersão online oferecida através de ferramentas de Educação a Distância.
 
-Por este termo você garante à nossa Empresa o direito e licença royalty-free, perpétuo, irrevocável, global não exclusivo de usar, reproduzir, modificar, adaptar, publicar, traduzir, criar trabalhos derivados, distribuir, representar e expor todo o conteúdo, observações, sugestões, idéias, desenhos ou outras informações comunicadas à nossa Empresa por esse site (juntos, denominados agora como “Envios”), e incorporar qualquer Envio em outros trabalhos em qualquer formato, mídia ou tecnologia conhecida hoje ou ainda a ser desenvolvida. Nossa Empresa não será obrigada a tratar nenhum Envio como confidencial e pode usar qualquer Envio em seu negócio (incluindo e não se limitando a produtos ou propaganda) sem ser imputada nenhuma responsabilidade por royalties ou qualquer outra consideração de qualquer tipo e como resultado não fica responsável por qualquer similaridade que possa aparecer em operações futuras da Empresa.<br/>
-Nossa Empresa tratará qualquer informação pessoal que você submeter por esse site de acordo com as Políticas de Privacidade do site.
-        
-<h2>Aviso Legal</h2>
+“CoDe”,  “nós”, “nos”, “nosso”, "Contratada" se refere à CoDe Conhecimento LTDA.
 
-Você entende que nossa Empresa não pode e não garante que arquivos disponíveis para download da Internet estejam livres de vírus, worms, cavalos de Tróia ou outro código que possa manifestar propriedades contaminadoras ou destrutivas. Você é responsável por implementar procedimentos e checkpoints suficientes para satisfazer seus requisitos de segurança e por manter meios externos a este site para reconstrução de qualquer dado perdido. Nossa Empresa não assume nenhuma responsabilidade ou risco pelo uso da internet.<br/>
-O Conteúdo não é necessariamente completo e atualizado e não deve ser usado para substituir quaisquer relatórios, declarações ou avisos dados pela Empresa. Investidores, colaboradores e outros devem usar o Conteúdo da mesma maneira que qualquer outro ambiente educacional e não deve confiar somente no Conteúdo em detrimento de seu próprio julgamento profissional. A informação obtida ao usar este site não é completa e não cobre todas as questões, tópicos ou fatos que possam ser relevantes para seus objetivos.<br/>
-O USO DESTE SITE É DE SUA TOTAL RESPONSABILIDADE. O CONTEÚDO É OFERECIDO COMO ESTÁ E SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS. NOSSA EMPRESA NÃO GARANTE QUE AS FUNÇÕES OU CONTEÚDO PRESENTE NESTE SITE SERÁ CONTÍNUO, LIVRE DE ERROS, QUE FALHAS SERÃO CORRIGIDAS OU QUE ESTE SITE E SERVIDOR QUE O TORNA DISPONÍVEL ESTÃO LIVRES DE VÍRUS OU OUTROS COMPONENTES DESTRUTIVOS. NOSSA EMPRESA NÃO GARANTE OU FAZ QUALQUER REPRESENTAÇÃO RELACIONADA AO USO OU RESULTADOS DO USO DO CONTEÚDO EM TERMOS DE PRECISÃO, CONFIABILIDADE OU OUTROS. O CONTEÚDO PODE INCLUIR IMPRECISÕES TÉCNICAS OU ERROS TIPOGRÁFICOS E A EMPRESA PODE FAZER MUDANÇAS OU MELHORIAS A QUALQUER MOMENTO. VOCÊ, E NÃO A NOSSA EMPRESA, ASSUME O CUSTO DE QUALQUER SERVIÇO, REPARO OU CORREÇÃO NECESSÁRIOS NO CASO DE QUALQUER PERDA OU DANO CONSEQUENTE DO USO DESTE SITE OU SEU CONTEÚDO. NOSSA EMPRESA NÃO OFERECE GARANTIA QUE O USO DESTE CONTEÚDO NÃO INFRINGIRÁ O DIREITO DE OUTRO E NÃO ASSUME QUALQUER RESPONSABILIDADE POR ERROS OU OMISSÕES EM TAL CONTEÚDO.<br/>
-Toda informação neste site seja de natureza histórica ou prospectivas é válida somente para a data que foi publicada no site e a Empresa não se compromete com nenhuma obrigação de atualizar tal informação depois que é publicada ou remover tal informação deste site caso ela não seja (mais) precisa ou completa.
+“Você” ou “seu/sua” se refere à pessoa física que está usando a Imersão Vire Dev.
 
-<h2>Limitação de responsabilidade</h2>
+“Seu Conteúdo” refere-se a todo conteúdo, inclusive, entre outros, linguagem, dados, informações e imagens fornecidos ou divulgados por você ao usar a Imersão Vire Dev.
 
-A EMPRESA, SUAS FILIAIS, AFILIADOS, LICENCIANTES, PROVEDORES DE SERVIÇO, PROVEDORES DE CONTEÚDO, EMPREGADOS, AGENTES, ADMINISTRADORES E DIRETORES NÃO SERÃO RESPONSÁVEIS POR QUALQUER DANO EVENTUAL, DIRETO, INDIRETO, PUNITIVO, REAL, CONSEQUENTE, ESPECIAL, EXEMPLAR OU DE QUALQUER OUTRO TIPO, INCLUINDO PERDA DE RECEITA OU RENDA, DOR E SOFRIMENTO, ESTRESSE EMOCIONAL OU SIMILARES MESMO QUE A EMPRESA TENHA ACONSELHADO SOBRE A POSSIBILIDADE DE TAIS DANOS. DE NENHUMA FORMA A RESPONSABILIDADE COLETIVA DA EMPRESA E SUAS FILIAIS, AFILIADOS, LICENCIANTES, PROVEDORES DE SERVIÇO, PROVEDORES DE CONTEÚDO, EMPREGADOS, AGENTES, ADMINISTRADORES E DIRETORES EM RELAÇÃO A TERCEIROS (INDEPENDENTE DO TIPO DE AÇÃO, SEJA POR CONTRATO OU QUALQUER OUTRO) EXCEDERÁ A QUANTIA DE R$ 100 OU O VALOR PAGO À EMPRESA POR TAL CONTEÚDO, PRODUTO OU SERVIÇO DO QUAL A QUESTÃO TENHA SIDO LEVANTADA.
 
-<h2>Indenização</h2>
 
-Você vai indenizar e isentar a Empresa, suas filiais, afiliados, licenciantes, provedores de serviço, provedores de conteúdo, empregados, agentes, administradores e diretores (referidas agora como Partes Isentas) de qualquer violação desse Termo de Uso por você, incluindo o uso do Conteúdo diferente do expresso aqui. Você concorda que as Partes Isentas não têm responsabilidade ou conexão com qualquer violação ou uso não autorizado e você concorda em remediar toda e qualquer perda, dano, julgamento, prêmios, custo, despesas e honorários advogatícios das Partes Isentas ligadas a violação. Você também indenizará e isentará as Partes Isentas de qualquer reivindicação de terceiros resultante do uso da informação contida neste site.
-<h2>Marcas Registradas</h2>
 
-Marcas e logos presentes neste site são propriedade da Empresa ou da parte que as disponibilizaram para a Empresa. A Empresa e as partes que disponibilizaram marca e logo detém todos os direitos sobre as mesmas.
-<br/>
-Informação provida pelo usuário
-<br/>
-Você não pode publicar enviar, apresentar ou fazer conexão a esse site qualquer material que:
-<br/>
-    você não tenha o direito de postar, incluindo material de propriedade de terceiros<br/>
-    defenda atividade ilegal ou discutir a intenção de fazer algo ilegal;<br/>
-    seja vulgar, obsceno, pornográfico ou indecente não diga respeito diretamente a este site;<br/>
-    possa ameaçar ou insultar outros, difamar, caluniar, invadir privacidade, perseguir, ser obsceno, pornográfico, racista, assediar ou ofender;<br/>
-    busca explorar ou prejudicar crianças expondo-as a conteúdo inapropriado, perguntar sobre informações pessoais ou qualquer outro do tipo;<br/>
-    infrinja qualquer propriedade intelectual ou outro direito de pessoa ou entidade, incluindo violações de direitos autorais, marca registrada ou direitos de publicidade;<br/>
-    violam qualquer lei ou podem ser considerados para violar a lei;<br/>
-    personifique ou deturpe sua conexão com qualquer entidade ou pessoa; ou ainda manipule títulos ou identificadores para encobrir a origem do conteúdo<br/>
-    promova qualquer empreendimento comercial (ex: oferecer produtos ou serviços em promoção) ou que engaje de qualquer forma em uma atividade comercial (ex: realizar sorteios ou concursos, expor banners patrocinadores e/ou solicitar bens e serviços) exceto que especificamente autorizado neste site;<br/>
-    solicitar fundos, divulgações ou patrocinadores;<br/>
-    inclua programas com vírus, worms e/ou Cavalos de Tróia ou qualquer outro código, arquivo ou programa de computador destinado a interromper, destruir ou limitar a funcionalidade de qualquer software ou hardware de computador ou telecomunicações;<br/>
-    interrompa o fluxo normal da conversa, faça com que a tela “role” mais rápido que os os outros usuários conseguem acompanhar ou mesmo agir de modo a afetar a habilidade de outras pessoas de se engajar em atividades em tempo real neste site;<br/>
-    inclua arquivos em formato MP3<br/>
-    desobedeça qualquer política ou regra estabelecida de tempos em tempos para o uso desse site ou qualquer rede conectada a ele; ou<br/>
-    contenha hiperlinks para sites que contenham conteúdo que se enquadrem nas descrições acima.
-<br/>
-Mesmo sem a obrigação de faze-lo, nossa Empresa reserva o direito de monitorar o uso deste site para determinar o cumprimento desse Termo de Uso assim como o de remover ou vetar qualquer informação por qualquer razão. De qualquer forma você é completamente responsável pelo conteúdo de seus envios. Você sabe e concorda que nem a Empresa ou qualquer terceiro provendo conteúdo para a Empresa assumirá qualquer responsabilidade por nenhuma ação ou inação da Empresa ou referido terceiro a respeito de qualquer envio.
-        
-<h2>Segurança</h2>
 
-Toda senha usada para este site é somente para uso individual. Você é responsável pela segurança de sua senha (se for o caso). A Empresa tem o direito de monitorar a segurança de sua senha e ao seu critério pode pedir que você a mude. Se você usar qualquer senha que a Empresa considere insegura, a Empresa tem o direito de requisitar que a senha seja modificada e/ou cancelar a sua conta. 
-<br/>
-É proibido usar qualquer serviço ou ferramenta conectada a este site para comprometer a segurança ou mexer com os recursos do sistema e/ou contas. O uso ou distribuição de ferramentas destinadas para comprometer a segurança (ex: programas para descobrir senha, ferramentas de crack ou de sondagem da rede) são estritamente proibidos. Se você estiver envolvido em qualquer violação da segurança do sistema, a Empresa se reserva o direito de fornecer suas informações para os administradores de sistema de outros sites para ajudá-los a resolver incidentes de segurança. A Empresa se reserva o direito de investigar potenciais violações a esse Termo de Uso. 
-<br/>
-A Empresa se reserva o direito de cooperar totalmente com as autoridades competentes ou pedidos da justiça para que a Empresa revele a identidade de qualquer pessoa que publique e-mail, mensagem ou disponibilize qualquer material que possa violar esse Termo de Uso. 
-<br/>
-AO ACEITAR ESSE ACORDO VOCÊ ISENTA A EMPRESA DE QUALQUER CONSEQUÊNCIA RESULTANTE DE QUALQUER AÇAO DA EMPRESA DURANTE OU COMO RESULTADO DE SUAS INVESTIGAÇÕES E/OU DE AÇÕES TOMADAS RESULTANTES DE INVESTIGAÇÕES TANTO DA EMPRESA QUANTO DAS AUTORIDADES DE JUSTIÇA COMPETENTES.
+Ao se matricular na Imersão Vire Dev, o Contratante declara ter lido e estar de acordo com o presente Termo de Serviço. Seu acesso às aulas e ao material da  Imersão Vire Dev está condicionado à aceitação e conformidade com estes Termos. Ao usar o Serviço, você declara concordar com a totalidade destes Termos.
 
-<h2>Dados da Empresa</h2>
 
-        IMERSÃO VIRE DEV – www.viredev.com.br<br/>
-CODE CONHECIMENTO LTDA: 30.117.190/0001-92<br/>
-Rua Benjamin Constant, 60/304. Rio de Janeiro/RJ<br/>
-Telefone: (21) 9481-5880<br/>
-Email: contato@codeconhecimento.com.br
+Do Conteúdo da Imersão Vire Dev
+
+A Imersão Vire Dev oferecida pela CoDe tem a duração de 30 (trinta) dias, e incluí as seguintes entregas:
+
+    + de 200 aulas gravadas do professor Pedro Marins
+
+    Aula inaugural ao vivo com Pedro Marins
+
+    4 encontros de acompanhamento ao vivo dos alunos com Pedro Marins
+
+    30 dias de exercícios diários
+
+    Equipe de guias especialistas no método para seu suporte diário durante a imersão
+
+    Grupo dos alunos que estão mesma jornada que você durante a imersão
+
+    1 ano de acesso aos conteúdos gravados da imersão
+
+
+Cancelamentos e Reembolsos
+
+Ao se matricular na  Imersão Vire Dev, o Contratante terá o prazo de 7 (sete) dias, a contar do início da Imersão, para solicitar o cancelamento da matrícula e reembolso da totalidade do valor pago, nos termos determinados no Código de Defesa do Consumidor. Solicitações de reembolsos de valores pagos feitas após o prazo legal não terão qualquer obrigatoriedade para a concessão de tais reembolsos.
+
+
+Comunicações
+
+‍Ao se matricular na  Imersão Vire Dev, você concorda em receber newsletters, materiais de marketing ou promocionais ou quaisquer outras informações relativas aos serviços da CoDe. Você poderá, posteriormente, optar pelo cancelamento de parte ou da totalidade destas comunicações através do link de “unsubscribe” ou instruções específicas fornecidas em qualquer dos e-mails recebidos.
+
+
+Matrícula
+
+A matrícula será feita de acordo com orientações específicas da CoDe para cada imersão disponibilizada e o procedimento poderá envolver a utilização de plataforma de serviços específicos para este tipo de intermediação. As formas de pagamento aceitas serão aquelas divulgadas pelos canais de comunicação da Contratada na ocasião da abertura de novas turmas. Tanto a forma de pagamento quanto a utilização, ou não, de plataformas para intermediação de contratação não alteram os termos pactuados no presente documento. ‍Quando você efetua a matrícula na  Imersão Vire Dev, você garante ter mais de 18 anos e que as informações que fornece são verdadeiras, completas e atuais. Informações imprecisas, incompletas ou obsoletas podem resultar no cancelamento imediato da sua matrícula.
+
+
+Teste grátis
+
+‍A Contratada pode, a seu exclusivo critério, oferecer um período de teste grátis, por tempo limitado, com acesso a uma ou mais aulas, ou material específico da  Imersão Vire Dev. A possibilidade do fornecimento de período de teste grátis não gera qualquer obrigação para a Contratada de oferecer tal gratuidade, constituindo mera liberalidade desta. A Contratada reserva-se o direito de, a qualquer momento e sem aviso prévio, (i) modificar os termos e condições da oferta, ou (ii) cancelar a oferta do teste grátis.
+
+
+Alterações de Honorários
+
+‍A Contratada, a seu exclusivo critério e a qualquer momento, poderá modificar os valores de matrícula na Imersão Vire Dev.
+
+
+
+Da Política de Privacidade e LGPD
+
+Os Serviços oferecidos pela Contratada só poderão ser contratados por pessoas maiores de 18 anos. Ao comprar ou registrar-se em nosso site, ou em plataforma de intermediário de serviço, conforme o caso, você pode ser solicitado a inserir seu nome, endereço de e-mail, número de telefone, endereço, informações do cartão de crédito, ou outros detalhes para ajudá-lo(a) com sua experiência. Não há coleta de dados sensíveis, nos termos da LGPD – Lei Geral de Proteção de Dados. ‍Podemos usar as informações que coletamos de você das seguintes maneiras: Para personalizar sua experiência e entregar o tipo de conteúdo e ofertas nas quais você pode estar mais interessado(a). Para melhorar nosso site e melhor atendê-lo(a). Para melhor responder às suas solicitações de atendimento ao cliente. Para processar rapidamente suas transações. Para solicitar sua avaliação dos nossos serviços ou produtos. Para dar-lhe retorno após correspondências (chat, e-mail ou perguntas por telefone). ‍Todas as transações são processadas através de um provedor de gateway e não são armazenadas ou processadas em nossos servidores. Nós coletamos informações de cartão de crédito através do provedor de gateway mencionado acima, que executa varreduras de vulnerabilidade, conforme exigido para ser compatível com os padrões de segurança de dados da indústria de cartões de pagamento (PCI). Nós também usamos a verificação regular de malware em nosso site. Suas informações pessoais são armazenadas em redes protegidas, com acesso limitado, que mantêm a informação confidencial. Além disso, todas as informações confidenciais que você fornece são criptografadas através da tecnologia Secure Socket Layer (SSL). Implementamos uma variedade de medidas de segurança no ato da transação, inserção, envio ou acesso às suas informações para manter a segurança de seus dados pessoais. Os cookies são pequenos arquivos que um site ou seu provedor de serviços transfere para o disco rígido do seu computador através do seu navegador (se você autorizar), que permitem que o site ou os sistemas do provedor de serviços reconheçam seu navegador, capturem e lembrem de certas informações. Por exemplo, usamos cookies para nos ajudar a lembrar e processar os itens em sua transação. Eles também são usados para nos ajudar a entender suas preferências com base na atividade do site anterior ou atual, o que nos permite oferecer serviços personalizados. Nós também usamos cookies para compilar dados agregados sobre o tráfego e a interação com o site para que possamos oferecer melhores experiências e ferramentas no futuro. ‍Usamos cookies para: Compreender e salvar as preferências do usuário para futuras visitas. Acompanhar os anúncios publicitários. Compilar dados agregados sobre o tráfego e as interações com o site, a fim de oferecer melhores experiências e ferramentas no futuro. Também podemos usar serviços de terceiros que acompanhem essas informações. Você pode escolher que o seu computador o avise sempre que um cookie estiver sendo enviado, ou você pode optar por desligar todos os cookies. Você pode fazer isso através das configurações do seu navegador. Como cada navegador é um pouco diferente, veja o menu de ajuda do seu navegador para aprender a maneira correta de modificar seus cookies. A Contratada, seus funcionários e prepostos, cumprirão, a todo momento, a LGPD - Lei Geral de Proteção de Dados (Lei Federal 13.709/2018), jamais colocando, por seus atos ou por sua omissão, o(a) usuário(a) ou cliente em situação de violação das leis de proteção de dados. Em consonância com a Lei Geral de Proteção de Dados, seus dados só serão coletados, tratados e armazenados mediante prévio e expresso consentimento. Ao utilizar os nossos serviços e fornecer seus dados pessoais, você está ciente e consentindo com as disposições destes Termos de Serviço, além de conhecer seus direitos e como exercê-los. O consentimento para coleta e armazenamento de dados poderá ser revogado a qualquer tempo, sem ônus, todavia, tal revogação pode implicar na impossibilidade da continuação da prestação dos serviços contratados. A Contratada e seus representantes declaram cumprir suas obrigações relativas à segurança no tratamento de dados, proteção contra violação de dados pessoais e demais medidas que garantam o devido cumprimento das determinações da LGPD. A Contratada se compromete a manter estes Termos atualizados, observando suas disposições e zelando por seu cumprimento, reservando-se o direito de modificá-la a qualquer tempo, especialmente se para aprimorar a aplicação de políticas de segurança de dados e funcionamento de sua plataforma.
+
+
+Acesso à Imersão Vire Dev
+
+Forneceremos acesso para você utilizar a Imersão Vire Dev conforme os termos deste Acordo. Podemos usar serviços de terceiros para oferecer alguns ou todos os elementos da Imersão Vire Dev. Para acessar e usar a Imersão Vire Dev você nos concede o direito de compartilhar as informações necessárias para possibilitar seu uso da Imersão Vire Dev com nossos provedores de serviços terceirizados.
+
+Você não pode usar um nome de usuário que: (i) pertença a outra pessoa, (ii) personifique outra pessoa, (iii) seja enganoso, (iv) viole quaisquer direitos de propriedade intelectual ou outros direitos de propriedade, (v) seja vulgar ou ofensivo, (vi) utilize ‘CoDe’ parcial ou integralmente, a menos que dermos permissão expressa para tal, ou (vii) rejeitamos, o que podemos fazer a nosso exclusivo critério. Todas as informações que você nos fornecer em seu perfil devem estar precisas. Se acreditar que seu acesso ou uso da Imersão Vire Dev foi violado, comprometido ou não autorizado, notifique-nos imediatamente em imersaovirede@codeconhecimento.com.br
+
+Sua Conduta e Conteúdo
+
+a.  Diretrizes de Uso.  Você deve ler e seguir as Diretrizes da Imersão. Seu uso da Imersão Vire Dev está sujeito às Diretrizes da Imersão, que estão incorporadas a este Acordo por referência.
+
+b.  Uso aceitável.  Você usará a Imersão Vire Dev somente de acordo com sua finalidade pretendida e não a usará para fins de solicitação ou publicidade, a menos que tenhamos concordado com isso.  Seu Conteúdo deve estar relacionado às práticas recomendadas de utilização de cada canal específico da Imersão, sempre relacionado ao tema da evolução profissional de desenvolvedores de software.
+
+Na Imersão Vire Dev você não pode solicitar informações privadas de outras pessoas nem divulgar informações confidenciais. Você é responsável pelo uso por terceiros de quaisquer informações pessoais que divulgar na Imersão Vire Dev, tenha ou não permitido tal uso. Isso significa que nenhuma informação sigilosa deve ser trocada dentro da Imersão Vire Dev.
+
+Você não tem permissão para vender, alugar, arrendar, atribuir, sublicenciar, distribuir, transmitir, fazer broadcast, explorar comercialmente, conceder uma garantia ou, de alguma forma, transferir qualquer direito na Imersão Vire Dev ou no Conteúdo da Imersão.  Além disso, e sem limitar os demais requisitos nestes TDU da Imersão, você não pode (direta ou indiretamente) usar a Imersão Vire Dev com conteúdo ou de uma maneira que:
+
+    viole este Acordo;
+
+    seja confidencial, proprietário ou divulgue Informações Sensíveis;
+
+    divulgue ou solicite informações privadas de qualquer pessoa;
+
+    seja ameaçador, abusivo, assedie, persiga ou difame;
+
+    seja enganoso, falso, mentiroso ou fraudulento;
+
+    invada a privacidade ou de outra forma viole os direitos legais de terceiros (como direitos de privacidade e publicidade);
+
+    contenha material vulgar, obsceno, indecente ou ilegal;
+
+    infrinja os direitos de propriedade intelectual de terceiros;
+
+    publique, poste, carregue ou de outra maneira distribua qualquer software, música, vídeos ou outro material protegido por leis de propriedade intelectual (ou direitos de privacidade ou publicidade), a menos que você tenha todos os direitos necessários e consentimentos para fazê-lo;
+
+    carregue arquivos que contenham vírus, arquivos corrompidos ou qualquer outro software ou programa semelhante que possa danificar a operação do computador de outra pessoa;
+
+    faça o download de qualquer arquivo que você saiba ou razoavelmente deveria saber que não pode ser legalmente distribuído dessa forma;
+
+    falsifique ou exclua quaisquer atribuições de autoria, designações proprietárias ou legais, rótulos da origem ou fonte de software ou outro material contido em um arquivo que seja carregado;
+
+    restrinja ou iniba qualquer outro usuário da Imersão Vire Dev de usar de qualquer produto oferecido pela CoDe;
+
+    atrapalhe ou dificulte qualquer outro usuário da Imersão Vire Dev de desfrutar de qualquer produto oferecido pela CoDe;
+
+    acanhe, embarace, encabule, envergonhe ou intimide qualquer outro usuário da Imersão Vire Dev;
+
+    colete ou de alguma maneira extraia informações sobre terceiros, incluindo endereços de e-mail, sem o seu consentimento;
+
+    danifique, desative, sobrecarregue ou prejudique qualquer produto da CoDe ou interfira com o uso e usufruto de qualquer outra parte da Imersão Vire Dev;
+
+    tente obter acesso não autorizado à Imersão Vire Dev ou acessar a Imersão Vire Dev por qualquer meio que não pelos meios que fornecemos a você;
+
+    seja legalmente litigável, tais como calúnia, difamação e injúria; e/ou
+
+viole qualquer lei ou regulamento aplicável.
+
+c.  Suspensão e notificação de violações. Podemos suspender imediatamente o uso da Imersão Vire Dev, com notificação enviada por email, por violações dos termos contidos nesta Seção 3 (Sua Conduta e Conteúdo).  Se souber de uso que esteja violando este Acordo, avise-nos pelo e-mail imersaoviredev@codeconhecimento.com.br
+
+d.  Reivindicações de infração de direitos autorais.  Respeitamos os direitos de propriedade intelectual de outras pessoas e solicitamos que nossos usuários façam o mesmo. Podemos, a nosso próprio critério, suspender o acesso ou encerrar as contas dos usuários que violarem os direitos de propriedade intelectual de outras pessoas.  Se acreditar que seu trabalho foi copiado de uma forma que constitua infração, avise-nos pelo e-mail imersaoviredev@codeconhecimento.com.br
+
+e.  Nosso uso do Seu Conteúdo.  Você nos concede todos os direitos, licenças e permissões necessários para exibir, reproduzir, disseminar e usar o Seu Conteúdo com relação à Imersão Vire Dev.  Nós podemos editar ou remover o Seu Conteúdo, ou bloquear ou desativar respostas em um tópico, a qualquer momento a nosso exclusivo critério. Você também nos concede os direitos de reutilizar Seu Conteúdo para ações de marketing e promoção da CoDe, como em nosso site, apresentações públicas ou privadas, comunicados e entrevistas à imprensa, ações de vendas e marketing e outros esforços de publicidade.
+
+Direitos de propriedade da CoDe
+
+Nenhuma licença de revenda é concedida a você conforme o presente Acordo. Os produtos da CoDe são protegidos por leis de propriedade intelectual, pertencem a nós e são de nossa propriedade ou de nossos licenciadores (se houver), e detemos todos os direitos de propriedade sobre eles. Nossas marcas incluem, mas não se limitam a, "CoDe" e "Imersão Vire Dev", e você não pode usá-las sem nossa permissão prévia por escrito.
+
+Todos os direitos de propriedade das marcas registradas da CoDe permanecem nossos. Durante a vigência deste Acordo, você pode usar nossas marcas registradas desde que siga as diretrizes de uso contidas nesta seção e as diretrizes incorporadas. Você deverá: (i) usar apenas as imagens das nossas marcas registradas que disponibilizarmos a você como parte da sua participação na Imersão, sem alterá-las de nenhuma forma; (ii) usar apenas as nossas marcas registradas em relação a este Acordo; e (iii) atender imediatamente ao nosso eventual pedido para interromper o uso de tais marcas registradas.
+
+Você não deve usar nossas marcas registradas: (a) de forma enganosa ou depreciativa; (b) fora do escopo deste Acordo; (c) de forma que pareça que endossamos, patrocinamos ou aprovamos os seus serviços ou produtos; ou (d) de forma a violar a lei ou junto a assuntos ou materiais obscenos, indecentes ou contra a lei.
+
+Você concorda que todos comentários, imagens e conteúdos publicados por você dentro da Imersão Vire Dev não serão confidenciais e que nós temos o direito de usá-los e incorporá-los aos produtos da CoDe, sem que tenhamos que pagar por isso ou atribuí-los a você.
+
+
+5 . Críticas, sugestões ou reclamações
+
+Incentivamos todos os clientes a comentar sobre os produtos da CoDe, compartilhando críticas, sugestões ou reclamações através do SAC da CoDe, disponível em http://sac.codeconhecimento.com/ .
+
+Você concorda que tais comentários não serão feitos nos espaços destinados ao usufruto dos produtos da CoDe por seus usuários, estando sujeito a aplicação das sanções contidas na Seção 3 (Sua Conduta e Conteúdo) em caso de descumprimento.
+
+
+Produtos e sites de terceiros
+
+Produtos de Terceiros e Sites de Terceiros não estão sob nosso controle. Os Produtos de Terceiros e Sites de Terceiros podem ser fornecidos para você apenas como uma conveniência e a disponibilidade de qualquer Produto de Terceiros e Site de Terceiros não significa que apoiamos ou garantimos tais sites e produtos.
+
+Prazo e rescisão
+
+a.  Prazo.  Este Acordo será válido enquanto você tiver um contrato adimplente para acesso à Imersão Vire Dev.
+
+b.  Rescisão e suspensão.  Podemos rescindir deste Acordo e/ou suspender o seu acesso à Imersão Vire Dev imediatamente se você: (i) violar qualquer um dos termos deste Acordo, ou (ii) usar a Imersão Vire Dev de uma possa afetar negativamente a nós, nossos parceiros ou nossos clientes. Nós não temos a obrigação de fornecer a você nenhuma parte de Seu Conteúdo usada com relação à Imersão Vire Dev após a rescisão. O término ou expiração deste Acordo não implica o término do seu acordo de assinatura de demais produtos da CoDe, caso possua.
+
+Suas declarações e garantias
+
+Você declara e garante que: (i) você é maior de 18 anos de idade na data de início da imersão, (ii) sua participação na Imersão Vire Dev não terá conflito com nenhum outro acordo ou contrato existente, (iii) você tem direitos suficientes para compartilhar Seu Conteúdo conosco para nosso uso e com outros usuários da Imersão Vire Dev, e que você não está violando nenhuma obrigação de confidencialidade ao enviar Seu Conteúdo para a Imersão Vire Dev, e (iv) Seu Conteúdo não viola ou constitui a infração de qualquer direito de propriedade intelectual, direito de privacidade, direito de publicidade ou outro direito de propriedade.
+
+Indenização
+
+Você nos indenizará, defenderá e isentará, à sua custa, em qualquer ação ou processo judicial (cada, uma “Ação”) movido por um terceiro contra nós (e nossos diretores, conselheiros, funcionários, agentes, provedores de serviço, licenciadores e afiliadas) na medida em que tal Ação seja decorrente ou resultante do (a) seu uso da Imersão Vire Dev, (b) sua divulgação ou solicitação de informações sigilosas, (c) qualquer uso de informações pessoais que você tenha divulgado, seja esse uso realizado por você ou por um terceiro, (d) seu descumprimento ou violação deste Acordo, ou (e) seu uso de Produtos ou Sites de Terceiros. Nós vamos: notificá-lo por escrito em até 30 (trinta) dias após tomarmos conhecimento de uma reclamação judicial; dar a você total controle para defender ou liquidar tal reclamação; e fornecer a você, (mas a sua custa) toda e qualquer informação e assistência solicitada para ajudar na defesa ou liquidação de tal reclamação. Você não deve aceitar qualquer decisão que (i) nos imponha uma obrigação; (ii) exija um consentimento nosso; ou (iii) imponha uma responsabilidade que não esteja coberta por estas indenizações ou nos imponha restrições sem nosso prévio consentimento por escrito.
+
+Avisos legais; limitações de responsabilidade
+
+a.  Aviso legal sobre Garantias. No limite permitido pela lei, a Imersão Vire Dev é fornecida “como está”, sem garantia de atualizações ou realizações de novas atividades de qualquer espécie após os 30 dias de duração da Imersão.
+
+b.  Inexistência de danos indiretos. No limite permitido pela lei, em nenhum caso nós seremos responsabilizados por qualquer dano indireto, punitivo ou consequente, incluindo perda de lucros ou oportunidades de negócios.
+
+c.  Produtos e sites de terceiros.  Rejeitamos qualquer responsabilidade com relação aos produtos e sites de terceiros utilizados por você. Nossos licenciantes não poderão ser, de forma alguma, responsabilizados no âmbito deste acordo.
+
+Geral
+
+a.  Alterações; Inexistência de Renúncia. Nós podemos atualizar e modificar qualquer parte deste Acordo. Se atualizarmos ou alterarmos este Acordo, a versão atualizada será publicada no espaço ⁠termos-de-uso-da-imersão interno da área de membros da Imersão Vire Dev. O Acordo atualizado entrará em vigor e será obrigatório no próximo dia útil após a publicação. Quando nós modificarmos este Acordo, a data de "Última modificação" acima será atualizada para mostrar a data da versão mais recente. Nós o incentivamos a reler este Acordo periodicamente. Caso não concorde com a modificação deste Acordo, você não deverá usar a Imersão Vire Dev.
+
+b.  Lei aplicável. Este Acordo deve ser regido pelas leis do Brasil. Caso um de nós inicie uma ação relacionada a este Acordo ou qualquer outra disputa entre as partes, o foro e a jurisdição exclusivos devem ser o estado e a cidade do Rio de Janeiro, RJ.
+
+c.  Força maior. Nenhuma das partes será responsável pelo não cumprimento ou atraso no cumprimento de obrigações em casos de guerra, hostilidade ou sabotagem; casos fortuitos; interrupção de energia, sinal de Internet ou das telecomunicações que não tenha sido causada pela parte obrigada; restrições governamentais; ou outro evento que fuja ao controle da parte obrigada. Cada parte fará o esforço necessário para amenizar o efeito de um evento de força maior.
+
+d.  Relacionamento das partes. Tanto nós como você concordamos que nenhuma joint venture, parceria, emprego ou relacionamento com agência existe em função deste Acordo.
+
+e.  Cumprimento das leis aplicáveis. Você deve obedecer a todas as leis internacionais e nacionais (incluindo, sem restrição, leis de exportação), regulamentações governamentais, decretos e ordens judiciais administrativas. Você não vai exportar, re-exportar ou transferir, direta ou indiretamente, o Conteúdo da Imersão ou os produtos e serviços da CoDe para países ou indivíduos proibidos, nem permitir o uso do Conteúdo da Imersão ou dos produtos e serviços da CoDe por tais países ou indivíduos.
+
+f.  Correção de erros e imprecisões. O Conteúdo da Imersão pode conter erros tipográficos ou outros erros ou imprecisões. Portanto, nós nos reservamos o direito de corrigir eventuais erros, imprecisões ou omissões e de alterar ou atualizar o Conteúdo da Imersão e o Seu Conteúdo a qualquer momento sem notificação prévia. No entanto, nós não garantimos que todos erros, imprecisões ou omissões serão corrigidos.
+
+g.  Autonomia das disposições. Se qualquer parte deste Acordo for considerada inválida ou inexequível por lei, essa disposição será substituída por outra válida e exequível que mais se aproximar da intenção original, e o restante deste Acordo continuará válido.
+
+h.  Notificações. Será enviado um aviso para o endereço de contato especificado aqui (como tal, pode ser alterado mediante notificação à outra parte) e será considerado entregue a partir da data do recebimento efetivo.
+
+Para a CoDe Conhecimento LTDA. Rua Benjamin Constant, 60 a304. Glória, Rio de Janeiro - RJ. CEP: 20241-150.
+
+Para você: seu endereço conforme registrado nas informações de sua compra.  Podemos enviar avisos específicos de forma eletrônica pelos endereços de e-mail cadastrados na sua conta. Poderemos notificá-lo por telefone, através dos números de telefone que constam no registro das suas informações de conta.
+
+i.  Acordo integral. Este é o Acordo integral entre nós para a Imersão Vire Dev e substitui todas as outras propostas e acordos, sejam eletrônicos, orais ou escritos. Nós contestamos e rejeitamos quaisquer termos adicionais ou diferentes propostos por você, incluindo aqueles contidos no seu pedido de compra, aceitação ou site. É de nossa expressa vontade que este Acordo e todos os documentos relacionados sejam redigidos em português. Podemos sem obrigação disponibilizar versões deste Acordo em outros idiomas que não o português. Se o fizermos, a versão em português deste Acordo regerá a nossa relação, de modo que a versão traduzida será fornecida apenas para conveniência e não será interpretada para modificar a versão em português deste Acordo.
+
+j.  Ausência de terceiros beneficiários. Nada neste Acordo, expresso ou implícito, tem o objetivo nem deve outorgar a qualquer pessoa física ou jurídica (que não sejam as partes aqui descritas) qualquer direito, benefício ou recurso de qualquer natureza, por razão deste Acordo.
+
+k.  Sem licenças. Concedemos a você apenas os direitos e licenças expressamente expostos neste Acordo, e você não recebe outros direitos ou licenças referentes a nós, aos produtos e serviços da CoDe, nossas marcas registradas ou qualquer outra propriedade ou direito nosso.
+
+l.  Autoridade. Cada uma das partes declara e garante à outra que tem plenos poderes e autoridade para celebrar este Acordo e que este vincula as partes em seus termos.
+
+m.  Subsistência das disposições. As seguintes seções subsistirão à expiração ou rescisão deste Acordo: “Direitos de propriedade da CoDe”, “Suas declarações e garantias”, “Indenização”, “Avisos legais; limitações de responsabilidade” e “Geral”.
+
 
         
         
