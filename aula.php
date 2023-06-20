@@ -13,7 +13,7 @@ include("chunks/head/meta-aula.php");
 
     </head>
 
-<body>you
+<body>
     
 <?php
 include("chunks/body/tags-body.php");
