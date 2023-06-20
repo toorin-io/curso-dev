@@ -16,7 +16,7 @@
     
   <?php
     include("chunks/body/tags-body.php");
-    include("chunks/body/chamada-com-video-pitch.php");
+    include("chunks/body/vire-dev/chamada-com-video-pitch.php");
     include("chunks/body/vire-dev/pra-quem-e.php");    
     include("chunks/body/vire-dev/o-que-e.php");    
     include("chunks/body/vire-dev/milhares-de-vagas-abertas.php");    
