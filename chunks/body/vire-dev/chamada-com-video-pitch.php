@@ -1,20 +1,49 @@
-        <main class="hero">
-  <div class="hero-overlay">
-    <p class="hero-text text-gray-400">
-      MAIS DE 1.000 ALUNOS JÁ VIRARAM DEV COM O MÉTODO DA IMERSÃO
-    </p>
-    <h1 class="headline text-white">VIRE DEV</h1>
-    <h4 class="subheadline text-gray-200">
+<main class="hero hero-conheca">
+  <div class="hero-overlay hero-overlay-conheca content">
+    <div>
+      <span class="text-primary conheca-title">Imersão</span>
+      <h1 class="conheca-headline text-white">VIRE DEV</h1>
+      <h4 class="conheca-subheadline text-gray-400">
+        O método que você precisa para se tornar o dev desejado pelo mercado!
+      </h4>
+
+      <?php
+        include("botao-matricula.php");
+      ?>
+      <div class="conheca-text-icon">
+        <i class="fas fa-check text-primary"></i>
+        <p class="conheca-text text-gray-400">
+          Mais de 1.000 alunos já viraram dev através da imersão
+        </p>
+      </div>
+    </div>
+
+    <div class="video-box">
+        <iframe width="100%" height="550px" src="https://www.youtube.com/embed/2c4c85xP_A0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>    
+  </div>
+
+  <div class="hero-overlay hero-overlay-conheca-mobile content">            
+    <span class="text-primary conheca-title">Imersão</span>
+    <h1 class="conheca-headline text-white">VIRE DEV</h1>
+    
+    <div class="video-box">
+      <iframe width="100%" height="550px" src="https://www.youtube.com/embed/2c4c85xP_A0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>  
+      
+    <h4 class="conheca-subheadline text-gray-400">
       O método que você precisa para se tornar o dev desejado pelo mercado!
     </h4>
-            <div class="video">
-                <iframe width="60%" height="550px" src="https://www.youtube.com/embed/2c4c85xP_A0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
 
-      </br></br></br>
-            <?php
-include("vire-dev/botao-matricula.php");
-?>
+    <?php
+      include("botao-matricula.php");
+    ?>
+    <div class="conheca-text-icon">
+      <i class="fas fa-check text-primary"></i>
+      <p class="conheca-text text-gray-400">
+        Mais de 1.000 alunos já viraram dev através da imersão
+      </p>
+    </div>       
 
   </div>
 </main>
