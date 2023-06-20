@@ -7,6 +7,17 @@
 	<meta property="og:locale" content="pt_BR">
 	<meta property="og:type" content="article">
     
+    <!-- Descrição -->
+    <meta name="description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+    <meta property="og:description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+    <meta name="twitter:description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+
+    <!-- Imagens -->
+
+<meta property="og:image" content="https://www.viredev.com.br/images/social/imersao-vire-dev-1200x630.png" >
+
+<meta name="twitter:image" content="https://www.viredev.com.br/images/social/imersao-vire-dev-1024x512.png">
+
 	<!-- Imagens para redes sociais -->
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
