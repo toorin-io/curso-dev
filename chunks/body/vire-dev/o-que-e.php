@@ -92,7 +92,7 @@
           <p class="text-gray-600">
             Os guias da imersão são devs que foram formados por mim, que
             seguiram o meu método, conquistaram suas vagas como devs e hoje
-            foram contratos por mim para te ajudarem na sua jornada.
+            foram contratados por mim para te ajudarem na sua jornada.
           </p>
         </div>
       </div>
