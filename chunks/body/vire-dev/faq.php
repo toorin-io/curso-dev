@@ -16,7 +16,7 @@
       </details>
         <details>
         <summary class="text text-gray-200">
-          Qual a duranção da imersão?
+          Qual a duração da imersão?
         </summary>
         <p class="text text-gray-400">
           A Imersão Vire Dev acontece por 30 dias seguidos, com liberação diária de aulas novas e exercícios.
