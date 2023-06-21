@@ -4,11 +4,11 @@
 		<title>Descubra os 3 passos para ser o dev desejado pelo mercado!</title>
 		<?php
 			include("chunks/head/tags-head.php");
-			
+
 			include("chunks/head/meta-aula.php");
 		?>
 		<?php
-			
+
 		?>
 
     <style>
@@ -1948,7 +1948,7 @@
       id="e-sticky-js"
     ></script>
 		<?php
-			
+
 		?>
   </body>
 </html>
