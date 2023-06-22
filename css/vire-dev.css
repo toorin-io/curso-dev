@@ -441,10 +441,13 @@ a:hover {
   flex-direction: column;
   gap: 1rem;
   flex: 1;
+  align-items: center;
 }
 
 .video-box iframe {
   border-radius: 8px;
+  height: 600px;
+  max-width: 1070px;
 }
 
 .expert-avatar {
@@ -816,5 +819,9 @@ footer {
   .gallery-column {
     flex: 100%;
     max-width: 100%;
+  }
+
+  .video-box iframe {
+    height: 200px;
   }
 }
