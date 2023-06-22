@@ -69,7 +69,7 @@
           <p class="text-gray-600">
             Pedro Marins e seu time vão poder tirar todas as suas dúvidas ao
             vivo e te ajudar a avançar. Você vai ter um espaço para poder
-            trocar diretamente com seu mentor sobre o seu momento e sobre as
+            trocar diretamente com ele sobre o seu momento e sobre as
             suas dificuldades.
           </p>
         </div>
