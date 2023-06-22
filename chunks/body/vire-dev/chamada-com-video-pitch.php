@@ -1,5 +1,6 @@
-<main class="hero hero-conheca">
+<main class="hero hero-dark-blue">
   <div class="hero-overlay hero-overlay-conheca content">
+  
     <div>
       <span class="text-primary conheca-title">Imersão</span>
       <h1 class="conheca-headline text-white">VIRE DEV</h1>

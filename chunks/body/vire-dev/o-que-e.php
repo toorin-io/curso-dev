@@ -90,9 +90,7 @@
         <div>
           <strong>Time de guias especialistas</strong>
           <p class="text-gray-600">
-            Os guias da imersão são devs que foram formados por mim, que
-            seguiram o meu método, conquistaram suas vagas como devs e hoje
-            foram contratados por mim para te ajudarem na sua jornada.
+          Os guias da imersão são devs que foram formados por mim, seguiram o meu método, conquistaram suas vagas como devs e foram contratados por mim para auxiliá-lo em sua jornada.
           </p>
         </div>
       </div>

@@ -13,5 +13,5 @@
     <meta name="twitter:image" content="https://www.viredev.com.br/images/social/aprenda-a-conquistar-sua-vaga-agora-pedro-marins-1024x512.png">
 
 <?php
-include("chunks/head/meta.php");
+include("chunks/head/meta-vire-dev.php");
 ?>

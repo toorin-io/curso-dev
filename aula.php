@@ -15,27 +15,29 @@ include("chunks/head/meta-aula.php");
 
 <body>
     
-<?php
+	<?php
 include("chunks/body/tags-body.php");
 ?>
 
-	<header class="content header">
-		<h1>Comece sua Carreira Como Dev em 3 Passos!</h1>
-	</header>
 
-	<section class="content">
 
-        
-<?php
-include("chunks/body/video-aula.php");
-include("chunks/body/cta-contato-com-temporizador.php");
-?>
+
+<main class="hero hero-dark-blue">	
+	<div class="hero-overlay content">	
+		<h2 class="text-white title text-center">Comece sua Carreira <span class="text-center title text-primary">Como Dev</span> em 3 Passos!</h2>
+		<?php
+			include("chunks/body/video-aula.php");
+			include("chunks/body/vire-dev/botao-cta-aula-com-temporizador.php");
+		?>
+	</div>
+</main>
+
+	
     </section>
 
 <?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
+include("chunks/body/vire-dev/fale-conosco.php");
+include("chunks/body/vire-dev/footer.php");
 
 ?>
     
