@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-
 	<title>Vire Dev! - Imersão com Pedro Marins</title>
 	  
-    <?php
+  <?php
     include("chunks/head/tags-head.php");
     
     include("chunks/head/meta-vire-dev.php");
   ?>
-  <link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
     
 </head>
 <body>

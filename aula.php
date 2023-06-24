@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-
 	<title>Comece sua Carreira Como Dev em 3 Passos!</title>
 	
     <?php
-include("chunks/head/tags-head.php");
+		include("chunks/head/tags-head.php");
 
-include("chunks/head/meta-aula.php");
-?>
-
-<link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
-   
-
-    </head>
+		include("chunks/head/meta-aula.php");
+	?>
+</head>
 
 <body>
     
 	<?php
-include("chunks/body/tags-body.php");
-?>
+		include("chunks/body/tags-body.php");
+	?>
 
 
 
