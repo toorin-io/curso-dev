@@ -8,9 +8,6 @@
 			
 			include("chunks/head/meta-aula.php");
 		?>
-		<?php
-			
-		?>
 
     <style>
       img.wp-smiley,
