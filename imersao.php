@@ -10,6 +10,7 @@
     include("chunks/head/meta-vire-dev.php");
 
   ?>
+  <link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
     
 </head>
 <body>

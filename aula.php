@@ -9,6 +9,8 @@ include("chunks/head/tags-head.php");
 
 include("chunks/head/meta-aula.php");
 ?>
+
+<link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
    
 
     </head>
