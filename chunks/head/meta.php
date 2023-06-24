@@ -4,18 +4,25 @@
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="author" content="Pedro Marins">
-	<meta property="og:locale" content="pt_BR">
-	<meta property="og:type" content="article">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:type" content="article">
+
+    <!-- Descrição -->
+    <meta name="description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+    <meta property="og:description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+    <meta name="twitter:description" content="Conheça a Imersão Vire Dev e faça sua transição de carreira!">
+
+    <!-- Imagens -->
+
+    <meta property="og:image" content="https://www.viredev.com.br/images/social/imersao-vire-dev-1200x630.png" >
+    <meta name="twitter:image" content="https://www.viredev.com.br/images/social/imersao-vire-dev-1024x512.png">
     
 	<!-- Imagens para redes sociais -->
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta name="twitter:card" content="summary_large_image">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;700&display=swap" rel="stylesheet">
-	<link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
     href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap"
     rel="stylesheet"

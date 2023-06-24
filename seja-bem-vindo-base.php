@@ -7,7 +7,7 @@
 <?php
 include("chunks/head/tags-head.php");
 
-include("chunks/head/meta-aula.php");
+include("chunks/head/meta.php");
 
     ?>
     
