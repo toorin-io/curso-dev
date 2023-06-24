@@ -12,7 +12,7 @@ $utm_content = isset($_GET['utm_content'])?$_GET['utm_content'] : null;
 		<?php
 			include("chunks/head/tags-head.php");
 
-			include("chunks/head/meta-aula.php");
+			include("chunks/head/meta.php");
 		?>
 		<?php
 
