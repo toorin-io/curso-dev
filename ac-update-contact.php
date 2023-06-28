@@ -1,6 +1,5 @@
 <?php
 include("utils/ac-service.php");
-include("utils/curl_get.php");
 
 $firstName = isset($_GET['fname'])?$_GET['fname'] : null;
 $lastName = isset($_GET['lname'])?$_GET['lname'] : null;
@@ -15,6 +14,7 @@ $utm_term = isset($_GET['utm_term'])?$_GET['utm_term'] : null;
 $utm_term_id = 34;
 $utm_content = isset($_GET['utm_content'])?$_GET['utm_content'] : null;
 $utm_content_id = 35;
+$origin = isset($_GET['origin'])?$_GET['origin'] : null;
 
 $fieldValues = array(
   (object) array(
@@ -43,9 +43,8 @@ $contact_resp = curl_get($ac_base_url.'/contacts?email='.$email, $ac_headers);
 $data = json_decode($contact_resp, false);
 $resp = update_contact($data->contacts[0]->id, $firstName, $lastName, $fieldValues);
 
-if($resp['code'] < 400){
-  echo json_encode($resp, false);
-} else {
-  echo 'code: '.$resp['code'];
-}
+$tag_resp = add_tag($data->contacts[0]->id, $origin);
+
+echo 'customFields: '.json_encode($resp, false);
+echo 'tag: '.json_encode($tag_resp, false);
 ?>

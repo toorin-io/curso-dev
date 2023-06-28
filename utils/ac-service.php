@@ -6,5 +6,10 @@ $ac_headers = array(
    "Content-Type: application/json",
 );
 
+include('curl_get.php');
+include('curl_post.php');
+include('curl_put.php');
+include('create_contact.php');
 include('update_contact.php');
+include('add_tag.php');
 ?>

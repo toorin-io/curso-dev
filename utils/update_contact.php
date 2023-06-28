@@ -1,6 +1,4 @@
 <?php
-include('curl_put.php');
-
 function update_contact($contact, $fname, $lname = '', $fieldValues = array()){
    global $ac_base_url, $ac_headers;
    $data = array(
