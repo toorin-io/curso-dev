@@ -827,8 +827,7 @@
                           <h1
                             class="elementor-heading-title elementor-size-default"
                           >
-                            Vire Dev em 3 passos, mesmo sem
-                            ter experiência na area!
+                              Descubra como ser contratado como dev ganhando 5 mil por mês, mesmo sem ter experiência na área!
                           </h1>
                         </div>
                       </div>
@@ -841,7 +840,7 @@
                         <div class="elementor-widget-container">
                           <p>
                             <strong>Inscreva-se</strong> para assistir à
-                            <strong>aula gratuita</strong>!
+                            <strong>aula ao vivo gratuita</strong>!
                           </p>
                         </div>
                       </div>
@@ -2070,12 +2069,8 @@
                       >
                         <div class="elementor-widget-container">
                           <div class="elementor-wrapper elementor-open-inline">
-                            <iframe
-                              class="elementor-video-iframe"
-                              allowfullscreen
-                              title="Player de Vídeo vimeo"
-                              src="https://player.vimeo.com/video/698417209?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t="
-                            ></iframe>
+                     
+                              <iframe class="elementor-video-iframe" width="560" height="315" src="https://www.youtube.com/embed/DMN8ASF8Xgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                           </div>
                         </div>
                       </div>

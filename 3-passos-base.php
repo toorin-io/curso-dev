@@ -782,13 +782,14 @@ $utm_content = isset($_GET['utm_content'])?$_GET['utm_content'] : null;
               >
                 <div class="elementor-widget-container" id="#top">
                   <h2 class="elementor-heading-title elementor-size-large">
-                    DESCUBRA COMO VIRAR DEV
+                    
+                      DESCUBRA COMO <span style="color: #d33245">SER CONTRATADO COMO DEV</span> GANHANDO 5 MIL POR MÊS
                     <span style="color: #d33245"
-                      >EM 3 PASSOS!</span
+                      >SEM EXPERIÊNCIA NA ÁREA!</span
                     >
                   </h2>
                 </div>
-           <a id="top">       <h4 style="color:white;">Inscreva-se agora para assistir à aula gratuita!</h4> </a>
+           <a id="top">       <h4 style="color:white;">Inscreva-se agora para assistir à aula ao vivo gratuita!</h4> </a>
               </div>
               <div
                 class="elementor-element elementor-element-95fd4f7 elementor-mobile-button-align-center elementor-button-align-stretch elementor-widget elementor-widget-form"
