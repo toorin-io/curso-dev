@@ -817,6 +817,16 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
+  .hero {
+    height: auto;
+  }
+  .hero-dark-blue {
+    padding: 2rem 0;
+  }
+  .container-dark-blue {
+    padding: 2rem 0;
+  }
+
   .gallery-column {
     flex: 100%;
     max-width: 100%;
