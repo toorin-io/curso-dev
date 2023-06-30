@@ -1,4 +1,5 @@
-<section class="container-light-gray text-gray-800">
+<section class="container-light-gray text-gray-800">    
+    <h2 class="title text-primary">IMERSÃO VIRE DEV</h2>
   <div class="content what-is">
     <div class="what-is-left">
       <i class="fas fa-quote-left"></i>
