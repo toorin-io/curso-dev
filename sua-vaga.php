@@ -2070,7 +2070,7 @@
                         <div class="elementor-widget-container">
                           <div class="elementor-wrapper elementor-open-inline">
                      
-                              <iframe class="elementor-video-iframe" width="560" height="315" src="https://www.youtube.com/embed/DMN8ASF8Xgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                              <iframe class="elementor-video-iframe" width="560" height="315" src="https://www.youtube.com/embed/DMN8ASF8Xgo"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                           </div>
                         </div>
                       </div>

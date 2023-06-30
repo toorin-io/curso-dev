@@ -4,44 +4,36 @@
 
 	<title>Siga a instrução abaixo para acessar imediatamente a imersão!</title>
 	  
-<?php
-include("chunks/head/tags-head.php");
-
-include("chunks/head/meta-imersao.php");
-
-    ?>
+  <?php 
+    include("chunks/head/tags-head.php");
+    include("chunks/head/meta-imersao.php");
+  ?>
     
-    </head>
+		<link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
+</head>
+
 
 <body>
-    
-<?php
-include("chunks/body/tags-body.php");
-?>
+  <?php
+    include("chunks/body/tags-body.php");
+  ?>
 
-	<header class="content header">
-		<h1>Siga a instrução abaixo para garantir que você terá acesso à Imersão Vire Dev!</h1>
-	</header>
+  <main class="hero-info hero-dark-blue">
+    <div class="hero-overlay content">
+      <h2 class="text-white title text-center">			
+				Siga a instrução abaixo para garantir que você terá <span class="text-primary title">acesso à Imersão Vire Dev!</span>
+			</h2>      
 
-
-	<section class="selling-points">
-		<div class="content">
-			<p class="selling-text">
-                <strong><a class="selling-text-a" target="_blank" href="https://www.circle.co">Clique aqui para entrar na área de membros da Imersão Vire Dev!</a></strong>
-			</p>			
-
-		</div>
-	</section>
-
-
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-
-?>
-
-    
-    </body>
+			<a target="_blank" href="https://circle.so/" class="cta-button">
+      	Clique aqui para entrar na área de membros da Imersão Vire Dev!
+    	</a>
+    </div>
+  </main>
+  
+  <?php
+    include("chunks/body/vire-dev/fale-conosco.php");
+    include("chunks/body/vire-dev/footer.php");
+  ?>
+</body>
 
 </html>

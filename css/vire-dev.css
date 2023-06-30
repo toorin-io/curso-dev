@@ -36,6 +36,18 @@ a:hover {
   text-align: center;
 }
 
+.hero-info {
+  position: relative;
+  background-image: url("../images/bg.jpg");
+  background-position: bottom;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
 .hero-overlay {
   position: relative;
   z-index: 1;
@@ -58,6 +70,17 @@ a:hover {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 19, 75, 0.8);
+  z-index: 1;
+}
+
+.hero-info::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 19, 75, 0.5);
   z-index: 1;
 }
 
@@ -198,6 +221,14 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+.highlight {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
 .text {
   font-size: 1.6rem;
 }
@@ -218,6 +249,7 @@ a:hover {
   flex-grow: 1;
   gap: 1rem;
   padding: 8px;
+  text-align: center;
 }
 
 .icon-box-v strong {
@@ -252,7 +284,7 @@ a:hover {
 .icon-wrapper,
 .videos-wrapper,
 .flex-wrapper {
-  margin-top: 1.6rem;
+  margin-top: 2.4rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -687,7 +719,7 @@ footer {
 }
 
 .hero-dark-blue::before {
-  background-color: rgba(0, 4, 39, 0.9);
+  background-color: rgba(0, 4, 39, 0.8);
 }
 
 .hero-overlay-conheca a {
@@ -751,6 +783,10 @@ footer {
   .container-white {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  .hero-info {
+    height: auto;
   }
 
   .hero-wrapper {
