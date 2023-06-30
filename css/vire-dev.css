@@ -759,6 +759,10 @@ footer {
     text-align: center;
   }
 
+  .hero-overlay {
+    text-align: center;
+  }
+
   .hero-overlay-conheca {
     display: none;
   }
