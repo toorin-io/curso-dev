@@ -658,6 +658,8 @@ details > p {
 
   transition: all 0.3s;
   cursor: pointer;
+
+  z-index: 1;
 }
 
 .whatsapp-floating-button a {
