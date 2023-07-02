@@ -29,8 +29,8 @@ a:hover {
 .hero {
   position: relative;
   padding: 16rem 0;
-  background-image: url("../images/hero-bg.png");
-  background-position: center center;
+  background-image: url("../images/bg.jpg");
+  background-position: bottom;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
   height: 100%;
   text-align: center;
@@ -41,6 +41,15 @@ a:hover {
   z-index: 1;
 }
 
+.hero-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.hero-wrapper a {
+  margin: 2.4rem 0;
+}
+
 .hero::before {
   content: "";
   position: absolute;
@@ -48,7 +57,7 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 19, 75, 0.6);
+  background-color: rgba(0, 19, 75, 0.8);
   z-index: 1;
 }
 
@@ -649,6 +658,8 @@ details > p {
 
   transition: all 0.3s;
   cursor: pointer;
+
+  z-index: 1;
 }
 
 .whatsapp-floating-button a {
@@ -678,7 +689,7 @@ footer {
 }
 
 .hero-dark-blue::before {
-  background-color: rgba(0, 15, 45, 0.9);
+  background-color: rgba(0, 4, 39, 0.9);
 }
 
 .hero-overlay-conheca a {
@@ -742,6 +753,16 @@ footer {
   .container-white {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  .hero-wrapper {
+    flex-direction: column-reverse;
+    gap: 3.2rem;
+    text-align: center;
+  }
+
+  .hero-overlay {
+    text-align: center;
   }
 
   .hero-overlay-conheca {
