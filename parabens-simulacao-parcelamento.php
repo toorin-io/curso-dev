@@ -1,55 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-
-	<title>Parabéns por se cadastrar para se matrícular sem limite e sem cartão!</title>
-	  
-<?php
-include("chunks/head/tags-head.php");
-
-include("chunks/head/meta-aula.php");
-
-    ?>
-    
-    </head>
+	<head>
+		<title>Parabéns por se cadastrar para se matrícular sem limite e sem cartão!</title>
+			
+		<?php
+			include("chunks/head/tags-head.php");
+			include("chunks/head/meta-aula.php");
+		?>
+			
+		<link rel="stylesheet" type="text/css" href="css/vire-dev.css" />		
+	</head>
 
 <body>
-    
-<?php
-include("chunks/body/tags-body.php");
-?>
+			
+	<?php
+		include("chunks/body/tags-body.php");
+	?>
 
-	<header class="content header">
-		<h1>Só falta mais 1 passo para saber o resultado da avaliação do seu CPF!</h1>
-	</header>
+	<main class="hero hero-dark-blue">
+		<div class="hero-overlay content">
+			<h2 class="text-white title text-center">
+				Só falta mais 1 passo para saber o resultado da avaliação do seu CPF!
+			</h2>     
+			
+			<div class="video-box">
+				<iframe width="100%" src="https://www.youtube.com/embed/TAbn3aEwa2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
 
-	<section class="content">
-		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/TAbn3aEwa2U?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="salaries">
+				<div class="salaries-box">
+					<a href="/whatsapp-simulacao" target="_blank">
+						<div class="icon-box-v">
+							<h3 class="subtitle text-primary">Próximo Passo</h3>
+							<i class="fa-brands fa-whatsapp text-white"></i>
+							<p class="text-white"><span class="text text-primary">Avise pelo WhatsApp</span> que preencheu o formulário para saber se seu CPF foi aprovado!</p>
+						</div>
+					</a>
+				</div>
+			</div>				
 		</div>
-	</section>
+	</main>
 
-	<section class="selling-points">
-		<div class="content">
-			<p class="selling-text">
-				<strong>Próximo Passo</strong>
-                <a target="_blank" href="whatsapp-simulacao" style="color:#ffffff">Avise pelo WhatsApp</a> que preencheu o formulário para saber se seu CPF foi aprovado!
-				<span>
-					<a target="_blank" href="whatsapp-simulacao"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
-				</span>
-			</p>
-		</div>
-	</section>
-
-
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-
-?>
-
-    
-    </body>
+	<?php
+		include("chunks/body/vire-dev/fale-conosco.php");
+		include("chunks/body/vire-dev/footer.php");
+	?>  
+</body>
 
 </html>

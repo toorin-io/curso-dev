@@ -1,59 +1,65 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
+  <title>Parabéns por se inscrever para participar da aula ao vivo!</title>
 
-	<title>Parabéns por se inscrever para participar da aula ao vivo!</title>
+  <?php
+    include("chunks/head/tags-head.php");
+    include("chunks/head/meta-imersao.php");
+  ?>
 
-<?php
-include("chunks/head/tags-head.php");
-
-include("chunks/head/meta-imersao.php");
-?> 
-    
-    </head>
+  <link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
+</head>
 
 <body>
-    
-<?php
-include("chunks/body/tags-body.php");
-?>
+  <?php
+    include("chunks/body/tags-body.php");
+  ?>
 
-	<header class="content header">
-		<h1>Você está inscrito para a aula que acontecerá na segunda-feira às 7 horas da noite!</h1>
-	</header>
+  <main class="hero hero-dark-blue">
+    <div class="hero-overlay content">
+      <h2 class="text-white title text-center">			
+        Você está inscrito para a aula que acontecerá na <span class="text-center title text-primary">segunda-feira, às
+          7 horas da noite!</span>
+			</h2>
+      <div class="video-box">
+        <iframe width="100%" src="https://www.youtube.com/embed/uH91xgjUumE" 
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </div>
+    </div>
+  </main>
 
-    	<section class="content">
-		<div class="video">
-			<iframe width="100%" height="550px" src="https://www.youtube.com/embed/uH91xgjUumE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
-	</section>
-
-	<section class="selling-points">
-		<div class="content">
-            <p class="selling-text">
-				<strong>Entre agora no grupo</strong>
-				Não esqueça da aula! Receba o link no seu WhatsApp clicando abaixo!
-				<span>
-					<a target="_blank" href="whatsapp-grupo-ao-vivo"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
-                </span>
-			</p>
-			<p class="selling-text">
-				<strong>Conheça o meu método</strong>
-				Assista agora à aula com a estratégia dos 3 passos para começar sua carreira como dev!
-				<span>
-					<a target="_blank" href="aula"><img class="selling-icon" src="images/icons/speaking.png" alt=""></a>
-				</span>
-			</p>    
-		</div>
-	</section>
-
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-
-?>
-    
-    </body>
+  <section class="container-dark-blue">
+    <div class="content flex-wrapper">
+      <a href="/whatsapp-grupo-ao-vivo">
+        <div class="icon-box-v">
+          <h3 class="subtitle text-primary">Entre agora no grupo</h3>
+          <i class="fa-brands fa-whatsapp text-white"></i>
+          <p class="text text-gray-200">
+            Não esqueça da aula! Receba o link no seu WhatsApp <span class="text-primary text">clicando aqui!</span>
+          </p>
+        </div>
+      </a>
+      <a href="/aula">
+        <div class="icon-box-v">
+          <h3 class="subtitle text-primary">Conheça o meu método</h3>
+          <i class="fa-solid fa-bullhorn text-white"></i>
+          <p class="text text-gray-200">
+            Assista agora à aula com a <span class="text-primary text">estratégia dos 3 passos</span> para começar sua
+            carreira como dev!
+          </p>
+        </div>
+      </a>
+    </div>
+  </section>
+  
+  <?php
+    include("chunks/body/vire-dev/fale-conosco.php");
+    include("chunks/body/vire-dev/footer.php");
+  ?>
+</body>
 
 </html>

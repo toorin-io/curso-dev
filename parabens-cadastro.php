@@ -1,61 +1,69 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
 
+<head>
 	<title>Parabéns por se inscrever para receber em primeira mão minhas novas aulas!</title>
 
-<?php
-include("chunks/head/tags-head.php");
+  <?php
+		include("chunks/head/tags-head.php");
+		include("chunks/head/meta-imersao.php");
+	?>
 
-include("chunks/head/meta-imersao.php");
-?> 
-    
-    </head>
+  <link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
+</head>
 
 <body>
-    
-<?php
-include("chunks/body/tags-body.php");
-?>
+  <?php
+		include("chunks/body/tags-body.php");
+	?>
 
-	<header class="content header">
-		<h1>Siga os 3 passos abaixo para garantir que você terá acesso aos próximos conteúdos gratuitos!</h1>
-	</header>
+  <main class="hero-info hero-dark-blue">
+    <div class="hero-overlay content">
+      <h2 class="text-white title text-center">			
+				Siga os 3 passos abaixo para garantir que você terá acesso aos próximos <span class="text text-primary">conteúdos gratuitos!</span>
+			</h2>      
 
+			<div class="content flex-wrapper">
+				<div class="salaries">
+					<a href="/instagram" target="_blank">
+						<div class="salaries-box">
+							<div class="icon-box-v">
+								<h3 class="subtitle text-primary">Passo 1</h3>
+								<i class="fa-brands fa-whatsapp text-white"></i>
+								<p class="text text-gray-200">Me siga lá no Instagram!</p>
+							</div>
+						</div>
+					</a>
 
-	<section class="selling-points">
-		<div class="content">
-            <p class="selling-text">
-				<strong>Passo 1</strong>
-				Me siga lá no Instagram!
-				<span>
-					<a target="_blank" href="instagram"><img class="selling-icon" src="images/icons/instagram.png" alt=""></a>
-				</span>
-			</p>
-			<p class="selling-text">
-				<strong>Passo 2</strong>
-				Entre no canal do Telegram!
-				<span>
-					<a target="_blank" href="telegram"><img class="selling-icon" src="images/icons/telegram.png" alt=""></a>
-				</span>
-			</p>
-			<p class="selling-text">
-				<strong>Passo 3</strong>
-				Me avise pelo WhatsApp!
-				<span>
-					<a target="_blank" href="whatsapp-aviso"><img class="selling-icon" src="images/icons/whatsapp.png" alt=""></a>
-				</span>
-			</p>        
-		</div>
-	</section>
+					<a href="/telegram" target="_blank">				
+					<div class="salaries-box">
+							<div class="icon-box-v">				
+								<h3 class="subtitle text-primary">Passo 2</h3>
+								<i class="fa-solid fa-paper-plane text-white"></i>
+								<p class="text text-gray-200">Entre no canal do Telegram!</p>					
+							</div>
+						</div>
+					</a>
 
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-
-?>
-    
-    </body>
+					<a href="/whatsapp-aviso" target="_blank">
+					<div class="salaries-box">
+							<div class="icon-box-v">
+								<h3 class="subtitle text-primary">Passo 3</h3>
+								<i class="fa-solid fa-bullhorn text-white"></i>
+								<p class="text text-gray-200">Me avise pelo WhatsApp!</p>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+    </div>
+  </main>
+  
+	<?php
+		include("chunks/body/vire-dev/fale-conosco.php");
+		include("chunks/body/vire-dev/footer.php");
+	?>
+</body>
 
 </html>
+
