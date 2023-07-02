@@ -20,7 +20,7 @@
   <main class="hero-info hero-dark-blue">
     <div class="hero-overlay content">
       <h2 class="text-white title text-center">			
-				Siga os 3 passos abaixo para garantir que você terá acesso aos próximos <span class="text text-primary">conteúdos gratuitos!</span>
+				Siga os 3 passos abaixo para garantir que você terá acesso aos próximos <span class="title text-primary">conteúdos gratuitos!</span>
 			</h2>      
 
 			<div class="content flex-wrapper">
