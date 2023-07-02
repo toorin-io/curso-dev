@@ -1,4 +1,4 @@
 <?php
-$link = "https://chat.whatsapp.com/CU4VgH9C1fmHtFcPYqJ7Yh";
+$link = "https://chat.whatsapp.com/F85is2H7qprBQLrbfvZuKt";
 include("redirect.php");
 ?>
