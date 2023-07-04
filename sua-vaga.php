@@ -7,7 +7,7 @@
     content="width=device-width, initial-scale=1.0, viewport-fit=cover"
   />
   
-  <title>Descubra os 3 passos para ser o dev desejado pelo mercado!</title>
+  <title>Descubra os 3 passos para ser o dev desejado pelo mercado</title>
   <?php
     include("chunks/head/tags-head.php");
     
