@@ -18,7 +18,7 @@
       </div>
     </div>
 
-    <div class="video-box">
+    <div>
         <img src="images/pedromarins-transparent.png">
     </div>    
   </div>
