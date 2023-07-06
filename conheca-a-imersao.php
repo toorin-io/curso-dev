@@ -19,6 +19,7 @@
     include("chunks/body/vire-dev/chamada-com-video-pitch.php");
     include("chunks/body/vire-dev/pra-quem-e.php");    
     include("chunks/body/vire-dev/o-que-e.php");    
+    include("chunks/body/vire-dev/bonus.php");
     include("chunks/body/vire-dev/milhares-de-vagas-abertas.php");    
     include("chunks/body/vire-dev/conheca-sua-jornada.php");    
     include("chunks/body/vire-dev/pra-quem-nao-e.php");    

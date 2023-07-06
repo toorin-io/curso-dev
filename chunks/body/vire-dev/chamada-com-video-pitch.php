@@ -1,8 +1,7 @@
 <main class="hero hero-dark-blue">
   <div class="hero-overlay hero-overlay-conheca content">
   
-    <div>
-      <span class="text-primary conheca-title">Imersão</span>
+    <div>      
       <h1 class="conheca-headline text-white">VIRE DEV</h1>
       <h4 class="conheca-subheadline text-gray-400">
         O método que você precisa para se tornar o dev desejado pelo mercado!
