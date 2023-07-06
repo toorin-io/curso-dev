@@ -814,6 +814,10 @@ footer {
     text-align: center;
   }
 
+  .hero-wrapper img {
+    width: 100%;
+  }
+
   .hero-overlay {
     text-align: center;
   }
