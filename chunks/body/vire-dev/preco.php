@@ -30,11 +30,16 @@ include("botao-matricula.php");
             <i class="fas fa-check"> </i>Encontros ao vivo (com acesso às
             gravações por 1 ano)
           </li>
-          <li><i class="fas fa-check"></i>+200 aulas gravadas</li>
+          <li><i class="fas fa-check"></i>+ 200 aulas gravadas</li>
           <li><i class="fas fa-check"></i>Exercícios diários</li>
           <li><i class="fas fa-check"></i>Acesso à guias especialistas</li>
           <li><i class="fas fa-check"></i>Grupo do time de alunos</li>
+          <li><i class="fas fa-check"></i><span class="text-primary font-semibold">[BÔNUS]</span>Revisão LinkedIn Dev</li>
+          <li><i class="fas fa-check"></i><span class="text-primary font-semibold">[BÔNUS]</span>Acesso ao Live Code</li>          
         </ul>
+
+        
+        
       </div>
     </div>
   </div>
