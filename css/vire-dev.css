@@ -17,7 +17,7 @@ textarea {
 
 a {
   text-decoration: none;
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -32,7 +32,6 @@ a:hover {
   background-image: url("../images/bg.jpg");
   background-position: bottom;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-  height: 100%;
   text-align: center;
 }
 
@@ -93,7 +92,7 @@ a:hover {
 }
 
 .headline {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 7.2rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -196,6 +195,10 @@ a:hover {
   font-weight: 600;
 }
 
+.font-medium {
+  font-weight: 500;
+}
+
 .mx-0 {
   margin-left: 0;
   margin-right: 0;
@@ -218,6 +221,14 @@ a:hover {
   margin: 0 auto;
 }
 
+.mt-4 {
+  margin-top: 1.6rem;
+}
+
+.pb-5 {
+  padding-bottom: 2rem;
+}
+
 .flex-1 {
   flex: 1;
 }
@@ -231,7 +242,7 @@ a:hover {
 }
 
 .title {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 2.4rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -239,7 +250,7 @@ a:hover {
 }
 
 .highlight {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 3.2rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -248,6 +259,24 @@ a:hover {
 
 .text {
   font-size: 1.6rem;
+}
+.text-lg {
+  font-size: 1.8rem;
+}
+.text-xl {
+  font-size: 2rem;
+}
+.text-2xl {
+  font-size: 2.4rem;
+}
+.text-3xl {
+  font-size: 3.2rem;
+}
+.text-4xl {
+  font-size: 3.6rem;
+}
+.text-5xl {
+  font-size: 4.8rem;
 }
 
 .icon-boxes {
@@ -374,7 +403,7 @@ a:hover {
 }
 
 .testimonal-name {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 1.8rem;
   cursor: pointer;
 }
@@ -461,7 +490,7 @@ a:hover {
 }
 
 .salaries-box h2 {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 3.6rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -469,7 +498,7 @@ a:hover {
 }
 
 .salaries-box h3 {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 2rem;
   font-weight: 700;
 }
@@ -546,7 +575,7 @@ a:hover {
   flex-direction: column;
   gap: 1.6rem;
 
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
 }
 
 .price-left p {
@@ -581,7 +610,7 @@ a:hover {
 }
 
 .price-right strong {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 1.8rem;
   text-transform: uppercase;
 }
@@ -725,7 +754,7 @@ details > p {
 
 footer {
   padding: 1rem 0;
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 2.4rem;
@@ -752,12 +781,23 @@ footer {
   align-items: center;
 }
 
+.hero-overlay-flex a {
+  margin: 2.4rem 0 0;
+}
+
+.hero-overlay-flex {
+  display: grid;
+  grid-template-columns: 45% 65%;
+  gap: 32px;
+  align-items: center;
+}
+
 .hero-overlay-conheca-mobile {
   display: none;
 }
 
 .conheca-title {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 1.2rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -765,7 +805,7 @@ footer {
 }
 
 .conheca-headline {
-  font-family: "Montserrat", Sans-serif;
+  font-family: "Sora", Sans-serif;
   font-size: 6rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -792,6 +832,30 @@ footer {
 
 .conheca-text-icon i {
   font-size: 1rem;
+}
+
+.float-button {
+  text-align: center;
+  width: 50%;
+  padding: 1em 0;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(180deg, #62cffd 0%, #16a5dc 100%);
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  position: fixed;
+  bottom: 20px;
+  text-decoration: none;
+  display: block;
+  z-index: 1000;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.float-button:hover {
+  background: #16a5dc;
+  color: white;
 }
 
 @media screen and (max-width: 800px) {
@@ -823,7 +887,12 @@ footer {
   }
 
   .hero-overlay-conheca {
-    display: none;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .hero-overlay-conheca img {
+    width: 100%;
   }
 
   .hero-overlay-conheca-mobile {
@@ -832,6 +901,10 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+  }
+
+  .hero-overlay-flex {
+    flex-direction: column;
   }
 
   .content {
@@ -891,6 +964,11 @@ footer {
   .price-left,
   .price-right {
     width: 100%;
+  }
+
+  .float-button {
+    width: 80%;
+    margin: auto;
   }
 }
 
