@@ -99,10 +99,13 @@
             Email: contato@codeconhecimento.com.br
         </section>
 
+        <a href="/imersao" class="cta-button">
+            Conheça mais sobre a Imersão Vire Dev
+        </a>
+
     </div>
   
-    <?php
-        include("chunks/body/float-button.php");
+    <?php        
         include("chunks/body/vire-dev/fale-conosco.php");      
         include("chunks/body/vire-dev/footer.php");    
     ?>     
