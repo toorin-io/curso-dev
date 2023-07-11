@@ -162,13 +162,13 @@ body.mentoria {
   font-size: 3em;
   color: #333b46;
   text-align: center;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Sora", sans-serif;
 }
 
 h1 {
   font-size: 2.5em;
   color: #d83a4e;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Sora", sans-serif;
 }
 
 .action-button {
@@ -753,13 +753,13 @@ p.footer-links {
   .page-title {
     padding-left: 1em;
     padding-right: 1em;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Sora", sans-serif;
   }
 
   h1,
   .page-title {
     font-size: 2em;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Sora", sans-serif;
   }
 
   .selling-points .content {

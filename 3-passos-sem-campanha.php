@@ -4,50 +4,39 @@
 
 	<title>Cadastre-se para receber mais materiais sobre como Conquistar Sua Vaga!</title>
 
-<?php
-include("chunks/head/tags-head.php");
-
-include("chunks/head/meta-aula-encerrada.php");
-?>
+	<?php
+		include("chunks/head/tags-head.php");
+		include("chunks/head/meta-aula-encerrada.php");
+	?>
     
-
-<?php
-
-?>
-
-       
+	<link rel="stylesheet" type="text/css" href="css/vire-dev.css" />		
+  
 </head>
 
-<body>
-    
-<?php
-include("chunks/body/tags-body.php");
-?>
+<body>    
+	<?php
+	include("chunks/body/tags-body.php");
+	?>
 
-	<header class="content" id="home">
-		<h1 class="page-title">Acesso à aula gratuita encerrado!</h1>
+<main class="hero hero-dark-blue">
+    <div class="hero-overlay hero-overlay-flex content">    
+      <div>      
+        <h2 class="text-white highlight">ACESSO À AULA GRATUITA ENCERRADO!</h2>    
+        <h3 class="subheadline text-gray-400">Inscreva-se para ter acesso a mais materiais sobre como conquistar sua vaga</h3>                
+      </div>
 
-        <div class="presentation">
-			<h2>Inscreva-se para ter acesso a mais materiais sobre como conquistar sua vaga!</h2>
-
-<?php
-include("chunks/body/ac-form-em-breve.php");
-?>
-    
-            
-		</div>
-		
-	</header>
-
+      <div>
+				<?php
+					include("chunks/body/ac-form-em-breve.php");
+				?>
+			</div>
+    </div>
+  </main>
 	
-
-<?php
-include("chunks/body/footer.php");
-include("chunks/body/top-stripe.php");
-include("chunks/body/bottom-stripe.php");
-
-?>
+  <?php        
+    include("chunks/body/vire-dev/fale-conosco.php");      
+    include("chunks/body/vire-dev/footer.php");    
+  ?>     
     
-    </body>
-
+</body>
 </html>

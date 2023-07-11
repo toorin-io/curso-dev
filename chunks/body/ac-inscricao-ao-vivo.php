@@ -87,7 +87,7 @@
  @media all and (min-width:320px) and (max-width:667px) { #_form_10_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
  }
 </style>
-<link href="https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Roboto&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato&family=Sora&family=Roboto&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
   <form method="POST" action="https://conquistandosuavaga.activehosted.com/proc.php" id="_form_10_" class="_form _form_10 _inline-form  _dark" novalidate>
     <input type="hidden" name="u" value="10" />
     <input type="hidden" name="f" value="10" />

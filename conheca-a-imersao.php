@@ -23,7 +23,7 @@
     include("chunks/body/vire-dev/milhares-de-vagas-abertas.php");    
     include("chunks/body/vire-dev/conheca-sua-jornada.php");    
     include("chunks/body/vire-dev/pra-quem-nao-e.php");    
-    include("chunks/body/vire-dev/proxima-turma.php");    
+    // include("chunks/body/vire-dev/proxima-turma.php");    
     include("chunks/body/vire-dev/quem-e-pedro-marins.php");  
     include("chunks/body/vire-dev/preco.php");    
     include("chunks/body/vire-dev/matricula-parcelada-sem-cartao.php");    
