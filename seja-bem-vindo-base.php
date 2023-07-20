@@ -2,67 +2,68 @@
 <html lang="pt-BR">
 
 <head>
-  <title>Parabéns por se inscrever para participar da aula ao vivo!</title>
-  
+	<title>Parabéns por se inscrever para receber em primeira mão minhas novas aulas!</title>
+
   <?php
-    include("chunks/head/tags-head.php");
-    include("chunks/head/meta-imersao.php");
-  ?>
+		include("chunks/head/tags-head.php");
+		include("chunks/head/meta-imersao.php");
+	?>
 
   <link rel="stylesheet" type="text/css" href="css/vire-dev.css" />
 </head>
 
 <body>
   <?php
-    include("chunks/body/tags-body.php");
-  ?>
-  
-  <main class="hero hero-dark-blue">
+		include("chunks/body/tags-body.php");
+	?>
+
+  <main class="hero-info hero-dark-blue">
     <div class="hero-overlay content">
-      <h2 class="text-white title text-center">
-        Você está inscrito para a aula que acontecerá na <span class="text-center title text-primary">segunda-feira, às
-          7 horas da noite!</span>
-      </h2>     
-      
-      <div class="video-box">
-        <iframe width="100%" src="https://www.youtube.com/embed/uH91xgjUumE"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
+      <h2 class="text-white title text-center">			
+				Siga os 3 passos abaixo para garantir que você terá acesso aos próximos <span class="title text-primary">conteúdos gratuitos!</span>
+			</h2>      
+
+			<div class="content flex-wrapper">
+				<div class="salaries">
+					<a href="/instagram" target="_blank">
+						<div class="salaries-box">
+							<div class="icon-box-v">
+								<h3 class="subtitle text-primary">Passo 1</h3>
+								<i class="fa-brands fa-whatsapp text-white"></i>
+								<p class="text text-gray-200">Me siga lá no Instagram!</p>
+							</div>
+						</div>
+					</a>
+
+					<a href="/telegram" target="_blank">				
+					<div class="salaries-box">
+							<div class="icon-box-v">				
+								<h3 class="subtitle text-primary">Passo 2</h3>
+								<i class="fa-solid fa-paper-plane text-white"></i>
+								<p class="text text-gray-200">Entre no canal do Telegram!</p>					
+							</div>
+						</div>
+					</a>
+
+					<a href="/whatsapp-aviso" target="_blank">
+					<div class="salaries-box">
+							<div class="icon-box-v">
+								<h3 class="subtitle text-primary">Passo 3</h3>
+								<i class="fa-solid fa-bullhorn text-white"></i>
+								<p class="text text-gray-200">Me avise pelo WhatsApp!</p>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
     </div>
   </main>
-
-  <section class="container-dark-blue">
-    <div class="content flex-wrapper">
-      <div class="salaries">
-        <a href="/whatsapp-grupo-ao-vivo">
-          <div class="icon-box-v">
-            <h3 class="subtitle text-primary">Passo 1</h3>
-            <i class="fa-brands fa-whatsapp text-white"></i>
-            <p class="text text-gray-200">
-              Não esqueça da aula! Receba o link no seu WhatsApp <span class="text-primary text">clicando aqui!</span>
-            </p>
-          </div>
-        </a>
-        <a href="/aula">
-          <div class="icon-box-v">
-            <h3 class="subtitle text-primary">Passo 2</h3>
-            <i class="fa-solid fa-bullhorn text-white"></i>
-            <p class="text text-gray-200">
-              Assista agora à aula com a <span class="text-primary text">estratégia dos 3 passos</span> para começar sua
-              carreira como dev!
-            </p>
-          </div>
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <?php
-    include("chunks/body/vire-dev/fale-conosco.php");
-    include("chunks/body/vire-dev/footer.php");
-  ?>
+  
+	<?php
+		include("chunks/body/vire-dev/fale-conosco.php");
+		include("chunks/body/vire-dev/footer.php");
+	?>
 </body>
 
 </html>
+

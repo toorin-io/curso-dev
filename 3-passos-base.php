@@ -31,15 +31,15 @@ $utm_content = isset($_GET['utm_content'])?$_GET['utm_content'] : null;
     
       <div>      
         <h2 class="text-white highlight">
-          DESCUBRA COMO <span class="text-primary highlight">SER CONTRATADO COMO DEV</span> GANHANDO 5 MIL POR MÊS <span class="text-primary highlight">SEM EXPERIÊNCIA NA ÁREA!</span>
+          SE CADASTRE PARA RECEBER MEUS CONTEÚDOS PARA <span class="text-primary highlight">COMEÇAR SUA CARREIRA COMO DEV!</span>          
         </h2>    
 
         <h3 class="subheadline text-gray-400">Inscreva-se agora para assistir à aula ao vivo gratuita!</h3>
 
         <div>
           <?php
-            include("chunks/body/ac-form-aula-campanha.php");
-          ?>
+						include("chunks/body/ac-form-em-breve.php");
+					?>
         </div>
         
       </div>
